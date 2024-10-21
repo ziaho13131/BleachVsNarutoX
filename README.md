@@ -30,7 +30,7 @@
 
 **死神vs火影** 使用 ***ActionScript 3.0*** 脚本语言编写，主要支持平台包括 **Windows, MacOS, Android** 。
 
-当前主版本基于OpenBvn3.4 5DPLAY版权所有，OpenBVN 由 5DPLAY 技术支持 本人只是在这基础上修改。
+当前主版本基于OpenBvn3.4 5DPLAY版权所有，OpenBVN 由 5DPLAY 技术支持 本人只是在这基础上进行二次修改。
 
 ## 更新日志
 
