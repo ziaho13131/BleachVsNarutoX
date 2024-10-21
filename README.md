@@ -17,7 +17,13 @@
   
   ## 工程状态
 
+![Star:Latest](https://img.shields.io/github/stars/ziaho13131/BleachVsNarutoX)
+![Fork:Latest](https://img.shields.io/github/forks/ziaho13131/BleachVsNarutoX)
+![Follower:Latest](https://img.shields.io/github/followers/ziaho13131)
 
+![Contributors:Latest](https://img.shields.io/github/contributors/ziaho13131/BleachVsNarutoX)
+![Created:Latest](https://img.shields.io/github/created-at/ziaho13131/BleachVsNarutoX)
+![License:Latest](https://img.shields.io/github/license/ziaho13131/BleachVsNarutoX)
 
 ![TopLanguage:Latest](https://img.shields.io/github/languages/top/ziaho13131/BleachVsNarutoX)
 ![Tag:Latest](https://img.shields.io/github/v/tag/5DPLAY-Game-Studio/ziaho13131/BleachVsNarutoX)
