@@ -23,7 +23,7 @@
 
 ![Contributors:Latest](https://img.shields.io/github/contributors/ziaho13131/BleachVsNarutoX)
 ![Created:Latest](https://img.shields.io/github/created-at/ziaho13131/BleachVsNarutoX)
-
+![License:Latest](https://img.shields.io/github/license/ziaho13131/BleachVsNarutoX)
 
 ![TopLanguage:Latest](https://img.shields.io/github/languages/top/ziaho13131/BleachVsNarutoX)
 ![Tag:Latest](https://img.shields.io/github/v/tag/5DPLAY-Game-Studio/ziaho13131/BleachVsNarutoX)
