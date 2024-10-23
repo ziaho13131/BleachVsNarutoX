@@ -40,7 +40,7 @@
 
 - **操作系统**：最低要求》 ***Windows7 SP1 旗舰版 64位 简体中文版***。
 - **软件**：***Adobe Flash Builder 4.7*** （简称FB）。
-- **软件**：***Adobe Animate 2018*** （简称AN)。
+- **软件**：***Adobe Animate CC 2018*** （简称AN)。
 - 在你的工程目录下新建【bvn_work/】文件夹，在【bvn_work/】下解压【swf_output.7z】与【swf_source.7z】文件内容，
 - 此时【bvn_work/】下应该有【swf_output/】和【swf_source/】。
 - 为保证工程尽量正常运行，请避免工程路径包含空格。
