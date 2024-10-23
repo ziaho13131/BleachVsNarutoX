@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_019" itemID="624bac53-000057c5" sourceFlashFilepath="../../cs3/itachi.fla" sourceLibraryItemHRef="效果/鼬-泡沫1" sourceLastModified="1379919835" lastModified="1649126483" lastUniqueIdentifier="10" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_019">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_008" name="main" centerPoint3DX="37.15" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="4.2" ty="4.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.95" y="20.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="0.1" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.1" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.1" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.1" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

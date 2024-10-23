@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_022" itemID="65fc5ce7-000009d6" sourceFlashFilepath="2.1更新\konan2.fla" sourceLibraryItemHRef="元件 1075" sourceLastModified="1418300754" lastModified="1711037671" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_022" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_015" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5054931640625" d="0.5054931640625" tx="-63.65" ty="53.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.45" y="27.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_258"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_137">
+                  <matrix>
+                    <Matrix ty="-0.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

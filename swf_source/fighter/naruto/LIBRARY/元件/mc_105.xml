@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_105" itemID="5f2bf444-00000b06" sourceFlashFilepath="../../../1.7更新/minren3.fla" sourceLibraryItemHRef="角色-火影/鸣人/四尾-超必杀效果" sourceLastModified="1341660744" lastModified="1596716100" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_105">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-0.45" ty="-3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.9" y="68.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

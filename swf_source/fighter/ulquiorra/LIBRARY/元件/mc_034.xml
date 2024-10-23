@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_034" itemID="624b96ba-00001dbc" lastModified="1649120954">
+  <timeline>
+    <DOMTimeline name="mc_034">
+      <layers>
+        <DOMLayer name="图层 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_036" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-168.25" ty="-43.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="14"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-255" blueOffset="-255" greenOffset="-255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_248">
+                  <matrix>
+                    <Matrix tx="26.5" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_224">
+                  <matrix>
+                    <Matrix tx="29.75" ty="5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_019" itemID="5f2bf444-00000ab0" sourceFlashFilepath="../../../1.7更新/minren3.fla" sourceLibraryItemHRef="效果/飞镖" sourceLastModified="1188043158" lastModified="1596716100" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_019" currentFrame="5">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_201">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-55.55" ty="-14.7"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!476 330[487 327 494 325!494 325[599 351 697 394!697 394|697 10!697 10|13 10!13 10|13 398!13 398|24 398!24 398[4 342 79 325!79 325[199 331 262 398!262 398|384 398!384 398[402 376 425 364!425 364[440 341 476 330"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_202">
+                            <matrix>
+                              <Matrix a="19.96826171875" d="20" tx="-61.25" ty="-9.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!711 374|711 90!711 90|79 90!79 90|79 374!79 374|711 374"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_203">
+                            <matrix>
+                              <Matrix a="19.9655151367188" d="20" tx="-67" ty="-4.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!652 372|652 88!652 88|74 88!74 88|74 372!74 372|652 372"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

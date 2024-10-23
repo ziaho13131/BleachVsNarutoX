@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_007" itemID="624bb420-00006ea8" symbolType="graphic" lastModified="1649128480">
+  <timeline>
+    <DOMTimeline name="shape_007" currentFrame="19">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_021" symbolType="graphic" centerPoint3DX="38.4" centerPoint3DY="31.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.983535766601563" b="0.180694580078125" c="-0.180694580078125" d="0.983535766601563" tx="38.4" ty="31.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-38.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_021" symbolType="graphic" centerPoint3DX="38.45" centerPoint3DY="-20.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.98895263671875" b="-0.148178100585938" c="0.148178100585938" d="0.98895263671875" tx="38.5" ty="-20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-38.5" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_021" symbolType="graphic" centerPoint3DX="38.4" centerPoint3DY="31.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.983535766601563" b="0.180694580078125" c="-0.180694580078125" d="0.983535766601563" tx="38.4" ty="31.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-38.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

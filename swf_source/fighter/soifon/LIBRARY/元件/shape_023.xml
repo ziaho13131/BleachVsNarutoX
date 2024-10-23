@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_023" itemID="624baaa9-000053d4" symbolType="graphic" lastModified="1649126057">
+  <timeline>
+    <DOMTimeline name="shape_023" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_079">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="-12.7" ty="20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.45" y="30"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_080">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="0.9" ty="22.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="28.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_081">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="0.9" ty="23.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.45" y="28"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

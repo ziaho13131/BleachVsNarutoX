@@ -1,0 +1,416 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="080EAA051104AE4296B11146365694FC">
+     <folders>
+          <DOMFolderItem name="元件" itemID="5ef48485-00000901"/>
+          <DOMFolderItem name="字体" itemID="5ef48485-000008fd"/>
+          <DOMFolderItem name="图片" itemID="5ef48485-000008ff"/>
+          <DOMFolderItem name="声音" itemID="5ef48485-000008fe"/>
+          <DOMFolderItem name="组件" itemID="5ef48485-000008fc"/>
+          <DOMFolderItem name="视频" itemID="5ef48485-00000900"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="图片/picture_01" itemID="5efc61db-00000550" sourceExternalFilepath="./LIBRARY/图片/picture_01" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_01" bitmapDataHRef="M 120 1442199679.dat" frameRight="3000" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_02" itemID="5efc61db-00000551" sourceExternalFilepath="./LIBRARY/图片/picture_02" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_02" bitmapDataHRef="M 108 1442199679.dat" frameRight="380" frameBottom="120"/>
+          <DOMBitmapItem name="图片/picture_03" itemID="5efc61db-00000552" sourceExternalFilepath="./LIBRARY/图片/picture_03" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_03" bitmapDataHRef="M 98 1442199679.dat" frameRight="2740" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_04" itemID="5efc61db-00000553" sourceExternalFilepath="./LIBRARY/图片/picture_04" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_04" bitmapDataHRef="M 109 1442199679.dat" frameRight="1160" frameBottom="800"/>
+          <DOMBitmapItem name="图片/picture_05" itemID="5efc61db-00000554" sourceExternalFilepath="./LIBRARY/图片/picture_05" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_05" bitmapDataHRef="M 100 1442199679.dat" frameRight="2880" frameBottom="1920"/>
+          <DOMBitmapItem name="图片/picture_06" itemID="5efc61db-00000555" sourceExternalFilepath="./LIBRARY/图片/picture_06" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_06" bitmapDataHRef="M 121 1442199679.dat" frameRight="3000" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_07" itemID="5efc61db-00000556" sourceExternalFilepath="./LIBRARY/图片/picture_07" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_07" bitmapDataHRef="M 110 1442199679.dat" frameRight="1980" frameBottom="2120"/>
+          <DOMBitmapItem name="图片/picture_08" itemID="5efc61db-00000557" sourceExternalFilepath="./LIBRARY/图片/picture_08" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_08" bitmapDataHRef="M 101 1442199679.dat" frameRight="3780" frameBottom="2220"/>
+          <DOMBitmapItem name="图片/picture_09" itemID="5efc61db-00000558" sourceExternalFilepath="./LIBRARY/图片/picture_09" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_09" bitmapDataHRef="M 122 1442199679.dat" frameRight="3000" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_10" itemID="5efc61db-00000559" sourceExternalFilepath="./LIBRARY/图片/picture_10" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_10" bitmapDataHRef="M 111 1442199679.dat" frameRight="2960" frameBottom="2320"/>
+          <DOMBitmapItem name="图片/picture_11" itemID="5efc61db-0000055a" sourceExternalFilepath="./LIBRARY/图片/picture_11" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_11" bitmapDataHRef="M 102 1442199679.dat" frameRight="4520" frameBottom="2320"/>
+          <DOMBitmapItem name="图片/picture_12" itemID="5efc61db-0000055b" sourceExternalFilepath="./LIBRARY/图片/picture_12" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_12" bitmapDataHRef="M 112 1442199679.dat" frameRight="3380" frameBottom="2340"/>
+          <DOMBitmapItem name="图片/picture_13" itemID="5efc61db-0000055c" sourceExternalFilepath="./LIBRARY/图片/picture_13" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_13" bitmapDataHRef="M 103 1442199679.dat" frameRight="4800" frameBottom="2460"/>
+          <DOMBitmapItem name="图片/picture_14" itemID="5efc61db-0000055d" sourceExternalFilepath="./LIBRARY/图片/picture_14" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_14" bitmapDataHRef="M 113 1442199679.dat" frameRight="3360" frameBottom="2440"/>
+          <DOMBitmapItem name="图片/picture_15" itemID="5efc61db-0000055e" sourceExternalFilepath="./LIBRARY/图片/picture_15" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_15" bitmapDataHRef="M 104 1442199679.dat" frameRight="4820" frameBottom="2320"/>
+          <DOMBitmapItem name="图片/picture_16" itemID="5efc61db-0000055f" sourceExternalFilepath="./LIBRARY/图片/picture_16" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_16" bitmapDataHRef="M 114 1442199679.dat" frameRight="3360" frameBottom="2460"/>
+          <DOMBitmapItem name="图片/picture_17" itemID="5efc61db-00000560" sourceExternalFilepath="./LIBRARY/图片/picture_17" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_17" bitmapDataHRef="M 105 1442199679.dat" frameRight="4960" frameBottom="2300"/>
+          <DOMBitmapItem name="图片/picture_18" itemID="5efc61db-00000561" sourceExternalFilepath="./LIBRARY/图片/picture_18" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_18" bitmapDataHRef="M 115 1442199679.dat" frameRight="2860" frameBottom="2480"/>
+          <DOMBitmapItem name="图片/picture_19" itemID="5efc61db-00000562" sourceExternalFilepath="./LIBRARY/图片/picture_19" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_19" bitmapDataHRef="M 106 1442199679.dat" frameRight="4920" frameBottom="2280"/>
+          <DOMBitmapItem name="图片/picture_20" itemID="5efc61db-00000563" sourceExternalFilepath="./LIBRARY/图片/picture_20" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_20" bitmapDataHRef="M 116 1442199679.dat" frameRight="2660" frameBottom="2500"/>
+          <DOMBitmapItem name="图片/picture_21" itemID="5efc61db-00000564" sourceExternalFilepath="./LIBRARY/图片/picture_21" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_21" bitmapDataHRef="M 107 1442199679.dat" frameRight="4920" frameBottom="1580"/>
+          <DOMBitmapItem name="图片/picture_22" itemID="5efc61db-00000565" sourceExternalFilepath="./LIBRARY/图片/picture_22" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_22" bitmapDataHRef="M 117 1442199679.dat" frameRight="2860" frameBottom="2500"/>
+          <DOMBitmapItem name="图片/picture_23" itemID="5efc61db-00000566" sourceExternalFilepath="./LIBRARY/图片/picture_23" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_23" bitmapDataHRef="M 123 1442199775.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="图片/picture_24" itemID="5efc61db-00000567" sourceExternalFilepath="./LIBRARY/图片/picture_24" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_24" bitmapDataHRef="M 124 1442199775.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="图片/picture_25" itemID="5efc61db-00000568" sourceExternalFilepath="./LIBRARY/图片/picture_25" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_25" bitmapDataHRef="M 125 1442199775.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="图片/picture_26" itemID="5efc61db-00000569" sourceExternalFilepath="./LIBRARY/图片/picture_26" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_26" bitmapDataHRef="M 126 1442199775.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="图片/picture_27" itemID="5efc61db-0000056a" sourceExternalFilepath="./LIBRARY/图片/picture_27" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_27" bitmapDataHRef="M 118 1442199679.dat" frameRight="3000" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_28" itemID="5efc61db-0000056b" sourceExternalFilepath="./LIBRARY/图片/picture_28" sourceLastImported="1422409609" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="图片/picture_28" bitmapDataHRef="M 119 1442199679.dat" frameRight="3000" frameBottom="2400"/>
+          <DOMSoundItem name="声音/sound_01" itemID="5efc61db-0000056c" sourceExternalFilepath="./LIBRARY/声音/sound_01.wav" sourceLastImported="1198139984" href="声音/sound_01.wav" soundDataHRef="M 128 1443430217.dat" format="44kHz 16bit Stereo" sampleCount="21056" dataLength="84224"/>
+          <DOMSoundItem name="声音/sound_02" itemID="5efc61db-0000056d" sourceExternalFilepath="./LIBRARY/声音/sound_02.wav" href="声音/sound_02.wav" soundDataHRef="M 127 1443430013.dat" format="22kHz 16bit Mono" sampleCount="20832" dataLength="41664"/>
+          <DOMSoundItem name="声音/sound_03" itemID="5efc61db-0000056e" sourceExternalFilepath="./LIBRARY/声音/sound_03" sourceLastImported="1422409609" href="声音/sound_03" soundDataHRef="M 99 1442199679.dat" format="22kHz 16bit Mono" sampleCount="20832" exportFormat="2" exportBits="10" dataLength="9195" cachedSampleCount="5904"/>
+     </media>
+     <symbols>
+          <Include href="元件/mc_01.xml" loadImmediate="false" itemID="5efc61db-00000531" lastModified="1593598427"/>
+          <Include href="元件/mc_02.xml" loadImmediate="false" itemID="5efc61db-00000532" lastModified="1593598427"/>
+          <Include href="元件/mc_03.xml" loadImmediate="false" itemID="5efc61db-00000533" lastModified="1593598427"/>
+          <Include href="元件/shape_01.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000534" lastModified="1593598427"/>
+          <Include href="元件/shape_02.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000535" lastModified="1593598427"/>
+          <Include href="元件/shape_03.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000536" lastModified="1593598427"/>
+          <Include href="元件/shape_04.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000537" lastModified="1593598427"/>
+          <Include href="元件/shape_05.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000538" lastModified="1593598427"/>
+          <Include href="元件/shape_06.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000539" lastModified="1593598427"/>
+          <Include href="元件/shape_07.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053a" lastModified="1593598427"/>
+          <Include href="元件/shape_08.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053b" lastModified="1593598427"/>
+          <Include href="元件/shape_09.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053c" lastModified="1593598427"/>
+          <Include href="元件/shape_10.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053d" lastModified="1593598427"/>
+          <Include href="元件/shape_11.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053e" lastModified="1593598427"/>
+          <Include href="元件/shape_12.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000053f" lastModified="1593598427"/>
+          <Include href="元件/shape_13.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000540" lastModified="1593598427"/>
+          <Include href="元件/shape_14.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000541" lastModified="1593598427"/>
+          <Include href="元件/shape_15.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000542" lastModified="1593598427"/>
+          <Include href="元件/shape_16.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000543" lastModified="1593598427"/>
+          <Include href="元件/shape_17.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000544" lastModified="1593598427"/>
+          <Include href="元件/shape_18.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000545" lastModified="1593598427"/>
+          <Include href="元件/shape_19.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000546" lastModified="1593598427"/>
+          <Include href="元件/shape_20.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000547" lastModified="1593598427"/>
+          <Include href="元件/shape_21.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000548" lastModified="1593598427"/>
+          <Include href="元件/shape_22.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-00000549" lastModified="1593598427"/>
+          <Include href="元件/shape_23.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054a" lastModified="1593598427"/>
+          <Include href="元件/shape_24.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054b" lastModified="1593598427"/>
+          <Include href="元件/shape_25.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054c" lastModified="1593598427"/>
+          <Include href="元件/shape_26.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054d" lastModified="1593598427"/>
+          <Include href="元件/shape_27.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054e" lastModified="1593598427"/>
+          <Include href="元件/shape_28.xml" itemIcon="1" loadImmediate="false" itemID="5efc61db-0000054f" lastModified="1593598427"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1" currentFrame="64">
+               <layers>
+                    <DOMLayer name="标签" color="#4F80FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="65" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="引导层: 图层 1" color="#FF4F4F" locked="true" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="65" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                                                                      <fill>
+                                                                           <SolidColor color="#00FF00"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge strokeStyle="1" edges="!-1021 -464|-1 -464!-1 -464|-1 -1024!1079 -464|-1 -464!-1 -464|-1 796"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                                                                      <fill>
+                                                                           <SolidColor color="#33FFFF"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge strokeStyle="1" edges="!-1076 1|1119 1"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="文件夹 1" color="#9933CC" layerType="folder"/>
+                    <DOMLayer name="控制" color="#4FFF4F" parentLayerIndex="2" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="43" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+var $assisterCtrler:*;
+var defineAction:Function;
+function setAssistCtrler(ctrler:*):void{
+	$assisterCtrler = ctrler;
+	defineAction = $assisterCtrler.defineAction;
+	
+	defineActions();
+}
+
+function defineActions():void{
+	defineAction("atm1",{power:20,hitType:4,hitx:5,hity:0,hurtTime:1000,hurtType:0,isBreakDef:false});
+	defineAction("atm2",{power:20,hitType:5,hitx:5,hity:0,hurtTime:1000,hurtType:0,isBreakDef:true});
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="43" duration="22" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[$assisterCtrler.endAct();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="移动" color="#FF4FFF" parentLayerIndex="2" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="27" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="27" duration="38" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[$assisterCtrler.move(8,0);
+$assisterCtrler.damping(0.8,0);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="效果" color="#FF800A" parentLayerIndex="2" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="12" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" duration="15" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[$assisterCtrler.effect.bisha(false);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="27" duration="20" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[$assisterCtrler.effect.endBisha();
+$assisterCtrler.effect.shine(0xFF00FF);
+$assisterCtrler.effect.shadow(200,0,255);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="47" duration="18" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[$assisterCtrler.effect.endShadow();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="人物全" color="#808080" autoNamed="false" layerType="folder"/>
+                    <DOMLayer name="检测面" color="#FFFF00" parentLayerIndex="6" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="65" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="攻击面" color="#FF0000" parentLayerIndex="6" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="28" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" centerPoint3DX="178.35" centerPoint3DY="-32.85">
+                                             <matrix>
+                                                  <Matrix a="0.8690185546875" d="1.3603515625" tx="24.85" ty="-54.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" centerPoint3DX="178.5" centerPoint3DY="-43.35">
+                                             <matrix>
+                                                  <Matrix a="1.43376159667969" d="1.6165771484375" tx="25.1" ty="-65.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" selected="true" centerPoint3DX="178.65" centerPoint3DY="-43.35">
+                                             <matrix>
+                                                  <Matrix a="1.61405944824219" d="1.6165771484375" tx="25.15" ty="-65.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="33" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" selected="true" centerPoint3DX="178.65" centerPoint3DY="-43.35">
+                                             <matrix>
+                                                  <Matrix a="1.62864685058594" d="1.6165771484375" tx="25.15" ty="-65.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="35" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" selected="true" centerPoint3DX="178.75" centerPoint3DY="-43.35">
+                                             <matrix>
+                                                  <Matrix a="2.55458068847656" d="1.6165771484375" tx="25.55" ty="-65.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="37" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm1" centerPoint3DX="178.8" centerPoint3DY="-52.2">
+                                             <matrix>
+                                                  <Matrix a="2.61422729492188" d="1.91299438476563" tx="25.55" ty="-74.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.4" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_01" name="atm2" centerPoint3DX="178.8" centerPoint3DY="-60.25">
+                                             <matrix>
+                                                  <Matrix a="2.61422729492188" d="2.0244140625" tx="25.55" ty="-82.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.4" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="43" duration="22" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="特效" color="#FFFF4F" parentLayerIndex="6" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="65" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="人物" color="#FF4FFF" parentLayerIndex="6" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_02" centerPoint3DX="-2.5" centerPoint3DY="-31.5">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.699996948242188" tx="-37.5" ty="-66.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_03" symbolType="graphic" centerPoint3DX="81.1" centerPoint3DY="-32.75" loop="play once">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.699996948242188" tx="-50.5" ty="-64"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" duration="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_03" symbolType="graphic" firstFrame="2" centerPoint3DX="81.1" centerPoint3DY="-32.75" loop="single frame">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.699996948242188" tx="-50.5" ty="-64"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" duration="38" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_03" symbolType="graphic" firstFrame="3" centerPoint3DX="81.1" centerPoint3DY="-32.75" loop="play once">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.699996948242188" tx="-50.5" ty="-64"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="背后特效" color="#4FFFFF" parentLayerIndex="6" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="65" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="语音" color="#808080" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="27" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="27" duration="38" keyMode="9728" soundName="声音/sound_01">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="声音" color="#4F80FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="28" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="28" duration="37" keyMode="9728" soundName="声音/sound_02" soundZoomLevel="65535">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="103979" publishTime="1612156212"/>
+          <PublishItem publishSize="103991" publishTime="1593765856"/>
+          <PublishItem publishSize="206233" publishTime="1593765850"/>
+          <PublishItem publishSize="206192" publishTime="1579769306"/>
+          <PublishItem publishSize="206192" publishTime="1579769273"/>
+          <PublishItem publishSize="206191" publishTime="1579769218"/>
+          <PublishItem publishSize="206073" publishTime="1579768982"/>
+          <PublishItem publishSize="203296" publishTime="1497973511"/>
+          <PublishItem publishSize="182186" publishTime="1494141791"/>
+          <PublishItem publishSize="181489" publishTime="1443430587"/>
+     </publishHistory>
+</DOMDocument>

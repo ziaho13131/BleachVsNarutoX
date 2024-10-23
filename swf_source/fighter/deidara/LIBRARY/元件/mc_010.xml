@@ -1,0 +1,145 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_010" itemID="624b9580-0000152b" lastModified="1649157776" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_010" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//移动
+$attacker_ctrler.move(0,-10);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.damping(4);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" name="zh31atm" centerPoint3DX="84.75" centerPoint3DY="24.55">
+                  <matrix>
+                    <Matrix a="4.57763671875e-05" b="1.70794677734375" c="-2.12680053710938" d="4.57763671875e-05" tx="72.9" ty="-13.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="40.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" name="zh32atm" centerPoint3DX="99.75" centerPoint3DY="24.55">
+                  <matrix>
+                    <Matrix a="4.57763671875e-05" b="1.70794677734375" c="-2.88383483886719" d="6.103515625e-05" tx="118.9" ty="-13.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="40.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.27618408203125" b="-0.961090087890625" c="0.961090087890625" d="0.27618408203125" tx="-58.3" ty="114"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="78.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_012" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.62335205078125" b="-0.781936645507813" c="0.781936645507813" d="0.62335205078125" tx="-29.05" ty="65.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.4" y="66.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_012" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.371047973632813" b="-0.928604125976563" c="0.928604125976563" d="0.371047973632813" tx="-21.8" ty="91.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.4" y="66.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.81" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_005" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.990036010742188" d="0.990036010742188" tx="-103.2" ty="-98.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.35" y="160.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="24" keyMode="9728" soundName="声音/sound_001">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

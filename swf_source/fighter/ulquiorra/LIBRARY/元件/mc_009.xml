@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_009" itemID="624b96ba-00001da3" lastModified="1649120954">
+  <timeline>
+    <DOMTimeline name="mc_009" currentFrame="25">
+      <layers>
+        <DOMLayer name="图层 10" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_026" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-43" ty="8.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_025" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-22" ty="34.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.25" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_265">
+                  <matrix>
+                    <Matrix tx="-41.75" ty="39"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_258">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="38.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_264">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="38.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_263">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="38.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_262">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="38.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_035" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-24.5" ty="22.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.5" y="37"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

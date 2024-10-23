@@ -1,0 +1,100 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="AD29B0DFCF31BE47BD8CEBD729D239BB">
+     <folders>
+          <DOMFolderItem name="元件" itemID="5effe821-00000164"/>
+          <DOMFolderItem name="字体" itemID="5effe821-00000160"/>
+          <DOMFolderItem name="图片" itemID="5effe821-00000162"/>
+          <DOMFolderItem name="声音" itemID="5effe821-00000161"/>
+          <DOMFolderItem name="组件" itemID="5effe821-0000015f"/>
+          <DOMFolderItem name="视频" itemID="5effe821-00000163"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="图片/picture_01" itemID="5effe821-000001be" sourceExternalFilepath="./LIBRARY/图片/picture_01.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_01.png" bitmapDataHRef="M 17 1548482951.dat" frameRight="8980" frameBottom="620"/>
+          <DOMBitmapItem name="图片/picture_02" itemID="5effe821-000001bf" sourceExternalFilepath="./LIBRARY/图片/picture_02.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_02.png" bitmapDataHRef="M 18 1548482951.dat" frameRight="2700" frameBottom="2100"/>
+          <DOMBitmapItem name="图片/picture_03" itemID="5effe821-000001c0" sourceExternalFilepath="./LIBRARY/图片/picture_03.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_03.png" bitmapDataHRef="M 19 1548482951.dat" frameRight="600" frameBottom="640"/>
+          <DOMBitmapItem name="图片/picture_04" itemID="5effe821-000001c1" sourceExternalFilepath="./LIBRARY/图片/picture_04.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_04.png" bitmapDataHRef="M 20 1548482951.dat" frameRight="580" frameBottom="640"/>
+          <DOMBitmapItem name="图片/picture_05" itemID="5effe821-000001c2" sourceExternalFilepath="./LIBRARY/图片/picture_05.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_05.png" bitmapDataHRef="M 21 1548482951.dat" frameRight="7400" frameBottom="1700"/>
+          <DOMBitmapItem name="图片/picture_06" itemID="5effe821-000001c3" linkageExportForAS="true" linkageClassName="cover_bgimg" sourceExternalFilepath="./LIBRARY/图片/picture_06.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_06.png" bitmapDataHRef="M 22 1548482951.dat" frameRight="16080" frameBottom="12080"/>
+          <DOMBitmapItem name="图片/picture_07" itemID="5effe821-000001c4" sourceExternalFilepath="./LIBRARY/图片/picture_07.jpg" sourceLastImported="1548482620" quality="50" href="图片/picture_07.jpg" bitmapDataHRef="M 23 1548482951.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
+          <DOMBitmapItem name="图片/picture_08" itemID="5effe821-000001c5" sourceExternalFilepath="./LIBRARY/图片/picture_08.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_08.png" bitmapDataHRef="M 24 1548482951.dat" frameRight="280" frameBottom="280"/>
+          <DOMBitmapItem name="图片/picture_09" itemID="5effe821-000001c6" sourceExternalFilepath="./LIBRARY/图片/picture_09.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_09.png" bitmapDataHRef="M 25 1548482951.dat" frameRight="1200" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_10" itemID="5effe821-000001c7" sourceExternalFilepath="./LIBRARY/图片/picture_10.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_10.png" bitmapDataHRef="M 26 1548482952.dat" frameRight="1140" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_11" itemID="5effe821-000001c8" sourceExternalFilepath="./LIBRARY/图片/picture_11.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_11.png" bitmapDataHRef="M 27 1548482952.dat" frameRight="1060" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_12" itemID="5effe821-000001c9" sourceExternalFilepath="./LIBRARY/图片/picture_12.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_12.png" bitmapDataHRef="M 28 1548482952.dat" frameRight="12140" frameBottom="2740"/>
+          <DOMBitmapItem name="图片/picture_13" itemID="5effe821-000001ca" sourceExternalFilepath="./LIBRARY/图片/picture_13.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_13.png" bitmapDataHRef="M 29 1548482952.dat" frameRight="1540" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_14" itemID="5effe821-000001cb" sourceExternalFilepath="./LIBRARY/图片/picture_14.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_14.png" bitmapDataHRef="M 30 1548482952.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_15" itemID="5effe821-000001cc" sourceExternalFilepath="./LIBRARY/图片/picture_15.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_15.png" bitmapDataHRef="M 5 1548482948.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_16" itemID="5effe821-000001cd" sourceExternalFilepath="./LIBRARY/图片/picture_16.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_16.png" bitmapDataHRef="M 6 1548482949.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_17" itemID="5effe821-000001ce" sourceExternalFilepath="./LIBRARY/图片/picture_17.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_17.png" bitmapDataHRef="M 7 1548482949.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_18" itemID="5effe821-000001cf" sourceExternalFilepath="./LIBRARY/图片/picture_18.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_18.png" bitmapDataHRef="M 8 1548482950.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_19" itemID="5effe821-000001d0" sourceExternalFilepath="./LIBRARY/图片/picture_19.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_19.png" bitmapDataHRef="M 9 1548482950.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_20" itemID="5effe821-000001d1" sourceExternalFilepath="./LIBRARY/图片/picture_20.png" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_20.png" bitmapDataHRef="M 10 1548482950.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_21" itemID="5effe821-000001d2" sourceExternalFilepath="./LIBRARY/图片/picture_21.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_21.png" bitmapDataHRef="M 31 1548482952.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_22" itemID="5effe821-000001d3" sourceExternalFilepath="./LIBRARY/图片/picture_22.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_22.png" bitmapDataHRef="M 32 1548482952.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_23" itemID="5effe821-000001d4" sourceExternalFilepath="./LIBRARY/图片/picture_23.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_23.png" bitmapDataHRef="M 33 1548482953.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_24" itemID="5effe821-000001d5" sourceExternalFilepath="./LIBRARY/图片/picture_24.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_24.png" bitmapDataHRef="M 34 1548482953.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_25" itemID="5effe821-000001d6" sourceExternalFilepath="./LIBRARY/图片/picture_25.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_25.png" bitmapDataHRef="M 1 1548482947.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_26" itemID="5effe821-000001d7" sourceExternalFilepath="./LIBRARY/图片/picture_26.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_26.png" bitmapDataHRef="M 2 1548482947.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_27" itemID="5effe821-000001d8" sourceExternalFilepath="./LIBRARY/图片/picture_27.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_27.png" bitmapDataHRef="M 3 1548482948.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_28" itemID="5effe821-000001d9" sourceExternalFilepath="./LIBRARY/图片/picture_28.png" sourceLastImported="1548482621" originalCompressionType="lossless" quality="50" href="图片/picture_28.png" bitmapDataHRef="M 4 1548482948.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="图片/picture_29" itemID="5effe821-000001da" sourceExternalFilepath="./LIBRARY/图片/picture_29.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_29.png" bitmapDataHRef="M 11 1548482951.dat" frameRight="6940" frameBottom="5840"/>
+          <DOMBitmapItem name="图片/picture_30" itemID="5effe821-000001db" sourceExternalFilepath="./LIBRARY/图片/picture_30.jpg" sourceLastImported="1548482621" quality="50" href="图片/picture_30.jpg" bitmapDataHRef="M 12 1548482951.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
+          <DOMBitmapItem name="图片/picture_31" itemID="5effe821-000001dc" sourceExternalFilepath="./LIBRARY/图片/picture_31.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_31.png" bitmapDataHRef="M 13 1548482951.dat" frameRight="15280" frameBottom="300"/>
+          <DOMBitmapItem name="图片/picture_32" itemID="5effe821-000001dd" sourceExternalFilepath="./LIBRARY/图片/picture_32.bmp" sourceLastImported="1548482622" originalCompressionType="lossless" quality="50" href="图片/picture_32.bmp" bitmapDataHRef="M 14 1548482951.dat" frameRight="15200" frameBottom="100"/>
+          <DOMBitmapItem name="图片/picture_33" itemID="5effe821-000001de" sourceExternalFilepath="./LIBRARY/图片/picture_33.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_33.png" bitmapDataHRef="M 15 1548482951.dat" frameRight="1320" frameBottom="360"/>
+          <DOMBitmapItem name="图片/picture_34" itemID="5effe821-000001df" sourceExternalFilepath="./LIBRARY/图片/picture_34.png" sourceLastImported="1548482622" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_34.png" bitmapDataHRef="M 16 1548482951.dat" frameRight="6800" frameBottom="5800"/>
+     </media>
+     <symbols>
+          <Include href="元件/button_01.xml" itemIcon="0" loadImmediate="false" itemID="5effe821-000001a6" lastModified="1685597181"/>
+          <Include href="元件/button_02.xml" itemIcon="0" loadImmediate="false" itemID="5effe821-000001a7" lastModified="1685597261"/>
+          <Include href="元件/button_03.xml" itemIcon="0" loadImmediate="false" itemID="5effe821-000001a8" lastModified="1685597285"/>
+          <Include href="元件/mc_01.xml" itemID="5effe821-000001a3" lastModified="1593829409"/>
+          <Include href="元件/mc_02.xml" itemID="5effe821-000001a4" lastModified="1593829409"/>
+          <Include href="元件/mc_03.xml" loadImmediate="false" itemID="5effe821-000001a5" lastModified="1593829409"/>
+          <Include href="元件/mc_04.xml" loadImmediate="false" itemID="5effe821-000001a9" lastModified="1593829409"/>
+          <Include href="元件/mc_05.xml" loadImmediate="false" itemID="5effe821-000001aa" lastModified="1593829409"/>
+          <Include href="元件/mc_06.xml" loadImmediate="false" itemID="5effe821-000001ab" lastModified="1593829409"/>
+          <Include href="元件/mc_07.xml" itemID="5effe821-000001ac" lastModified="1593829409"/>
+          <Include href="元件/mc_08.xml" loadImmediate="false" itemID="5effe821-000001ad" lastModified="1685597194"/>
+          <Include href="元件/mc_09.xml" loadImmediate="false" itemID="5effe821-000001b0" lastModified="1593829409"/>
+          <Include href="元件/mc_10.xml" loadImmediate="false" itemID="5effe821-000001b1" lastModified="1593829409"/>
+          <Include href="元件/mc_11.xml" loadImmediate="false" itemID="5effe821-000001b3" lastModified="1593829409"/>
+          <Include href="元件/mc_12.xml" loadImmediate="false" itemID="5effe821-000001b4" lastModified="1593829409"/>
+          <Include href="元件/mc_13.xml" loadImmediate="false" itemID="5effe821-000001b5" lastModified="1593829409"/>
+          <Include href="元件/mc_14.xml" loadImmediate="false" itemID="5effe821-000001b7" lastModified="1593829409"/>
+          <Include href="元件/mc_15.xml" loadImmediate="false" itemID="5effe821-000001b8" lastModified="1593829409"/>
+          <Include href="元件/mc_16.xml" itemID="5effe821-000001b9" lastModified="1593829409"/>
+          <Include href="元件/mc_17.xml" itemID="5effe821-000001ba" lastModified="1593829409"/>
+          <Include href="元件/mc_18.xml" itemID="5effe821-000001bb" lastModified="1593829409"/>
+          <Include href="元件/mc_19.xml" itemID="5effe821-000001bc" lastModified="1593829409"/>
+          <Include href="元件/mc_20.xml" itemID="5effe821-000001bd" lastModified="1593829409"/>
+          <Include href="元件/shape_01.xml" itemIcon="1" loadImmediate="false" itemID="5effe821-000001ae" lastModified="1593829409"/>
+          <Include href="元件/shape_02.xml" itemIcon="1" loadImmediate="false" itemID="5effe821-000001af" lastModified="1593829409"/>
+          <Include href="元件/shape_03.xml" itemIcon="1" loadImmediate="false" itemID="5effe821-000001b2" lastModified="1593829409"/>
+          <Include href="元件/shape_04.xml" itemIcon="1" loadImmediate="false" itemID="5effe821-000001b6" lastModified="1593829409"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;599&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;800&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="603880" publishTime="1685597381"/>
+          <PublishItem publishSize="609481" publishTime="1551563454"/>
+          <PublishItem publishSize="609481" publishTime="1551563237"/>
+          <PublishItem publishSize="609581" publishTime="1551562660"/>
+          <PublishItem publishSize="609588" publishTime="1551562445"/>
+          <PublishItem publishSize="609575" publishTime="1551562131"/>
+          <PublishItem publishSize="609579" publishTime="1551561485"/>
+          <PublishItem publishSize="572105" publishTime="1551560990"/>
+     </publishHistory>
+</DOMDocument>

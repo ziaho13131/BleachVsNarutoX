@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_029" itemID="624afc6d-00000f17" sourceFlashFilepath="../lanran222.fla" sourceLibraryItemHRef="效果/元件 559" sourceLastModified="1380678363" symbolType="graphic" lastModified="1649081453" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_029" currentFrame="20">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_302"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_222"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_223"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="100" y="100"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_226"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_227"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_228"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_229"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

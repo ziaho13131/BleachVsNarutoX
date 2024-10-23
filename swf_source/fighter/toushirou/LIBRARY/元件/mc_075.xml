@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_075" itemID="624b9944-00002932" sourceFlashFilepath="../../cs3/rifagu.fla" sourceLibraryItemHRef="效果/日-跳招-效果" sourceLastModified="1193562754" lastModified="1649121604" lastUniqueIdentifier="9" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_075" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="6" name="loop_start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="12" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_079" name="main" centerPoint3DX="77.55" centerPoint3DY="33.55">
+                  <matrix>
+                    <Matrix a="0.205764770507813" d="0.7867431640625" tx="70.8" ty="17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.8" y="20.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_027" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.3978271484375" b="-0.3978271484375" c="0.0483551025390625" d="0.0483551025390625" tx="43" ty="20.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_027" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.237701416015625" b="-0.237701416015625" c="0.237701416015625" d="0.237701416015625" tx="45.6" ty="16.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_028" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.352615356445313" b="-0.352615356445313" c="0.352615356445313" d="0.352615356445313" tx="15.25" ty="18.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

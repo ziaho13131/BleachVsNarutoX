@@ -1,0 +1,473 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_0033" itemID="64785e0b-00000b83" sourceFlashFilepath="H:\改源文件\yihu.fla" sourceLibraryItemHRef="一护-上必杀" sourceLastModified="1186300171" lastModified="1685609995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_0033">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="14" tweenType="motion" keyMode="17921" acceleration="-50">
+              <tweens>
+                <Ease target="all" intensity="-50"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0102" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="117.5" ty="149.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="38.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="6" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0102" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="117.5" ty="-23.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="38.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0102" selected="true" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="117.5" ty="-90.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.45" y="38.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0046"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0949">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!20 2973S1|20 3980!20 3980|2680 3980!2680 3980|2680 2973!2680 2973|20 2973"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0950">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!707 2821[991 2778 1254 2739!1254 2739[1635 2691 1952 2998!1952 2998[1990 3035 2048 3056!2048 3056[2541 3222 2639 2783!2639 2783[#A5D.A #A9D.B7 2661 2653!2661 2653|2680 2653!2680 2653|2680 3980!2680 3980|20 3980!20 3980|20 2970!20 2970
+[#16B.E7 #B3A.8E 707 2821"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0952">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1030 2740[1040 2740 1050 2740!1050 2740[#438.AC #AB5.D9 1110 2740!1110 2740[#459.86 #AB3.D5 1117 2739.5!1117 2739.5|1125 2738.5!1125 2738.5[#4A3.AB #AAC.DB 1243.5 2710!1243.5 2710[#50B.D2 #A8F.4C 1340 2690!1340 2690[#545.AB #A7D.2A 1359.5
+ 2680.5!1359.5 2680.5[#563.64 #A77.AB 1400 2680!1400 2680[1702 2878 2057 2953!2057 2953[#993.A7 #BE1.A7 2680 2784!2680 2784|2680 3980!2680 3980|20 3980!20 3980|20 2991.5!20 2991.5[#7D.E #BAD.4 229 2948!229 2948[240 2945 250 2940!250 2940
+[406 2824 621 2853!621 2853[684 2862 750 2860!750 2860|1013.5 2723.5!1013.5 2723.5|1030 2740"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0953">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1279 2750[1623 2765 1970 2890!1970 2890[#971.DC #C22.0C 2680 2780.5!2680 2780.5|2680 3980!2680 3980|20 3980!20 3980|20 3006.5!20 3006.5[#D5.CE #BFF.18 451 3003!451 3003[728 2924 980 2830!980 2830[1099 2739 1279 2750"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0954">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1070 2750[#440.D9 #AB9.08 1107.5 2741!1107.5 2741|1120 2750!1120 2750|1280 2750!1280 2750[#50B.6E #AAD.F2 1299 2716.5!1299 2716.5[#56A.A6 #A99.71 1475 2726!1475 2726[1585 2740 1691 2799!1691 2799[2040 2991 2440 3000!2440 3000[#A1E.4D
+ #B4D.E3 2680 2751.5!2680 2751.5|2680 3980!2680 3980|20 3980!20 3980|20 2801.5!20 2801.5[#F4.05 #B41.34 500 2860!500 2860[505 2860 510 2860!510 2860[604 2904 720 2890!720 2890[754 2889 790 2890!790 2890[806 2879 820 2870!820 2870[839
+ 2859 850 2840!850 2840[855 2830 860 2820!860 2820[921 2795 989 2783!989 2783[1039 2777 1070 2750"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0955">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!988 2742.5[#3F2.8E #AC9.C1 1040 2770!1040 2770|1110 2770!1110 2770[1115 2765 1121 2762!1121 2762[#477.7B #AB9.BB 1166.5 2730!1166.5 2730[#4A9.4D 2730 1220 2730!1220 2730[1225 2730 1230 2730!1230 2730|1290 2690!1290 2690|1293.5 2690!1293.5
+ 2690|1340 2710!1340 2710|1316 2690!1316 2690|1360 2690!1360 2690[#610.4A #B0A.A3 1794 2860.5!1794 2860.5[#86F.3C #BB9.68 2560 2900!2560 2900[2610 2890 2629 2833!2629 2833[#A64.9F #AB3.D 2680 2646!2680 2646|2680 3980!2680 3980|20 3980
+!20 3980|20 2982!20 2982[#3C.B3 #B9C.1 83 2941!83 2941[#70.E3 #B52.92 144.5 2860.5!144.5 2860.5[#121.E3 #B69.32 460 2920!460 2920[475 2920 490 2920!490 2920|550 2880!550 2880[#249.79 #B0B.1 597.5 2766.5!597.5 2766.5[#27E.B7 #AC9.39 680
+ 2760!680 2760[709 2752 706 2781!706 2781[705 2785 709 2791!709 2791[720 2810 731 2829!731 2829[740 2845 750 2860!750 2860|830 2860!830 2860[857 2844 876 2826!876 2826[882 2820 893 2804!893 2804[902 2793 918 2778!918 2778[925 2770 930
+ 2760!930 2760[#3BF.9E #ABC.07 988 2742.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0956">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1360 2700[1776 2755 2185 2923!2185 2923[2355 2993 2493 2888!2493 2888[2577 2822 2594 2712!2594 2712[#A29.E8 #A65.A1 2606 2613!2606 2613|2680 2613!2680 2613|2680 3980!2680 3980|20 3980!20 3980|20 2846!20 2846[#12D.04 #B61.DA 598 2867
+!598 2867[845 2831 1060 2740!1060 2740[1114 2740 1170 2740!1170 2740[1252 2740 1330 2720!1330 2720|1360 2700"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0957">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!440 2950[821 2955 1182 2825!1182 2825[1553 2693 1905 2861!1905 2861[2097 2954 2302 2987!2302 2987[2400 3000 2500 3000!2500 3000[#A39.D5 #B48.24 2680 2775!2680 2775|2680 3980!2680 3980|20 3980!20 3980|20 2809.5!20 2809.5[#C4.65 #B78.F1
+ 440 2950"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0958">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!478 2990[854 2912 1232 2868!1232 2868[1624 2825 1997 2904!1997 2904[2264 2961 2540 3000!2540 3000[#A4C.F1 #B3F.B2 2680 2730.5!2680 2730.5|2680 3980!2680 3980|20 3980!20 3980|20 2961!20 2961[#DA.8E #BE2.FC 478 2990"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0959"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0960"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0961">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 2137|20 3980!20 3980|2680 3980!2680 3980|2680 2137!2680 2137|20 2137"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0964">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 2077|20 3980!20 3980|2680 3980!2680 3980|2680 2077!2680 2077|20 2077"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0965">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 1838|20 3980!20 3980|2680 3980!2680 3980|2680 1838!2680 1838|20 1838"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0966">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 1838|20 3980!20 3980|2680 3980!2680 3980|2680 1838!2680 1838|20 1838"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0967">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 2057|20 3980!20 3980|2680 3980!2680 3980|2680 2057!2680 2057|20 2057"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0968">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 1917|20 3980!20 3980|2680 3980!2680 3980|2680 1917!2680 1917|20 1917"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_0969">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!20 1298|20 3980!20 3980|2680 3980!2680 3980|2680 1298!2680 1298|20 1298"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0970"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0971"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0972"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0973"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

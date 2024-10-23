@@ -1,0 +1,121 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_010" itemID="624c0dd4-000008fe" symbolType="graphic" lastModified="1649151444">
+  <timeline>
+    <DOMTimeline name="shape_010" currentFrame="19">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_026" blendMode="lighten" centerPoint3DX="60.45" centerPoint3DY="48.45">
+                  <matrix>
+                    <Matrix a="0" b="-0.268905639648438" c="0.573822021484375" d="0" tx="-8.95" ty="81.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.6" y="224"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="102" blueOffset="-73" greenOffset="138"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_512">
+                  <matrix>
+                    <Matrix tx="70.4" ty="29.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_513">
+                  <matrix>
+                    <Matrix tx="70.4" ty="29.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_514">
+                  <matrix>
+                    <Matrix tx="70.4" ty="30.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_515">
+                  <matrix>
+                    <Matrix tx="70.4" ty="32.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_516">
+                  <matrix>
+                    <Matrix tx="70.4" ty="34.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_517">
+                  <matrix>
+                    <Matrix tx="70.4" ty="35.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_517">
+                  <matrix>
+                    <Matrix tx="70.4" ty="35.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_518">
+                  <matrix>
+                    <Matrix tx="70.4" ty="36.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_519">
+                  <matrix>
+                    <Matrix tx="70.4" ty="36.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

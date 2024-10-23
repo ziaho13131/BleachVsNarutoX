@@ -1,0 +1,102 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="624bac53-000057b3" lastModified="1649126483" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="mc_001" currentFrame="7" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;141&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" name="cbs3atm" centerPoint3DX="-115.65" centerPoint3DY="-296.65">
+                  <matrix>
+                    <Matrix a="3.33831787109375" d="7.35128784179688" tx="-108.5" ty="-243.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.05" y="20.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" blendMode="add" centerPoint3DX="-4.65" centerPoint3DY="-102.5">
+                  <matrix>
+                    <Matrix a="0" b="-1.57733154296875" c="1.57733154296875" d="0" tx="-221.55" ty="99.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="137.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="25" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" blendMode="screen" centerPoint3DX="194.1" centerPoint3DY="41.75">
+                  <matrix>
+                    <Matrix tx="3.95" ty="-167.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="190.15" y="209.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" blendMode="screen" centerPoint3DX="193.7" centerPoint3DY="209.8">
+                  <matrix>
+                    <Matrix tx="3.55" ty="0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="190.15" y="209.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="35" keyMode="9728" soundName="声音/sound_001">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_006" itemID="624bacf4-00005ba3" lastModified="1649126644">
+  <timeline>
+    <DOMTimeline name="mc_006" currentFrame="25">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" blendMode="screen" centerPoint3DX="67.9" centerPoint3DY="65.95">
+                  <matrix>
+                    <Matrix a="0.739349365234375" d="0.739349365234375" tx="-57.05" ty="-21.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169" y="118.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125" redOffset="152"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="82" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_008" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.37443542480469" d="1.37443542480469" tx="-116" ty="-85.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="109.5" y="110.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" greenOffset="118"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_093">
+                  <matrix>
+                    <Matrix tx="8.75" ty="57.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_094">
+                  <matrix>
+                    <Matrix tx="15.75" ty="57.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_086">
+                  <matrix>
+                    <Matrix tx="21.2" ty="46.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_001" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="7.75" ty="22.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.45" y="42.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_033" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-16.5" ty="29.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

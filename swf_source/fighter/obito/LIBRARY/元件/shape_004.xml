@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_004" itemID="624c1c1f-0000178a" symbolType="graphic" lastModified="1649155103">
+  <timeline>
+    <DOMTimeline name="shape_004" currentFrame="39">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" symbolType="graphic" centerPoint3DX="9.25" centerPoint3DY="20.55" loop="play once">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-449.85" ty="-140.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229.3" y="80.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" centerPoint3DX="591.05" centerPoint3DY="-201.5" loop="play once">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-299.05" ty="-73.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200.55" y="64.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

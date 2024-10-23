@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_002" itemID="624b9944-000028e9" sourceFlashFilepath="../../cs3/rifagu.fla" sourceLibraryItemHRef="角色-死神/冬狮郎/开场2 副本" sourceLastModified="1404470218" lastModified="1649121604" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_002" currentFrame="21">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_191">
+                  <matrix>
+                    <Matrix tx="-10.2" ty="-14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_190">
+                  <matrix>
+                    <Matrix tx="-7.55" ty="-14.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016">
+                  <matrix>
+                    <Matrix tx="-14.8" ty="-15.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

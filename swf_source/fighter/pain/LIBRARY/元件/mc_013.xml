@@ -1,0 +1,230 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_013" itemID="64d21e67-00000ec0" lastModified="1691491943" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_013" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-1&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="30" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//移动
+$attacker_ctrler.move(15,-10);
+
+$attacker_ctrler.setHitTarget("zh30atm","hit");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.damping(15,15);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.removeSelf();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.move(20,-20);
+$attacker_ctrler.damping(5,5);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.damping(20);
+$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_033" name="zh30atm" centerPoint3DX="-10.9" centerPoint3DY="-50.5">
+                  <matrix>
+                    <Matrix a="1.65365600585938" d="1.65878295898438" tx="-43.85" ty="-70.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_033" name="zh3atm" centerPoint3DX="-7.5" centerPoint3DY="-67.5">
+                  <matrix>
+                    <Matrix a="1.79087829589844" d="2.09906005859375" tx="-40.45" ty="-87.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_009" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.6021728515625" d="1.6021728515625" tx="-53.55" ty="-96.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.35" y="16.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_009" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.6021728515625" d="1.6021728515625" tx="-53.55" ty="-96.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.35" y="16.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="46" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_009" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.6021728515625" d="1.6021728515625" tx="-53.55" ty="-96.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.35" y="16.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_002" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.784759521484375" d="0.784759521484375" tx="-90.9" ty="-121.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100.4" y="105.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_002" symbolType="graphic" firstFrame="6" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.784759521484375" d="0.784759521484375" tx="-90.9" ty="-121.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100.4" y="105.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_002" symbolType="graphic" firstFrame="15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.784759521484375" d="0.784759521484375" tx="-90.9" ty="-121.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100.4" y="105.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="21" keyMode="9728" soundName="声音/sound_012">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="20" keyMode="9728" soundName="声音/sound_012">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="46" duration="26" keyMode="9728" soundName="声音/sound_012">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

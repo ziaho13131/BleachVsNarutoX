@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_022" itemID="624b9944-000028fd" sourceFlashFilepath="../../cs3/rifagu.fla" sourceLibraryItemHRef="效果/元件 14" sourceLastModified="1344090167" lastModified="1649121604" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_022">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_438">
+                  <matrix>
+                    <Matrix a="0.29998779296875" d="0.29998779296875" tx="159.8" ty="-16.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_438">
+                  <matrix>
+                    <Matrix tx="110.45" ty="-65.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_438">
+                  <matrix>
+                    <Matrix tx="110.45" ty="-65.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_012" itemID="624afc6d-00000eec" sourceFlashFilepath="../aizen.fla" sourceLibraryItemHRef="一护虚化-跳" sourceLastModified="1387066633" lastModified="1649081453" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_012" currentFrame="3">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1075 880|1075 2270!1075 2270|225 2270!225 2270|225 880!225 880|1075 880"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" parentLayerIndex="0" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_280">
+                  <matrix>
+                    <Matrix tx="-163.25" ty="-122.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_280">
+                  <matrix>
+                    <Matrix tx="-221.25" ty="-125.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

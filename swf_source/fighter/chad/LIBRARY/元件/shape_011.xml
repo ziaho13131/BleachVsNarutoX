@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_011" itemID="624b93e8-00000f8d" sourceFlashFilepath="../../cs3/chad.fla" sourceLibraryItemHRef="效果/元件 19" sourceLastModified="1403653981" symbolType="graphic" lastModified="1649120232" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_011" currentFrame="12">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.649993896484375" d="0.649993896484375" tx="152.9" ty="-77.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.1" y="93"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.875" d="0.875" tx="72" ty="-38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96" y="96"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_011" symbolType="graphic" loop="play once">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

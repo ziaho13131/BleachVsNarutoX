@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_021" itemID="624afc6d-00000ef5" sourceFlashFilepath="../lanran222.fla" sourceLibraryItemHRef="效果/i" sourceLastModified="1403745716" lastModified="1685612787" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_021" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="49" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.effect.shine(0x000000);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" name="bs1atm" centerPoint3DX="26.1" centerPoint3DY="11.55">
+                  <matrix>
+                    <Matrix a="1.63111877441406" d="3.05752563476563" tx="-49.75" ty="-63.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" name="bsatm" centerPoint3DX="-13" centerPoint3DY="-7.95">
+                  <matrix>
+                    <Matrix a="2.6390380859375" d="4.39976501464844" tx="-88.9" ty="-84.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_029" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-150" ty="-161"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014" blendMode="subtract" centerPoint3DX="3.45" centerPoint3DY="-1.9">
+                  <matrix>
+                    <Matrix a="1.44772338867188" d="1.44772338867188" tx="-215.25" ty="-193.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.75" y="138.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

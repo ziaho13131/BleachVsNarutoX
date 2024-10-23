@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="64d21e67-00000eb4" lastModified="1691491943" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="mc_001" currentFrame="37">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.effect.shine(0x000000);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_033" name="kj2atm" centerPoint3DX="33.25" centerPoint3DY="47.45">
+                  <matrix>
+                    <Matrix a="0.8153076171875" d="1.37254333496094" tx="9" ty="28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_004" symbolType="graphic" firstFrame="18" loop="play once">
+                  <matrix>
+                    <Matrix ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.5" y="43.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

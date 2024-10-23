@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_14" itemID="5efc61db-00000541" symbolType="graphic" lastModified="1593598427">
+  <timeline>
+    <DOMTimeline name="shape_14">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_08" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-59.75" ty="-83.6"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!277 -693[312 -699 350 -694!350 -694|465 -674!465 -674[540 -592 585 -487!585 -487[741 -414 746 -235!746 -235[748 -162 691 -114!691 -114[542 14 484 208!484 208[454 308 385 385!385 385[363 383 346 364!346 364[325 339 290 345!290 345|265
+ 330!265 330|245 330!245 330|191 258!191 258[168 228 135 215!135 215[44 100 -15 -23!-15 -23[-34 -63 -65 -95!-65 -95[-121 -323 13 -521!13 -521[109 -661 277 -693"/>
+                    <Edge fillStyle1="1" edges="
+!2585 548|-83 548!-83 548|-85 515!-85 515|-110 460!-110 460|-200 355!-200 355|-205 340!-205 340|-235 310!-235 310[-251 320 -261 337!-261 337|-264 332!-264 332|-270 330!-270 330|-290 335!-290 335|-300 350!-300 350|-303 384!-303 384[-308
+ 418 -285 435!-285 435[-292 483 -273 526!-273 526|-263 548!-263 548|-1195 548!-1195 548|-1195 -1672!-1195 -1672|2585 -1672!2585 -1672|2585 548"/>
+                    <Edge fillStyle0="1" edges="
+!-190 140[-163 119 -130 125!-130 125|-100 125!-100 125[-75 249 -195 320!-195 320|-155 240!-155 240|-185 230!-185 230[-207 188 -190 140"/>
+                    <Edge fillStyle1="1" edges="
+!-234 530|-228 548!-228 548|-243 548!-243 548|-234 530"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

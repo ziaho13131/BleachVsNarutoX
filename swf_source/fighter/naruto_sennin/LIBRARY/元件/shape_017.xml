@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_017" itemID="64d224cb-0000162b" sourceFlashFilepath="../../1.4更新/xianmin.fla" sourceLibraryItemHRef="元件 12" sourceLastModified="1349235492" symbolType="graphic" lastModified="1691493579" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_017" currentFrame="29">
+      <layers>
+        <DOMLayer name="图层 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="29" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_015" centerPoint3DX="-384.4" centerPoint3DY="36.85">
+                  <matrix>
+                    <Matrix a="4.094482421875" d="2.16490173339844" tx="-882.7" ty="-184.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="10" blurY="0" isEnabled="false"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014">
+                  <matrix>
+                    <Matrix a="9.43150329589844" d="9.43150329589844" tx="-407.5" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                    <GlowFilter blurX="0" blurY="0" strength="0" isEnabled="false"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="26" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014">
+                  <matrix>
+                    <Matrix a="9.55613708496094" d="9.55613708496094" tx="-407.6" ty="-21.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                    <GlowFilter blurX="0" blurY="0" strength="0" isEnabled="false"/>
+                  </filters>
+                  <color>
+                    <Color redMultiplier="0.9609375" blueMultiplier="0.9609375" greenMultiplier="0.9609375" redOffset="9" blueOffset="9" greenOffset="9"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014">
+                  <matrix>
+                    <Matrix a="11.1692504882813" d="11.1692504882813" tx="-407.5" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                    <GlowFilter blurX="0" blurY="0" strength="0" isEnabled="false"/>
+                  </filters>
+                  <color>
+                    <Color brightness="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

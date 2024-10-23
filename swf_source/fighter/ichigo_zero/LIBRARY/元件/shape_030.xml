@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_030" itemID="624ba622-00004c0d" sourceFlashFilepath="../../../1.7更新/ichigo.fla" sourceLibraryItemHRef="元件 34" sourceLastModified="1373973615" symbolType="graphic" lastModified="1649124898" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_030" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_116" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="3.44680786132813" d="2.7698974609375" tx="772.65" ty="104.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.95" y="52.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_003">
+                  <matrix>
+                    <Matrix a="-0.996124267578125" b="-0.165771484375" c="0.025115966796875" d="-0.999664306640625" tx="1552.6" ty="622.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="529.5" y="324.55"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_003">
+                  <matrix>
+                    <Matrix a="1.02740478515625" b="0.05816650390625" c="0.180740356445313" d="0.9835205078125" tx="-72.65" ty="-41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="529.25" y="324.6"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

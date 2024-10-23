@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_047" itemID="62835066-00001239" sourceFlashFilepath="../../../../官方版源文件/fighter/kenshin.fla" sourceLibraryItemHRef="蓝剑心/111/rw /luo" sourceLastModified="1375262427" lastModified="1652772966" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_047" currentFrame="4" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;23&lt;/guideline&gt;&lt;guideline direction="v"&gt;34&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_030" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.631210327148438" d="0.773056030273438" tx="-7.15" ty="-29.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.3" y="35.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_684">
+                  <matrix>
+                    <Matrix tx="-153" ty="-36.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_684">
+                  <matrix>
+                    <Matrix tx="-199" ty="-41.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_025" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.92230224609375" b="-0.38641357421875" c="0.38641357421875" d="0.92230224609375" tx="-8.9" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.5" y="7.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

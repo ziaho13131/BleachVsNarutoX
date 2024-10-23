@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_017" itemID="624c0fe7-00000ff1" sourceFlashFilepath="../../cs3/orochimaru.fla" sourceLibraryItemHRef="角色-火影/大蛇丸/一护-上必杀" sourceLastModified="1388188668" lastModified="1649151975" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_017">
+      <layers>
+        <DOMLayer name="图层 8" color="#FF4F4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_005" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="84.5" ty="205.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17" y="38.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

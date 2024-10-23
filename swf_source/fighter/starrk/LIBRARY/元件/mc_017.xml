@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_017" itemID="64bb7a2c-00001530" lastModified="1690008108" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="mc_017" currentFrame="8" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-933&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016">
+                  <matrix>
+                    <Matrix tx="138" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-138"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" centerPoint3DX="263.35" centerPoint3DY="-0.15">
+                  <matrix>
+                    <Matrix a="3.34349060058594" d="1.8553466796875" tx="587.45" ty="-0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-139.7" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" centerPoint3DX="1015.15" centerPoint3DY="0.05">
+                  <matrix>
+                    <Matrix a="3.28411865234375" d="0.996185302734375" tx="1326.95" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-139.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_029" itemID="624b96ba-00001db7" sourceFlashFilepath="H:\新yihu.fla" sourceLibraryItemHRef="一护虚化-砍2" sourceLastModified="1341584339" lastModified="1649120954" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_029">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_017" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="4.5" ty="-19.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.75" y="10.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-67" blueOffset="-255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_096">
+                  <matrix>
+                    <Matrix tx="26.7" ty="24"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_095">
+                  <matrix>
+                    <Matrix tx="26.7" ty="24"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_094">
+                  <matrix>
+                    <Matrix tx="26.7" ty="24"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

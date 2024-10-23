@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_019" itemID="64a37d1b-000054f5" sourceFlashFilepath="../../cs3/yulong.fla" sourceLibraryItemHRef="角色-死神/雨龙/一护-跳" sourceLastModified="1375666382" lastModified="1688435995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_019">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_001" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="17.7" ty="55.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.5" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_017" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="12.25" ty="48.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_007">
+                  <matrix>
+                    <Matrix tx="15.75" ty="71.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

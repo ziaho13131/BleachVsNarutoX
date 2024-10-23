@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_031" itemID="624c1272-00001c54" lastModified="1649152626">
+  <timeline>
+    <DOMTimeline name="mc_031" currentFrame="9">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_004" symbolType="graphic" centerPoint3DX="169.65" centerPoint3DY="39.85" loop="play once">
+                  <matrix>
+                    <Matrix a="3.0517578125e-05" b="0.79998779296875" c="-0.79998779296875" d="3.0517578125e-05" tx="299.25" ty="12.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="303.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="27.2" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_172">
+                  <matrix>
+                    <Matrix tx="12" ty="18.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_204">
+                  <matrix>
+                    <Matrix tx="12" ty="16.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

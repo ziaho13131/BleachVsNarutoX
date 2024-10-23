@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_052" itemID="64d21051-00000485" sourceFlashFilepath="../秽土转生鼬.fla" sourceLibraryItemHRef="重复项目文件夹/Sprite 92" sourceLastModified="1511661290" lastModified="1691488337" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_052">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" name="stop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60130310058594" b="-0.877593994140625" c="-0.877593994140625" d="1.60130310058594" tx="778.1" ty="201.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.6" y="194.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255" greenOffset="206"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.76823425292969" b="-0.455673217773438" c="-0.455673217773438" d="1.76823425292969" tx="658.9" ty="123.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.6" y="194.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255" greenOffset="206"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_043">
+                  <matrix>
+                    <Matrix tx="238.95" ty="99.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="41" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_044">
+                  <matrix>
+                    <Matrix tx="249.3" ty="209.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

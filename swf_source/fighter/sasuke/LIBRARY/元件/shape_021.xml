@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_021" itemID="624bb6e8-000076c0" sourceFlashFilepath="../../../1.7更新/Sasuke3.fla" sourceLibraryItemHRef="shape 939" sourceLastModified="1341302117" symbolType="graphic" lastModified="1649129192" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_021">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_035" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-77" ty="274.4"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4020 6908|-1540 6908!-1540 6908|-1540 5488!-1540 5488|4020 5488!4020 5488|4020 6908"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

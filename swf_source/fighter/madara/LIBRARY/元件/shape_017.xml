@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_017" itemID="64d21051-0000049d" symbolType="graphic" lastModified="1691488337">
+  <timeline>
+    <DOMTimeline name="shape_017" currentFrame="7">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_182"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_183">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="23" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_184">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

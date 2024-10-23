@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_0087" itemID="64785e0b-00000c5b" sourceFlashFilepath="H:\新yihu.fla" sourceLibraryItemHRef="元件 9" sourceLastModified="1340973446" symbolType="graphic" lastModified="1685609995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_0087">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_1093">
+                  <matrix>
+                    <Matrix a="-1" tx="57"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.5" y="28"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_1094">
+                  <matrix>
+                    <Matrix a="-1" tx="56"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="28"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

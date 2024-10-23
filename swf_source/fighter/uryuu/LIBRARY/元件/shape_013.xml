@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_013" itemID="64a37d1b-00005511" sourceFlashFilepath="../../cs3/yulong.fla" sourceLibraryItemHRef="效果/元件 7" sourceLastModified="1376959634" symbolType="graphic" lastModified="1688435995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_013">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="95.45" ty="-70.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.85" y="89.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_016" itemID="624bb420-00006e70" sourceFlashFilepath="../../../../../../../../28127/Documents/kakashi.fla" sourceLibraryItemHRef="卡卡西 副本/露琪亚-必杀" sourceLastModified="1491923142" lastModified="1649128480" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_016" currentFrame="32">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_015" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="63.5" ty="76.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="160.4" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_029"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_412"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_413"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_014" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="19" ty="53.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_414"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_415"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_416"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_417"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_034" itemID="624c0fe7-00001002" sourceFlashFilepath="../../cs3/orochimaru.fla" sourceLibraryItemHRef="效果/元件 29" sourceLastModified="1386558100" lastModified="1649151975" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_034">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_021" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-93" ty="-378"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="93" y="189"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_003" itemID="624b9580-00001524" lastModified="1676095440" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_003" currentFrame="29">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" name="kj1atm" centerPoint3DX="71.2" centerPoint3DY="136.75">
+                  <matrix>
+                    <Matrix a="1.38125610351563" d="0.983749389648438" tx="47.05" ty="117.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" name="kj1atm" centerPoint3DX="51.75" centerPoint3DY="125.65">
+                  <matrix>
+                    <Matrix a="1.93833923339844" d="1.23150634765625" tx="27.7" ty="106.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" name="kj1atm" centerPoint3DX="51.75" centerPoint3DY="75.15">
+                  <matrix>
+                    <Matrix a="1.93833923339844" d="2.476318359375" tx="27.7" ty="56"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_004" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.726608276367188" d="0.726608276367188" tx="32.05" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.5" y="110.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

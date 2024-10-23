@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_013" itemID="64d21051-0000045e" sourceFlashFilepath="../六道鸣人.fla" sourceLibraryItemHRef="Sprites/Sprite 235" sourceLastModified="1513678552" lastModified="1691488337" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_013" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_362">
+                  <matrix>
+                    <Matrix tx="-143.3" ty="-131.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_362">
+                  <matrix>
+                    <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="-58.25" ty="-182.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136.5" y="133.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_362">
+                  <matrix>
+                    <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="40.55" ty="-183.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136.5" y="133.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

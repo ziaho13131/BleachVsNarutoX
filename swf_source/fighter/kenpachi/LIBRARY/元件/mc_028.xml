@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_028" itemID="624bacf4-00005bb9" lastModified="1649126644">
+  <timeline>
+    <DOMTimeline name="mc_028" currentFrame="19">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-9.95" ty="6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="5.05" ty="-9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_040">
+                  <matrix>
+                    <Matrix tx="5.7" ty="-8.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

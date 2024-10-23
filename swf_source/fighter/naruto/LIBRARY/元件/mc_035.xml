@@ -1,0 +1,205 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_035" itemID="5f2bf444-00000ac0" sourceFlashFilepath="../naruto.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人--砍技2 副本" sourceLastModified="1487165054" lastModified="1649139949" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_035" currentFrame="13">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.move(15);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.damping(2);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_114" name="kj23atm" centerPoint3DX="24.45" centerPoint3DY="-37.75">
+                  <matrix>
+                    <Matrix a="0.443038940429688" d="0.372528076171875" tx="1.75" ty="-37.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="40.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_114" name="kj24atm" centerPoint3DX="7.45" centerPoint3DY="-27.3">
+                  <matrix>
+                    <Matrix a="0.688140869140625" d="0.747772216796875" tx="-15.25" ty="-42.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="40.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_022" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-4.1" ty="-21.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_636">
+                  <matrix>
+                    <Matrix tx="-19" ty="-47.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_637">
+                  <matrix>
+                    <Matrix tx="-19" ty="-51.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_638">
+                  <matrix>
+                    <Matrix tx="-19" ty="-49.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_639">
+                  <matrix>
+                    <Matrix tx="-16" ty="-50.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_640">
+                  <matrix>
+                    <Matrix tx="-25.5" ty="-48.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_641">
+                  <matrix>
+                    <Matrix tx="-39" ty="-42.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_642">
+                  <matrix>
+                    <Matrix tx="-41" ty="-42.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="11" keyMode="9728" soundName="声音/sound_013" inPoint44="1600" outPoint44="16128" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="12" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#808080" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.effect.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.effect.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

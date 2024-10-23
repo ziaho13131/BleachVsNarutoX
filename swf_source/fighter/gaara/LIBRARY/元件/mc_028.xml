@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_028" itemID="624b95db-00001863" sourceFlashFilepath="../../cs3/gaara.fla" sourceLibraryItemHRef="效果/元件 36" sourceLastModified="1387849127" lastModified="1676095543" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_028" currentFrame="23">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//stopFollow
+
+$attacker_ctrler.stopFollowTarget();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="zh3atm" centerPoint3DX="2.5" centerPoint3DY="-51.45">
+                  <matrix>
+                    <Matrix a="0.545181274414063" d="2.76153564453125" tx="-16.65" ty="-106.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="356.75" ty="-32.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-82" blueOffset="-51" greenOffset="-72"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" firstFrame="10" loop="play once">
+                  <matrix>
+                    <Matrix tx="356.75" ty="-32.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-82" blueOffset="-51" greenOffset="-72"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

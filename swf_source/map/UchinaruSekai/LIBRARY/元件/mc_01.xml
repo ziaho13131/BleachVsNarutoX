@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_01" itemID="62581ff5-0000022f" lastModified="1649942517" lastUniqueIdentifier="13">
+  <timeline>
+    <DOMTimeline name="mc_01">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_07">
+                  <matrix>
+                    <Matrix a="0.64215087890625" d="0.354415893554688" tx="970.45" ty="-55.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.15" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_07" selected="true">
+                  <matrix>
+                    <Matrix a="0.734390258789063" d="0.354415893554688" ty="-115.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

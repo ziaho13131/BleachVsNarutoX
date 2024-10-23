@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_112" itemID="5f2bf444-00000b0d" sourceFlashFilepath="../../../1.7更新/minren3.fla" sourceLibraryItemHRef="图片S/8350629_39090.gif 拷贝" sourceLastModified="1187698629" lastModified="1596716100" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_112" currentFrame="3">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_033" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="152" y="32"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="-255" greenOffset="-154"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

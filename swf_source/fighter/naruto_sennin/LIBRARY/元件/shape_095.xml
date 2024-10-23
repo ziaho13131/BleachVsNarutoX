@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_095" itemID="64d224cc-00001679" sourceFlashFilepath="../../1.4更新/xianmin.fla" sourceLibraryItemHRef="仙鸣动作1/仙鸣11" sourceLastModified="1345511245" symbolType="graphic" lastModified="1691493580" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_095" currentFrame="4">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="91" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_094" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="30.25" ty="42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

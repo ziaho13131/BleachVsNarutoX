@@ -1,0 +1,823 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" objectsSnapTo="false" timelineHeight="255" timelineLabelWidth="0" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="93D5840935875B47BDEB8D2D7EEF3140">
+     <folders>
+          <DOMFolderItem name="元件" itemID="5efc66c7-00005b60"/>
+          <DOMFolderItem name="字体" itemID="5efc66c7-00005b5c"/>
+          <DOMFolderItem name="图片" itemID="5efc66c7-00005b5e"/>
+          <DOMFolderItem name="声音" itemID="5efc66c7-00005b5d"/>
+          <DOMFolderItem name="组件" itemID="5efc66c7-00005b5b"/>
+          <DOMFolderItem name="视频" itemID="5efc66c7-00005b5f"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="图片/picture_01" itemID="61ea404e-000008ad" sourceExternalFilepath="./LIBRARY/图片/picture_01.png" sourceLastImported="1502899207" externalFileCRC32="2230341101" externalFileSize="422" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_01.png" bitmapDataHRef="M 1860 1503026049.dat" frameRight="760" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_010" itemID="61ea404e-000008b6" sourceExternalFilepath="./LIBRARY/图片/picture_010" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_010" bitmapDataHRef="M 2157 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_011" itemID="61ea404e-000008b7" sourceExternalFilepath="./LIBRARY/图片/picture_011" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_011" bitmapDataHRef="M 2158 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_012" itemID="61ea404e-000008b8" sourceExternalFilepath="./LIBRARY/图片/picture_012.png" sourceLastImported="1524371597" externalFileCRC32="372400834" externalFileSize="727" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_012.png" bitmapDataHRef="M 1998 1524459230.dat" frameRight="1720" frameBottom="1440"/>
+          <DOMBitmapItem name="图片/picture_013" itemID="61ea404e-000008b9" sourceExternalFilepath="./LIBRARY/图片/picture_013" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_013" bitmapDataHRef="M 2159 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_014" itemID="61ea404e-000008ba" sourceExternalFilepath="./LIBRARY/图片/picture_014" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_014" bitmapDataHRef="M 2160 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_015" itemID="61ea404e-000008bb" sourceExternalFilepath="./LIBRARY/图片/picture_015" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_015" bitmapDataHRef="M 2161 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_016" itemID="61ea404e-000008bc" sourceExternalFilepath="./LIBRARY/图片/picture_016.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_016.png" bitmapDataHRef="M 1979 1524458546.dat" frameRight="940" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_017" itemID="61ea404e-000008bd" sourceExternalFilepath="./LIBRARY/图片/picture_017" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_017" bitmapDataHRef="M 2162 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_018" itemID="61ea404e-000008be" sourceExternalFilepath="./LIBRARY/图片/picture_018.gif" sourceLastImported="1185379732" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_018.gif" bitmapDataHRef="Media 299.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_019" itemID="61ea404e-000008bf" sourceExternalFilepath="./LIBRARY/图片/picture_019.gif" sourceLastImported="1193560640" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_019.gif" bitmapDataHRef="M 2072 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_02" itemID="61ea404e-000008ae" sourceExternalFilepath="./LIBRARY/图片/picture_02.png" sourceLastImported="1524371319" externalFileCRC32="1262589339" externalFileSize="1056" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_02.png" bitmapDataHRef="M 2064 1524745086.dat" frameRight="1200" frameBottom="980"/>
+          <DOMBitmapItem name="图片/picture_020" itemID="61ea404e-000008c0" sourceExternalFilepath="./LIBRARY/图片/picture_020.gif" sourceLastImported="1373029039" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_020.gif" bitmapDataHRef="M 2118 1531054327.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_021" itemID="61ea404e-000008c1" sourceExternalFilepath="./LIBRARY/图片/picture_021.gif" sourceLastImported="1524738291" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_021.gif" bitmapDataHRef="M 2049 1524744900.dat" frameRight="2000" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_022" itemID="61ea404e-000008c2" sourceExternalFilepath="./LIBRARY/图片/picture_022" sourceLastImported="1531054345" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_022" bitmapDataHRef="M 2128 1531054345.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_023" itemID="61ea404e-000008c3" sourceExternalFilepath="./LIBRARY/图片/picture_023.png" sourceLastImported="1524371597" externalFileCRC32="3473015815" externalFileSize="846" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_023.png" bitmapDataHRef="M 1999 1524459252.dat" frameRight="1520" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_024" itemID="61ea404e-000008c4" sourceExternalFilepath="./LIBRARY/图片/picture_024" sourceLastImported="1531054349" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_024" bitmapDataHRef="M 2130 1531054349.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_025" itemID="61ea404e-000008c5" sourceExternalFilepath="./LIBRARY/图片/picture_025" sourceLastImported="1531054351" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_025" bitmapDataHRef="M 2131 1531054351.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_026" itemID="61ea404e-000008c6" sourceExternalFilepath="./LIBRARY/图片/picture_026" sourceLastImported="1531054352" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_026" bitmapDataHRef="M 2132 1531054352.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_027" itemID="61ea404f-000008c7" sourceExternalFilepath="./LIBRARY/图片/picture_027" sourceLastImported="1531054330" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_027" bitmapDataHRef="M 2120 1531054330.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_028" itemID="61ea404f-000008c8" sourceExternalFilepath="./LIBRARY/图片/picture_028.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_028.png" bitmapDataHRef="M 2050 1524744950.dat" frameRight="960" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_029" itemID="61ea404f-000008c9" sourceExternalFilepath="./LIBRARY/图片/picture_029" sourceLastImported="1531054367" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_029" bitmapDataHRef="M 2140 1531054367.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_03" itemID="61ea404e-000008af" sourceExternalFilepath="./LIBRARY/图片/picture_03.png" sourceLastImported="1524371319" externalFileCRC32="4109911114" externalFileSize="941" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_03.png" bitmapDataHRef="M 2065 1524745087.dat" frameRight="1180" frameBottom="980"/>
+          <DOMBitmapItem name="图片/picture_030" itemID="61ea404f-000008ca" sourceExternalFilepath="./LIBRARY/图片/picture_030" sourceLastImported="1531054373" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_030" bitmapDataHRef="M 2143 1531054373.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_031" itemID="61ea404f-000008cb" sourceExternalFilepath="./LIBRARY/图片/picture_031" sourceLastImported="1531054375" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_031" bitmapDataHRef="M 2144 1531054375.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_032" itemID="61ea404f-000008cc" sourceExternalFilepath="./LIBRARY/图片/picture_032" sourceLastImported="1531054377" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_032" bitmapDataHRef="M 2145 1531054377.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_033" itemID="61ea404f-000008cd" sourceExternalFilepath="./LIBRARY/图片/picture_033" sourceLastImported="1531054378" sourcePlatform="macintosh" externalFileCRC32="2454156014" externalFileSize="24547" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_033" bitmapDataHRef="M 2146 1531054378.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_034" itemID="61ea404f-000008ce" sourceExternalFilepath="./LIBRARY/图片/picture_034.gif" sourceLastImported="1524738136" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_034.gif" bitmapDataHRef="M 2046 1524744811.dat" frameRight="2000" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_035" itemID="61ea404f-000008cf" sourceExternalFilepath="./LIBRARY/图片/picture_035.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_035.png" bitmapDataHRef="M 2048 1524744877.dat" frameRight="980" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_036" itemID="61ea404f-000008d0" sourceExternalFilepath="./LIBRARY/图片/picture_036" sourceLastImported="1531054380" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_036" bitmapDataHRef="M 2147 1531054380.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_037" itemID="61ea404f-000008d1" sourceExternalFilepath="./LIBRARY/图片/picture_037" sourceLastImported="1531054382" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_037" bitmapDataHRef="M 2148 1531054382.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_038" itemID="61ea404f-000008d2" sourceExternalFilepath="./LIBRARY/图片/picture_038" sourceLastImported="1531054334" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_038" bitmapDataHRef="M 2122 1531054334.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_039" itemID="61ea404f-000008d3" sourceExternalFilepath="./LIBRARY/图片/picture_039" sourceLastImported="1531054338" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_039" bitmapDataHRef="M 2124 1531054338.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_04" itemID="61ea404e-000008b0" sourceExternalFilepath="./LIBRARY/图片/picture_04.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_04.png" bitmapDataHRef="M 1963 1524457952.dat" frameRight="940" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_040" itemID="61ea404f-000008d4" sourceExternalFilepath="./LIBRARY/图片/picture_040.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_040.png" bitmapDataHRef="M 2051 1524744950.dat" frameRight="1280" frameBottom="1120"/>
+          <DOMBitmapItem name="图片/picture_041" itemID="61ea404f-000008d5" sourceExternalFilepath="./LIBRARY/图片/picture_041" sourceLastImported="1531054341" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_041" bitmapDataHRef="M 2126 1531054341.dat" frameRight="3740" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_042" itemID="61ea404f-000008d6" sourceExternalFilepath="./LIBRARY/图片/picture_042.gif" sourceLastImported="1373029039" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_042.gif" bitmapDataHRef="M 2164 1531056278.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_043" itemID="61ea404f-000008d7" sourceExternalFilepath="./LIBRARY/图片/picture_043" sourceLastImported="1531056280" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_043" bitmapDataHRef="M 2165 1531056280.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_044" itemID="61ea404f-000008d8" sourceExternalFilepath="./LIBRARY/图片/picture_044" sourceLastImported="1531056297" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_044" bitmapDataHRef="M 2174 1531056297.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_045" itemID="61ea404f-000008d9" sourceExternalFilepath="./LIBRARY/图片/picture_045.png" sourceLastImported="1524371597" externalFileCRC32="415911376" externalFileSize="844" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_045.png" bitmapDataHRef="M 1981 1524458743.dat" frameRight="1220" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_046" itemID="61ea404f-000008da" sourceExternalFilepath="./LIBRARY/图片/picture_046" sourceLastImported="1531056299" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_046" bitmapDataHRef="M 2175 1531056299.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_047" itemID="61ea404f-000008db" sourceExternalFilepath="./LIBRARY/图片/picture_047" sourceLastImported="1531056301" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_047" bitmapDataHRef="M 2176 1531056301.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_048" itemID="61ea404f-000008dc" sourceExternalFilepath="./LIBRARY/图片/picture_048.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_048.png" bitmapDataHRef="M 1975 1524458445.dat" frameRight="960" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_049" itemID="61ea404f-000008dd" sourceExternalFilepath="./LIBRARY/图片/picture_049" sourceLastImported="1531056303" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_049" bitmapDataHRef="M 2177 1531056303.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_05" itemID="61ea404e-000008b1" sourceExternalFilepath="./LIBRARY/图片/picture_05.png" sourceLastImported="1524371319" externalFileCRC32="479317131" externalFileSize="805" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_05.png" bitmapDataHRef="M 2066 1524745087.dat" frameRight="980" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_050" itemID="61ea404f-000008de" sourceExternalFilepath="./LIBRARY/图片/picture_050" sourceLastImported="1531056304" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_050" bitmapDataHRef="M 2178 1531056304.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_051" itemID="61ea404f-000008df" sourceExternalFilepath="./LIBRARY/图片/picture_051" sourceLastImported="1531056306" sourcePlatform="macintosh" externalFileCRC32="1802946523" externalFileSize="127612" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_051" bitmapDataHRef="M 2179 1531056306.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_052" itemID="61ea404f-000008e0" sourceExternalFilepath="./LIBRARY/图片/picture_052.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_052.png" bitmapDataHRef="M 2052 1524744951.dat" frameRight="1320" frameBottom="1100"/>
+          <DOMBitmapItem name="图片/picture_053" itemID="61ea404f-000008e1" sourceExternalFilepath="./LIBRARY/图片/picture_053" sourceLastImported="1531056308" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_053" bitmapDataHRef="M 2180 1531056308.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_054" itemID="61ea404f-000008e2" sourceExternalFilepath="./LIBRARY/图片/picture_054" sourceLastImported="1531056310" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_054" bitmapDataHRef="M 2181 1531056310.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_055" itemID="61ea404f-000008e3" sourceExternalFilepath="./LIBRARY/图片/picture_055" sourceLastImported="1531056312" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_055" bitmapDataHRef="M 2182 1531056312.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_056" itemID="61ea404f-000008e4" sourceExternalFilepath="./LIBRARY/图片/picture_056.png" sourceLastImported="1524371597" externalFileCRC32="3624288896" externalFileSize="827" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_056.png" bitmapDataHRef="M 1982 1524458764.dat" frameRight="1200" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_057" itemID="61ea404f-000008e5" sourceExternalFilepath="./LIBRARY/图片/picture_057" sourceLastImported="1531056314" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_057" bitmapDataHRef="M 2183 1531056314.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_058" itemID="61ea404f-000008e6" sourceExternalFilepath="./LIBRARY/图片/picture_058" sourceLastImported="1531056282" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_058" bitmapDataHRef="M 2166 1531056282.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_059" itemID="61ea404f-000008e7" sourceExternalFilepath="./LIBRARY/图片/picture_059" sourceLastImported="1531056315" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_059" bitmapDataHRef="M 2184 1531056315.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_06" itemID="61ea404e-000008b2" sourceExternalFilepath="./LIBRARY/图片/picture_06" sourceLastImported="1531055630" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_06" bitmapDataHRef="M 2154 1531055630.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_060" itemID="61ea404f-000008e8" sourceExternalFilepath="./LIBRARY/图片/picture_060" sourceLastImported="1531056317" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_060" bitmapDataHRef="M 2185 1531056317.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_061" itemID="61ea404f-000008e9" sourceExternalFilepath="./LIBRARY/图片/picture_061.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_061.png" bitmapDataHRef="M 1976 1524458458.dat" frameRight="1020" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_062" itemID="61ea404f-000008ea" sourceExternalFilepath="./LIBRARY/图片/picture_062" sourceLastImported="1531056319" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_062" bitmapDataHRef="M 2186 1531056319.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_063" itemID="61ea404f-000008eb" sourceExternalFilepath="./LIBRARY/图片/picture_063" sourceLastImported="1531056321" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_063" bitmapDataHRef="M 2187 1531056321.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_064" itemID="61ea404f-000008ec" sourceExternalFilepath="./LIBRARY/图片/picture_064.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_064.png" bitmapDataHRef="M 2053 1524744951.dat" frameRight="580" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_065" itemID="61ea404f-000008ed" sourceExternalFilepath="./LIBRARY/图片/picture_065" sourceLastImported="1531056283" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_065" bitmapDataHRef="M 2167 1531056283.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_066" itemID="61ea404f-000008ee" sourceExternalFilepath="./LIBRARY/图片/picture_066" sourceLastImported="1531056285" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_066" bitmapDataHRef="M 2168 1531056285.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_067" itemID="61ea404f-000008ef" sourceExternalFilepath="./LIBRARY/图片/picture_067.png" sourceLastImported="1524371597" externalFileCRC32="3026653567" externalFileSize="749" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_067.png" bitmapDataHRef="M 1983 1524458784.dat" frameRight="1300" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_068" itemID="61ea404f-000008f0" sourceExternalFilepath="./LIBRARY/图片/picture_068" sourceLastImported="1531056287" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_068" bitmapDataHRef="M 2169 1531056287.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_069" itemID="61ea404f-000008f1" sourceExternalFilepath="./LIBRARY/图片/picture_069" sourceLastImported="1531056289" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_069" bitmapDataHRef="M 2170 1531056289.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_07" itemID="61ea404e-000008b3" sourceExternalFilepath="./LIBRARY/图片/picture_07" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_07" bitmapDataHRef="M 2155 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_070" itemID="61ea404f-000008f2" sourceExternalFilepath="./LIBRARY/图片/picture_070" sourceLastImported="1531056291" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_070" bitmapDataHRef="M 2171 1531056291.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_071" itemID="61ea404f-000008f3" sourceExternalFilepath="./LIBRARY/图片/picture_071" sourceLastImported="1531056293" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_071" bitmapDataHRef="M 2172 1531056293.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_072" itemID="61ea404f-000008f4" sourceExternalFilepath="./LIBRARY/图片/picture_072" sourceLastImported="1531056295" sourcePlatform="macintosh" externalFileCRC32="3442459186" externalFileSize="493726" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_072" bitmapDataHRef="M 2173 1531056295.dat" frameRight="4780" frameBottom="6140"/>
+          <DOMBitmapItem name="图片/picture_073" itemID="61ea404f-000008f5" sourceExternalFilepath="./LIBRARY/图片/picture_073.png" sourceLastImported="1524370798" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_073.png" bitmapDataHRef="M 2019 1524459794.dat" frameRight="940" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_074" itemID="61ea404f-000008f6" sourceExternalFilepath="./LIBRARY/图片/picture_074.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_074.png" bitmapDataHRef="M 1977 1524458487.dat" frameRight="1280" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_075" itemID="61ea404f-000008f7" sourceExternalFilepath="./LIBRARY/图片/picture_075.png" sourceLastImported="1524370798" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_075.png" bitmapDataHRef="M 2045 1524744776.dat" frameRight="940" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_076" itemID="61ea404f-000008f8" sourceExternalFilepath="./LIBRARY/图片/picture_076.png" sourceLastImported="1524371597" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_076.png" bitmapDataHRef="M 1996 1524459200.dat" frameRight="1020" frameBottom="1500"/>
+          <DOMBitmapItem name="图片/picture_077" itemID="61ea404f-000008f9" sourceExternalFilepath="./LIBRARY/图片/picture_077.png" sourceLastImported="1524370798" externalFileCRC32="2086269096" externalFileSize="836" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_077.png" bitmapDataHRef="M 2020 1524459809.dat" frameRight="1080" frameBottom="980"/>
+          <DOMBitmapItem name="图片/picture_078" itemID="61ea404f-000008fa" sourceExternalFilepath="./LIBRARY/图片/picture_078.png" sourceLastImported="1524371597" externalFileCRC32="1532435593" externalFileSize="804" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_078.png" bitmapDataHRef="M 1984 1524458820.dat" frameRight="960" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_079" itemID="61ea404f-000008fb" sourceExternalFilepath="./LIBRARY/图片/picture_079.png" sourceLastImported="1524370798" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_079.png" bitmapDataHRef="M 2000 1524459285.dat" frameRight="900" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_08" itemID="61ea404e-000008b4" sourceExternalFilepath="./LIBRARY/图片/picture_08.gif" sourceLastImported="1524738247" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_08.gif" bitmapDataHRef="M 2047 1524744829.dat" frameRight="2000" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_080" itemID="61ea404f-000008fc" sourceExternalFilepath="./LIBRARY/图片/picture_080.png" sourceLastImported="1524370798" externalFileCRC32="3871830050" externalFileSize="864" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_080.png" bitmapDataHRef="M 2007 1524459437.dat" frameRight="900" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_081" itemID="61ea404f-000008fd" sourceExternalFilepath="./LIBRARY/图片/picture_081" sourceLastImported="1530801951" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_081" bitmapDataHRef="M 2101 1530801951.dat" frameRight="6080" frameBottom="4480"/>
+          <DOMBitmapItem name="图片/picture_082" itemID="61ea404f-000008fe" sourceExternalFilepath="./LIBRARY/图片/picture_082" sourceLastImported="1530801955" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_082" bitmapDataHRef="M 2103 1530801955.dat" frameRight="6080" frameBottom="4480"/>
+          <DOMBitmapItem name="图片/picture_083" itemID="61ea404f-000008ff" sourceExternalFilepath="./LIBRARY/图片/picture_083" sourceLastImported="1530801959" sourcePlatform="macintosh" externalFileCRC32="2038678058" externalFileSize="15209" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_083" bitmapDataHRef="M 2105 1530801959.dat" frameRight="6080" frameBottom="4480"/>
+          <DOMBitmapItem name="图片/picture_084" itemID="61ea404f-00000900" sourceExternalFilepath="./LIBRARY/图片/picture_084" sourceLastImported="1530801962" sourcePlatform="macintosh" externalFileCRC32="2038678058" externalFileSize="15209" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_084" bitmapDataHRef="M 2107 1530801962.dat" frameRight="6080" frameBottom="4480"/>
+          <DOMBitmapItem name="图片/picture_085" itemID="61ea404f-00000901" sourceExternalFilepath="./LIBRARY/图片/picture_085.gif" sourceLastImported="1524738442" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_085.gif" bitmapDataHRef="M 2036 1524744522.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_086" itemID="61ea404f-00000902" sourceExternalFilepath="./LIBRARY/图片/picture_086.gif" sourceLastImported="1524738454" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_086.gif" bitmapDataHRef="M 2037 1524744523.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_087" itemID="61ea404f-00000903" sourceExternalFilepath="./LIBRARY/图片/picture_087.png" sourceLastImported="1524371282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_087.png" bitmapDataHRef="M 1978 1524458525.dat" frameRight="1300" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_088" itemID="61ea404f-00000904" sourceExternalFilepath="./LIBRARY/图片/picture_088.png" sourceLastImported="1524371597" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_088.png" bitmapDataHRef="M 1997 1524459218.dat" frameRight="1920" frameBottom="1500"/>
+          <DOMBitmapItem name="图片/picture_089" itemID="61ea404f-00000905" sourceExternalFilepath="./LIBRARY/图片/picture_089.png" sourceLastImported="1524371319" externalFileCRC32="3284462554" externalFileSize="798" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_089.png" bitmapDataHRef="M 2063 1524745086.dat" frameRight="1000" frameBottom="980"/>
+          <DOMBitmapItem name="图片/picture_09" itemID="61ea404e-000008b5" sourceExternalFilepath="./LIBRARY/图片/picture_09" sourceLastImported="1531055631" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_09" bitmapDataHRef="M 2156 1531055631.dat" frameRight="5400" frameBottom="1640"/>
+          <DOMBitmapItem name="图片/picture_090" itemID="61ea404f-00000906" sourceExternalFilepath="./LIBRARY/图片/picture_090.gif" sourceLastImported="1524738468" externalFileCRC32="3731293034" externalFileSize="682" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_090.gif" bitmapDataHRef="M 2039 1524744558.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_091" itemID="61ea404f-00000907" sourceExternalFilepath="./LIBRARY/图片/picture_091.png" sourceLastImported="1531055029" sourcePlatform="macintosh" externalFileCRC32="378058998" externalFileSize="19742" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_091.png" bitmapDataHRef="M 2149 1531055029.dat" frameRight="2520" frameBottom="5980"/>
+          <DOMBitmapItem name="图片/picture_092" itemID="61ea404f-00000908" sourceExternalFilepath="./LIBRARY/图片/picture_092.png" sourceLastImported="1531055034" sourcePlatform="macintosh" externalFileCRC32="378058998" externalFileSize="19742" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_092.png" bitmapDataHRef="M 2150 1531055034.dat" frameRight="2520" frameBottom="5980"/>
+          <DOMBitmapItem name="图片/picture_093" itemID="61ea404f-00000909" sourceExternalFilepath="./LIBRARY/图片/picture_093.png" sourceLastImported="1531055040" sourcePlatform="macintosh" externalFileCRC32="70937138" externalFileSize="18281" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_093.png" bitmapDataHRef="M 2151 1531055040.dat" frameRight="2520" frameBottom="5980"/>
+          <DOMBitmapItem name="图片/picture_094" itemID="61ea404f-0000090a" sourceExternalFilepath="./LIBRARY/图片/picture_094.png" sourceLastImported="1531055045" sourcePlatform="macintosh" externalFileCRC32="2485545266" externalFileSize="18537" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_094.png" bitmapDataHRef="M 2152 1531055045.dat" frameRight="2520" frameBottom="5980"/>
+          <DOMBitmapItem name="图片/picture_095" itemID="61ea404f-0000090b" sourceExternalFilepath="./LIBRARY/图片/picture_095.png" sourceLastImported="1531374508" externalFileCRC32="4219210566" externalFileSize="1807" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_095.png" bitmapDataHRef="M 2195 1531374508.dat" frameRight="760" frameBottom="1400"/>
+          <DOMBitmapItem name="图片/picture_096" itemID="61ea404f-0000090c" sourceExternalFilepath="./LIBRARY/图片/picture_096.png" sourceLastImported="1531376372" externalFileCRC32="1085765660" externalFileSize="862" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_096.png" bitmapDataHRef="M 2210 1531376455.dat" frameRight="900" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_097" itemID="61ea404f-0000090d" sourceExternalFilepath="./LIBRARY/图片/picture_097.png" sourceLastImported="1531376372" externalFileCRC32="2665460350" externalFileSize="830" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_097.png" bitmapDataHRef="M 2211 1531376458.dat" frameRight="760" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_098" itemID="61ea404f-0000090e" sourceExternalFilepath="./LIBRARY/图片/picture_098.png" sourceLastImported="1531376372" externalFileCRC32="2028786824" externalFileSize="879" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_098.png" bitmapDataHRef="M 2220 1531376485.dat" frameRight="980" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_099" itemID="61ea404f-0000090f" sourceExternalFilepath="./LIBRARY/图片/picture_099.png" sourceLastImported="1531376372" externalFileCRC32="1950259906" externalFileSize="894" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_099.png" bitmapDataHRef="M 2221 1531376488.dat" frameRight="1000" frameBottom="1280"/>
+          <DOMBitmapItem name="图片/picture_100" itemID="61ea404f-00000910" sourceExternalFilepath="./LIBRARY/图片/picture_100.png" sourceLastImported="1531376372" externalFileCRC32="3933779166" externalFileSize="795" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_100.png" bitmapDataHRef="M 2222 1531376491.dat" frameRight="600" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_101" itemID="61ea404f-00000911" sourceExternalFilepath="./LIBRARY/图片/picture_101.png" sourceLastImported="1531376372" externalFileCRC32="1701623264" externalFileSize="866" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_101.png" bitmapDataHRef="M 2212 1531376461.dat" frameRight="820" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_102" itemID="61ea404f-00000912" sourceExternalFilepath="./LIBRARY/图片/picture_102.png" sourceLastImported="1531376372" externalFileCRC32="3821211609" externalFileSize="837" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_102.png" bitmapDataHRef="M 2213 1531376464.dat" frameRight="840" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_103" itemID="61ea404f-00000913" sourceExternalFilepath="./LIBRARY/图片/picture_103.png" sourceLastImported="1531376372" externalFileCRC32="3873545709" externalFileSize="794" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_103.png" bitmapDataHRef="M 2214 1531376467.dat" frameRight="760" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_104" itemID="61ea404f-00000914" sourceExternalFilepath="./LIBRARY/图片/picture_104.png" sourceLastImported="1531376372" externalFileCRC32="3796283195" externalFileSize="789" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_104.png" bitmapDataHRef="M 2215 1531376470.dat" frameRight="760" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_105" itemID="61ea404f-00000915" sourceExternalFilepath="./LIBRARY/图片/picture_105.png" sourceLastImported="1531376372" externalFileCRC32="2536505234" externalFileSize="248" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_105.png" bitmapDataHRef="M 2216 1531376473.dat" frameRight="940" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_106" itemID="61ea404f-00000916" sourceExternalFilepath="./LIBRARY/图片/picture_106.png" sourceLastImported="1531376372" externalFileCRC32="1301465203" externalFileSize="301" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_106.png" bitmapDataHRef="M 2217 1531376476.dat" frameRight="880" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_107" itemID="61ea404f-00000917" sourceExternalFilepath="./LIBRARY/图片/picture_107.png" sourceLastImported="1531376372" externalFileCRC32="96849745" externalFileSize="788" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_107.png" bitmapDataHRef="M 2218 1531376479.dat" frameRight="660" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_108" itemID="61ea404f-00000918" sourceExternalFilepath="./LIBRARY/图片/picture_108.png" sourceLastImported="1531376372" externalFileCRC32="4036324715" externalFileSize="856" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_108.png" bitmapDataHRef="M 2219 1531376482.dat" frameRight="680" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_109" itemID="61ea404f-00000919" sourceExternalFilepath="./LIBRARY/图片/picture_109.png" sourceLastImported="1531375162" externalFileCRC32="164862900" externalFileSize="4562" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_109.png" bitmapDataHRef="M 2200 1531375364.dat" frameRight="900" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_110" itemID="61ea404f-0000091a" sourceExternalFilepath="./LIBRARY/图片/picture_110.png" sourceLastImported="1531375489" externalFileCRC32="1356689851" externalFileSize="4487" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_110.png" bitmapDataHRef="M 2202 1531375469.dat" frameRight="900" frameBottom="1100"/>
+          <DOMBitmapItem name="图片/picture_111" itemID="61ea404f-0000091b" sourceExternalFilepath="./LIBRARY/图片/picture_111.png" sourceLastImported="1531375414" externalFileCRC32="1202494070" externalFileSize="5149" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_111.png" bitmapDataHRef="M 2201 1531375419.dat" frameRight="960" frameBottom="1360"/>
+          <DOMBitmapItem name="图片/picture_112" itemID="61ea404f-0000091c" linkageExportForAS="true" linkageClassName="bsface1" sourceExternalFilepath="./LIBRARY/图片/picture_112.png" sourceLastImported="1530889100" sourcePlatform="macintosh" externalFileCRC32="3736925401" externalFileSize="36758" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_112.png" bitmapDataHRef="M 2115 1530889092.dat" frameRight="3400" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_113" itemID="61ea404f-0000091d" linkageExportForAS="true" linkageClassName="bsface2" sourceExternalFilepath="./LIBRARY/图片/picture_113.png" sourceLastImported="1530889102" sourcePlatform="macintosh" externalFileCRC32="1207494128" externalFileSize="35593" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_113.png" bitmapDataHRef="M 2114 1530889092.dat" frameRight="3400" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_114" itemID="61ea404f-0000091e" linkageExportForAS="true" linkageClassName="bsface3" sourceExternalFilepath="./LIBRARY/图片/picture_114.png" sourceLastImported="1530889105" sourcePlatform="macintosh" externalFileCRC32="3385340543" externalFileSize="22236" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_114.png" bitmapDataHRef="M 2113 1530889092.dat" frameRight="3400" frameBottom="2400"/>
+          <DOMBitmapItem name="图片/picture_115" itemID="61ea404f-0000091f" sourceExternalFilepath="./LIBRARY/图片/picture_115.png" sourceLastImported="1531375678" externalFileCRC32="3368306459" externalFileSize="4841" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_115.png" bitmapDataHRef="M 2204 1531375886.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_116" itemID="61ea404f-00000920" sourceExternalFilepath="./LIBRARY/图片/picture_116.png" sourceLastImported="1531375671" externalFileCRC32="2881276346" externalFileSize="4677" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_116.png" bitmapDataHRef="M 2203 1531375883.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_117" itemID="61ea404f-00000921" sourceExternalFilepath="./LIBRARY/图片/picture_117.png" sourceLastImported="1531375721" externalFileCRC32="2403613508" externalFileSize="4729" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_117.png" bitmapDataHRef="M 2205 1531375889.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_118" itemID="61ea404f-00000922" sourceExternalFilepath="./LIBRARY/图片/picture_118.png" sourceLastImported="1531375758" externalFileCRC32="3587004414" externalFileSize="4663" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_118.png" bitmapDataHRef="M 2206 1531375893.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_119" itemID="61ea404f-00000923" sourceExternalFilepath="./LIBRARY/图片/picture_119.png" sourceLastImported="1531375825" externalFileCRC32="771660676" externalFileSize="4458" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_119.png" bitmapDataHRef="M 2207 1531375895.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_120" itemID="61ea404f-00000924" sourceExternalFilepath="./LIBRARY/图片/picture_120.png" sourceLastImported="1531375862" externalFileCRC32="1573035701" externalFileSize="4437" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_120.png" bitmapDataHRef="M 2208 1531375899.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_121" itemID="61ea404f-00000925" sourceExternalFilepath="./LIBRARY/图片/picture_121.png" sourceLastImported="1531375964" externalFileCRC32="1766123050" externalFileSize="4762" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_121.png" bitmapDataHRef="M 2209 1531375968.dat" frameRight="1600" frameBottom="1200"/>
+          <DOMBitmapItem name="图片/picture_122" itemID="61ea404f-00000926" sourceExternalFilepath="./LIBRARY/图片/picture_122.png" sourceLastImported="1531376420" externalFileCRC32="2025612045" externalFileSize="9365" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_122.png" bitmapDataHRef="M 2228 1531376879.dat" frameRight="1000" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_123" itemID="61ea404f-00000927" sourceExternalFilepath="./LIBRARY/图片/picture_123.png" sourceLastImported="1531377363" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_123.png" bitmapDataHRef="M 2233 1531377369.dat" frameRight="1560" frameBottom="2020"/>
+          <DOMBitmapItem name="图片/picture_124" itemID="61ea404f-00000928" sourceExternalFilepath="./LIBRARY/图片/picture_124.png" sourceLastImported="1531376420" externalFileCRC32="829443166" externalFileSize="942" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_124.png" bitmapDataHRef="M 2229 1531376882.dat" frameRight="1040" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_125" itemID="61ea404f-00000929" sourceExternalFilepath="./LIBRARY/图片/picture_125.png" sourceLastImported="1531376420" externalFileCRC32="4035649728" externalFileSize="954" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_125.png" bitmapDataHRef="M 2230 1531376884.dat" frameRight="1180" frameBottom="1140"/>
+          <DOMBitmapItem name="图片/picture_126" itemID="61ea404f-0000092a" sourceExternalFilepath="./LIBRARY/图片/picture_126.png" sourceLastImported="1531376420" externalFileCRC32="1474936171" externalFileSize="938" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_126.png" bitmapDataHRef="M 2231 1531376887.dat" frameRight="1640" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_127" itemID="61ea404f-0000092b" sourceExternalFilepath="./LIBRARY/图片/picture_127.png" sourceLastImported="1531376420" externalFileCRC32="3135181047" externalFileSize="908" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_127.png" bitmapDataHRef="M 2232 1531376890.dat" frameRight="1440" frameBottom="720"/>
+          <DOMBitmapItem name="图片/picture_128" itemID="61ea404f-0000092c" sourceExternalFilepath="./LIBRARY/图片/picture_128" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_128" bitmapDataHRef="M 1863 1503027220.dat" frameRight="3900" frameBottom="5940"/>
+          <DOMBitmapItem name="图片/picture_129" itemID="61ea404f-0000092d" sourceExternalFilepath="./LIBRARY/图片/picture_129" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_129" bitmapDataHRef="M 1865 1503027220.dat" frameRight="3900" frameBottom="5940"/>
+          <DOMBitmapItem name="图片/picture_130" itemID="61ea404f-0000092e" sourceExternalFilepath="./LIBRARY/图片/picture_130" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_130" bitmapDataHRef="M 1867 1503027220.dat" frameRight="3900" frameBottom="5940"/>
+          <DOMBitmapItem name="图片/picture_131" itemID="61ea404f-0000092f" sourceExternalFilepath="./LIBRARY/图片/picture_131" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_131" bitmapDataHRef="M 1869 1503027220.dat" frameRight="3900" frameBottom="5940"/>
+          <DOMBitmapItem name="图片/picture_132" itemID="61ea404f-00000930" sourceExternalFilepath="./LIBRARY/图片/picture_132" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_132" bitmapDataHRef="M 1844 1503024866.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_133" itemID="61ea404f-00000931" sourceExternalFilepath="./LIBRARY/图片/picture_133" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_133" bitmapDataHRef="M 1845 1503024866.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_134" itemID="61ea404f-00000932" sourceExternalFilepath="./LIBRARY/图片/picture_134" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_134" bitmapDataHRef="M 1846 1503024875.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_135" itemID="61ea404f-00000933" sourceExternalFilepath="./LIBRARY/图片/picture_135" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_135" bitmapDataHRef="M 1847 1503024875.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_136" itemID="61ea404f-00000934" sourceExternalFilepath="./LIBRARY/图片/picture_136" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_136" bitmapDataHRef="M 1848 1503024875.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_137" itemID="61ea404f-00000935" sourceExternalFilepath="./LIBRARY/图片/picture_137" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_137" bitmapDataHRef="M 1849 1503024888.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_138" itemID="61ea404f-00000936" sourceExternalFilepath="./LIBRARY/图片/picture_138" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_138" bitmapDataHRef="M 1850 1503024888.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_139" itemID="61ea404f-00000937" sourceExternalFilepath="./LIBRARY/图片/picture_139" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_139" bitmapDataHRef="M 1851 1503024888.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_140" itemID="61ea404f-00000938" sourceExternalFilepath="./LIBRARY/图片/picture_140" sourceLastImported="1071240374" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_140" bitmapDataHRef="M 1852 1503024888.dat" frameRight="6620" frameBottom="4880"/>
+          <DOMBitmapItem name="图片/picture_141" itemID="61ea404f-00000939" sourceExternalFilepath="./LIBRARY/图片/picture_141" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_141" bitmapDataHRef="M 2073 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_142" itemID="61ea404f-0000093a" sourceExternalFilepath="./LIBRARY/图片/picture_142" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_142" bitmapDataHRef="M 2074 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_143" itemID="61ea404f-0000093b" sourceExternalFilepath="./LIBRARY/图片/picture_143" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_143" bitmapDataHRef="M 2075 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_144" itemID="61ea404f-0000093c" sourceExternalFilepath="./LIBRARY/图片/picture_144" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_144" bitmapDataHRef="M 2076 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_145" itemID="61ea404f-0000093d" sourceExternalFilepath="./LIBRARY/图片/picture_145" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_145" bitmapDataHRef="M 2077 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_146" itemID="61ea404f-0000093e" sourceExternalFilepath="./LIBRARY/图片/picture_146" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_146" bitmapDataHRef="M 2078 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_147" itemID="61ea404f-0000093f" sourceExternalFilepath="./LIBRARY/图片/picture_147" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_147" bitmapDataHRef="M 2079 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_148" itemID="61ea404f-00000940" sourceExternalFilepath="./LIBRARY/图片/picture_148" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_148" bitmapDataHRef="M 2080 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_149" itemID="61ea404f-00000941" sourceExternalFilepath="./LIBRARY/图片/picture_149" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_149" bitmapDataHRef="M 2081 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_150" itemID="61ea404f-00000942" sourceExternalFilepath="./LIBRARY/图片/picture_150" sourceLastImported="1193560658" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_150" bitmapDataHRef="M 2082 1530712682.dat" frameRight="4380" frameBottom="4420"/>
+          <DOMBitmapItem name="图片/picture_151" itemID="61ea404f-00000943" sourceExternalFilepath="./LIBRARY/图片/picture_151" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_151" bitmapDataHRef="M 1817 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_152" itemID="61ea404f-00000944" sourceExternalFilepath="./LIBRARY/图片/picture_152" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_152" bitmapDataHRef="M 1818 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_153" itemID="61ea404f-00000945" sourceExternalFilepath="./LIBRARY/图片/picture_153" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_153" bitmapDataHRef="M 1819 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_154" itemID="61ea404f-00000946" sourceExternalFilepath="./LIBRARY/图片/picture_154" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_154" bitmapDataHRef="M 1821 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_155" itemID="61ea404f-00000947" sourceExternalFilepath="./LIBRARY/图片/picture_155" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_155" bitmapDataHRef="M 1823 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_156" itemID="61ea404f-00000948" sourceExternalFilepath="./LIBRARY/图片/picture_156" sourceLastImported="1502957744" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_156" bitmapDataHRef="M 1824 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_157" itemID="61ea404f-00000949" sourceExternalFilepath="./LIBRARY/图片/picture_157" sourceLastImported="1502957744" externalFileCRC32="3985923090" externalFileSize="745701" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_157" bitmapDataHRef="M 1825 1502957744.dat" frameRight="4340" frameBottom="9280"/>
+          <DOMBitmapItem name="图片/picture_158" itemID="61ea404f-0000094a" sourceExternalFilepath="./LIBRARY/图片/picture_158" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_158" bitmapDataHRef="M 1805 1503020763.dat" frameRight="1040" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_159" itemID="61ea404f-0000094b" sourceExternalFilepath="./LIBRARY/图片/picture_159" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_159" bitmapDataHRef="M 1812 1503020763.dat" frameRight="260" frameBottom="260"/>
+          <DOMBitmapItem name="图片/picture_160" itemID="61ea404f-0000094c" sourceExternalFilepath="./LIBRARY/图片/picture_160" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_160" bitmapDataHRef="M 1811 1503020763.dat" frameRight="740" frameBottom="740"/>
+          <DOMBitmapItem name="图片/picture_161" itemID="61ea404f-0000094d" sourceExternalFilepath="./LIBRARY/图片/picture_161" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_161" bitmapDataHRef="M 1810 1503020763.dat" frameRight="740" frameBottom="740"/>
+          <DOMBitmapItem name="图片/picture_162" itemID="61ea404f-0000094e" sourceExternalFilepath="./LIBRARY/图片/picture_162" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_162" bitmapDataHRef="M 1809 1503020763.dat" frameRight="740" frameBottom="740"/>
+          <DOMBitmapItem name="图片/picture_163" itemID="61ea404f-0000094f" sourceExternalFilepath="./LIBRARY/图片/picture_163" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_163" bitmapDataHRef="M 1808 1503020763.dat" frameRight="1000" frameBottom="1040"/>
+          <DOMBitmapItem name="图片/picture_164" itemID="61ea404f-00000950" sourceExternalFilepath="./LIBRARY/图片/picture_164" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_164" bitmapDataHRef="M 1807 1503020763.dat" frameRight="1040" frameBottom="1000"/>
+          <DOMBitmapItem name="图片/picture_165" itemID="61ea404f-00000951" sourceExternalFilepath="./LIBRARY/图片/picture_165" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_165" bitmapDataHRef="M 1806 1503020763.dat" frameRight="1000" frameBottom="1040"/>
+          <DOMBitmapItem name="图片/picture_166" itemID="61ea404f-00000952" sourceExternalFilepath="./LIBRARY/图片/picture_166" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_166" bitmapDataHRef="M 1813 1503020763.dat" frameRight="1540" frameBottom="480"/>
+          <DOMBitmapItem name="图片/picture_167" itemID="61ea404f-00000953" sourceExternalFilepath="./LIBRARY/图片/picture_167" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_167" bitmapDataHRef="M 1816 1503020763.dat" frameRight="3960" frameBottom="120"/>
+          <DOMBitmapItem name="图片/picture_168" itemID="61ea404f-00000954" sourceExternalFilepath="./LIBRARY/图片/picture_168" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_168" bitmapDataHRef="M 1815 1503020763.dat" frameRight="6840" frameBottom="180"/>
+          <DOMBitmapItem name="图片/picture_169" itemID="61ea404f-00000955" sourceExternalFilepath="./LIBRARY/图片/picture_169" sourceLastImported="1367976803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_169" bitmapDataHRef="M 1814 1503020763.dat" frameRight="2680" frameBottom="520"/>
+          <DOMBitmapItem name="图片/picture_170" itemID="61ea404f-00000956" sourceExternalFilepath="./LIBRARY/图片/picture_170" sourceLastImported="1388456425" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_170" bitmapDataHRef="M 2091 1530796351.dat" frameRight="1640" frameBottom="5100"/>
+          <DOMBitmapItem name="图片/picture_171" itemID="61ea404f-00000957" sourceExternalFilepath="./LIBRARY/图片/picture_171" sourceLastImported="1388456425" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_171" bitmapDataHRef="M 2092 1530796351.dat" frameRight="1640" frameBottom="5100"/>
+          <DOMBitmapItem name="图片/picture_172" itemID="61ea404f-00000958" sourceExternalFilepath="./LIBRARY/图片/picture_172" sourceLastImported="1388456425" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_172" bitmapDataHRef="M 2093 1530796351.dat" frameRight="1640" frameBottom="5100"/>
+          <DOMBitmapItem name="图片/picture_173" itemID="61ea404f-00000959" sourceExternalFilepath="./LIBRARY/图片/picture_173" sourceLastImported="1388456425" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_173" bitmapDataHRef="M 2094 1530796351.dat" frameRight="1640" frameBottom="5100"/>
+          <DOMBitmapItem name="图片/picture_174" itemID="61ea404f-0000095a" sourceExternalFilepath="./LIBRARY/图片/picture_174" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_174" bitmapDataHRef="Media 300.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_175" itemID="61ea404f-0000095b" sourceExternalFilepath="./LIBRARY/图片/picture_175" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_175" bitmapDataHRef="Media 302.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_176" itemID="61ea404f-0000095c" sourceExternalFilepath="./LIBRARY/图片/picture_176" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_176" bitmapDataHRef="Media 304.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_177" itemID="61ea404f-0000095d" sourceExternalFilepath="./LIBRARY/图片/picture_177" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_177" bitmapDataHRef="Media 306.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_178" itemID="61ea404f-0000095e" sourceExternalFilepath="./LIBRARY/图片/picture_178" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_178" bitmapDataHRef="Media 308.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_179" itemID="61ea404f-0000095f" sourceExternalFilepath="./LIBRARY/图片/picture_179" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_179" bitmapDataHRef="Media 310.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_180" itemID="61ea404f-00000960" sourceExternalFilepath="./LIBRARY/图片/picture_180" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_180" bitmapDataHRef="Media 312.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_181" itemID="61ea404f-00000961" sourceExternalFilepath="./LIBRARY/图片/picture_181" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_181" bitmapDataHRef="Media 314.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_182" itemID="61ea404f-00000962" sourceExternalFilepath="./LIBRARY/图片/picture_182" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_182" bitmapDataHRef="Media 316.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_183" itemID="61ea404f-00000963" sourceExternalFilepath="./LIBRARY/图片/picture_183" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_183" bitmapDataHRef="Media 318.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_184" itemID="61ea404f-00000964" sourceExternalFilepath="./LIBRARY/图片/picture_184" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_184" bitmapDataHRef="Media 320.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_185" itemID="61ea404f-00000965" sourceExternalFilepath="./LIBRARY/图片/picture_185" sourceLastImported="1185429955" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_185" bitmapDataHRef="Media 322.dat" frameRight="3100" frameBottom="2240"/>
+          <DOMBitmapItem name="图片/picture_186" itemID="61ea404f-00000966" sourceExternalFilepath="./LIBRARY/图片/picture_186.png" sourceLastImported="1524370766" externalFileCRC32="2241893322" externalFileSize="808" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_186.png" bitmapDataHRef="M 1955 1524457848.dat" frameRight="1020" frameBottom="960"/>
+          <DOMBitmapItem name="图片/picture_187" itemID="61ea404f-00000967" sourceExternalFilepath="./LIBRARY/图片/picture_187.png" sourceLastImported="1524370766" externalFileCRC32="202835886" externalFileSize="776" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_187.png" bitmapDataHRef="M 1956 1524457848.dat" frameRight="1160" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_188" itemID="61ea404f-00000968" sourceExternalFilepath="./LIBRARY/图片/picture_188.png" sourceLastImported="1524370766" externalFileCRC32="2302338614" externalFileSize="747" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_188.png" bitmapDataHRef="M 1957 1524457848.dat" frameRight="960" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_189" itemID="61ea404f-00000969" sourceExternalFilepath="./LIBRARY/图片/picture_189.png" sourceLastImported="1524370766" externalFileCRC32="1196932131" externalFileSize="746" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_189.png" bitmapDataHRef="M 1958 1524457848.dat" frameRight="1020" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_190" itemID="61ea404f-0000096a" sourceExternalFilepath="./LIBRARY/图片/picture_190.png" sourceLastImported="1524370766" externalFileCRC32="1514410456" externalFileSize="790" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_190.png" bitmapDataHRef="M 1959 1524457848.dat" frameRight="1080" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_191" itemID="61ea404f-0000096b" sourceExternalFilepath="./LIBRARY/图片/picture_191.png" sourceLastImported="1524370766" externalFileCRC32="1498958611" externalFileSize="763" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_191.png" bitmapDataHRef="M 1960 1524457848.dat" frameRight="1000" frameBottom="900"/>
+          <DOMBitmapItem name="图片/picture_192" itemID="61ea404f-0000096c" sourceExternalFilepath="./LIBRARY/图片/picture_192.png" sourceLastImported="1524370766" externalFileCRC32="1149879532" externalFileSize="749" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_192.png" bitmapDataHRef="M 1961 1524457849.dat" frameRight="940" frameBottom="900"/>
+          <DOMBitmapItem name="图片/picture_193" itemID="61ea404f-0000096d" sourceExternalFilepath="./LIBRARY/图片/picture_193.png" sourceLastImported="1524370766" externalFileCRC32="3024624941" externalFileSize="741" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_193.png" bitmapDataHRef="M 1962 1524457849.dat" frameRight="940" frameBottom="900"/>
+          <DOMBitmapItem name="图片/picture_194" itemID="61ea404f-0000096e" sourceExternalFilepath="./LIBRARY/图片/picture_194.png" sourceLastImported="1524372803" externalFileCRC32="682837775" externalFileSize="878" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_194.png" bitmapDataHRef="M 1969 1524458287.dat" frameRight="920" frameBottom="1280"/>
+          <DOMBitmapItem name="图片/picture_195" itemID="61ea404f-0000096f" sourceExternalFilepath="./LIBRARY/图片/picture_195.png" sourceLastImported="1524372803" externalFileCRC32="4001479506" externalFileSize="812" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_195.png" bitmapDataHRef="M 1970 1524458319.dat" frameRight="940" frameBottom="1280"/>
+          <DOMBitmapItem name="图片/picture_196" itemID="61ea404f-00000970" sourceExternalFilepath="./LIBRARY/图片/picture_196.png" sourceLastImported="1524372803" externalFileCRC32="2056745788" externalFileSize="898" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_196.png" bitmapDataHRef="M 1971 1524458337.dat" frameRight="1200" frameBottom="1280"/>
+          <DOMBitmapItem name="图片/picture_197" itemID="61ea404f-00000971" sourceExternalFilepath="./LIBRARY/图片/picture_197.png" sourceLastImported="1524372803" externalFileCRC32="2283910364" externalFileSize="778" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_197.png" bitmapDataHRef="M 1972 1524458347.dat" frameRight="1240" frameBottom="880"/>
+          <DOMBitmapItem name="图片/picture_198" itemID="61ea404f-00000972" sourceExternalFilepath="./LIBRARY/图片/picture_198.png" sourceLastImported="1524372803" externalFileCRC32="3500796530" externalFileSize="695" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_198.png" bitmapDataHRef="M 1973 1524458363.dat" frameRight="840" frameBottom="860"/>
+          <DOMBitmapItem name="图片/picture_199" itemID="61ea404f-00000973" sourceExternalFilepath="./LIBRARY/图片/picture_199.png" sourceLastImported="1502899457" externalFileCRC32="2438779705" externalFileSize="336" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_199.png" bitmapDataHRef="M 1665 1502934998.dat" frameRight="900" frameBottom="940"/>
+          <DOMBitmapItem name="图片/picture_200" itemID="61ea404f-00000974" sourceExternalFilepath="./LIBRARY/图片/picture_200.png" sourceLastImported="1524372059" externalFileCRC32="3730995556" externalFileSize="828" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_200.png" bitmapDataHRef="M 1991 1524458975.dat" frameRight="1100" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_201" itemID="61ea404f-00000975" sourceExternalFilepath="./LIBRARY/图片/picture_201.png" sourceLastImported="1524372059" externalFileCRC32="3740525055" externalFileSize="867" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_201.png" bitmapDataHRef="M 1992 1524458976.dat" frameRight="1100" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_202" itemID="61ea404f-00000976" sourceExternalFilepath="./LIBRARY/图片/picture_202.png" sourceLastImported="1524372059" externalFileCRC32="3610839479" externalFileSize="851" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_202.png" bitmapDataHRef="M 1993 1524458976.dat" frameRight="1100" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_203" itemID="61ea404f-00000977" sourceExternalFilepath="./LIBRARY/图片/picture_203.png" sourceLastImported="1524372059" externalFileCRC32="4092788768" externalFileSize="820" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_203.png" bitmapDataHRef="M 1994 1524458976.dat" frameRight="1300" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_204" itemID="61ea404f-00000978" sourceExternalFilepath="./LIBRARY/图片/picture_204.png" sourceLastImported="1524372059" externalFileCRC32="513416881" externalFileSize="825" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_204.png" bitmapDataHRef="M 1995 1524458976.dat" frameRight="1100" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_205" itemID="61ea404f-00000979" sourceExternalFilepath="./LIBRARY/图片/picture_205.png" sourceLastImported="1524372564" externalFileCRC32="993698793" externalFileSize="861" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_205.png" bitmapDataHRef="M 2011 1524459506.dat" frameRight="900" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_206" itemID="61ea404f-0000097a" sourceExternalFilepath="./LIBRARY/图片/picture_206.png" sourceLastImported="1524372564" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_206.png" bitmapDataHRef="M 2018 1524459715.dat" frameRight="900" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_207" itemID="61ea404f-0000097b" sourceExternalFilepath="./LIBRARY/图片/picture_207.png" sourceLastImported="1524372564" externalFileCRC32="2932654585" externalFileSize="898" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_207.png" bitmapDataHRef="M 2012 1524459525.dat" frameRight="1140" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_208" itemID="61ea404f-0000097c" sourceExternalFilepath="./LIBRARY/图片/picture_208.png" sourceLastImported="1524372564" externalFileCRC32="652816406" externalFileSize="911" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_208.png" bitmapDataHRef="M 2016 1524459671.dat" frameRight="1120" frameBottom="1260"/>
+          <DOMBitmapItem name="图片/picture_209" itemID="61ea404f-0000097d" sourceExternalFilepath="./LIBRARY/图片/picture_209.png" sourceLastImported="1524372588" externalFileCRC32="2313064949" externalFileSize="989" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_209.png" bitmapDataHRef="M 2015 1524459605.dat" frameRight="1100" frameBottom="1060"/>
+          <DOMBitmapItem name="图片/picture_210" itemID="61ea404f-0000097e" sourceExternalFilepath="./LIBRARY/图片/picture_210.png" sourceLastImported="1524372588" externalFileCRC32="1435066563" externalFileSize="1009" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_210.png" bitmapDataHRef="M 2013 1524459563.dat" frameRight="1080" frameBottom="1040"/>
+          <DOMBitmapItem name="图片/picture_211" itemID="61ea404f-0000097f" sourceExternalFilepath="./LIBRARY/图片/picture_211.png" sourceLastImported="1524372836" externalFileCRC32="249960261" externalFileSize="953" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_211.png" bitmapDataHRef="M 2010 1524459474.dat" frameRight="1540" frameBottom="1380"/>
+          <DOMBitmapItem name="图片/picture_212" itemID="61ea404f-00000980" sourceExternalFilepath="./LIBRARY/图片/picture_212.png" sourceLastImported="1502899739" externalFileCRC32="2959520231" externalFileSize="325" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_212.png" bitmapDataHRef="M 1568 1502901825.dat" frameRight="900" frameBottom="620"/>
+          <DOMBitmapItem name="图片/picture_213" itemID="61ea404f-00000981" sourceExternalFilepath="./LIBRARY/图片/picture_213.png" sourceLastImported="1524370779" externalFileCRC32="2694327957" externalFileSize="737" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_213.png" bitmapDataHRef="M 1951 1524457782.dat" frameRight="640" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_214" itemID="61ea404f-00000982" sourceExternalFilepath="./LIBRARY/图片/picture_214.png" sourceLastImported="1524370779" externalFileCRC32="3979002664" externalFileSize="742" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_214.png" bitmapDataHRef="M 1952 1524457782.dat" frameRight="640" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_215" itemID="61ea404f-00000983" sourceExternalFilepath="./LIBRARY/图片/picture_215.png" sourceLastImported="1524370779" externalFileCRC32="4005747478" externalFileSize="720" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_215.png" bitmapDataHRef="M 1953 1524457782.dat" frameRight="640" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_216" itemID="61ea404f-00000984" sourceExternalFilepath="./LIBRARY/图片/picture_216.png" sourceLastImported="1524370779" externalFileCRC32="3979002664" externalFileSize="742" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_216.png" bitmapDataHRef="M 1954 1524457782.dat" frameRight="640" frameBottom="1220"/>
+          <DOMBitmapItem name="图片/picture_217" itemID="61ea404f-00000985" sourceExternalFilepath="./LIBRARY/图片/picture_217.png" sourceLastImported="1524370822" externalFileCRC32="812350388" externalFileSize="800" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_217.png" bitmapDataHRef="M 2021 1524459866.dat" frameRight="860" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_218" itemID="61ea404f-00000986" sourceExternalFilepath="./LIBRARY/图片/picture_218.png" sourceLastImported="1524370822" externalFileCRC32="745358441" externalFileSize="818" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_218.png" bitmapDataHRef="M 2022 1524459893.dat" frameRight="940" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_219" itemID="61ea404f-00000987" sourceExternalFilepath="./LIBRARY/图片/picture_219.png" sourceLastImported="1524370822" externalFileCRC32="3647468844" externalFileSize="863" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_219.png" bitmapDataHRef="M 2023 1524459904.dat" frameRight="860" frameBottom="1080"/>
+          <DOMBitmapItem name="图片/picture_220" itemID="61ea404f-00000988" sourceExternalFilepath="./LIBRARY/图片/picture_220.png" sourceLastImported="1524371059" externalFileCRC32="2058239001" externalFileSize="917" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_220.png" bitmapDataHRef="M 2024 1524459956.dat" frameRight="1380" frameBottom="1240"/>
+          <DOMBitmapItem name="图片/picture_221" itemID="61ea404f-00000989" sourceExternalFilepath="./LIBRARY/图片/picture_221.png" sourceLastImported="1524371059" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_221.png" bitmapDataHRef="M 2025 1524459971.dat" frameRight="1380" frameBottom="1240"/>
+          <DOMBitmapItem name="图片/picture_222" itemID="61ea404f-0000098a" sourceExternalFilepath="./LIBRARY/图片/picture_222.png" sourceLastImported="1524371059" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_222.png" bitmapDataHRef="M 2027 1524459993.dat" frameRight="1380" frameBottom="1240"/>
+          <DOMBitmapItem name="图片/picture_223" itemID="61ea404f-0000098b" sourceExternalFilepath="./LIBRARY/图片/picture_223.png" sourceLastImported="1524371059" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_223.png" bitmapDataHRef="M 2028 1524460004.dat" frameRight="1380" frameBottom="1240"/>
+          <DOMBitmapItem name="图片/picture_224" itemID="61ea404f-0000098c" sourceExternalFilepath="./LIBRARY/图片/picture_224.png" sourceLastImported="1524371059" externalFileCRC32="3559756345" externalFileSize="763" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_224.png" bitmapDataHRef="M 2026 1524459981.dat" frameRight="960" frameBottom="1240"/>
+          <DOMBitmapItem name="图片/picture_225" itemID="61ea404f-0000098d" sourceExternalFilepath="./LIBRARY/图片/picture_225.png" sourceLastImported="1524371059" externalFileCRC32="2848008566" externalFileSize="600" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_225.png" bitmapDataHRef="M 2029 1524460016.dat" frameRight="1460" frameBottom="1180"/>
+          <DOMBitmapItem name="图片/picture_226" itemID="61ea404f-0000098e" sourceExternalFilepath="./LIBRARY/图片/picture_226.png" sourceLastImported="1524371059" externalFileCRC32="4161083126" externalFileSize="855" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_226.png" bitmapDataHRef="M 2030 1524460045.dat" frameRight="1240" frameBottom="1180"/>
+          <DOMBitmapItem name="图片/picture_227" itemID="61ea404f-0000098f" sourceExternalFilepath="./LIBRARY/图片/picture_227.png" sourceLastImported="1524371059" externalFileCRC32="2184814279" externalFileSize="730" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_227.png" bitmapDataHRef="M 1980 1524458700.dat" frameRight="640" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_228" itemID="61ea404f-00000990" sourceExternalFilepath="./LIBRARY/图片/picture_228.png" sourceLastImported="1524371059" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_228.png" bitmapDataHRef="M 2031 1524460062.dat" frameRight="640" frameBottom="1020"/>
+          <DOMBitmapItem name="图片/picture_229" itemID="61ea404f-00000991" sourceExternalFilepath="./LIBRARY/图片/picture_229.gif" sourceLastImported="1524738369" externalFileCRC32="656319484" externalFileSize="631" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_229.gif" bitmapDataHRef="M 2032 1524744369.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_230" itemID="61ea404f-00000992" sourceExternalFilepath="./LIBRARY/图片/picture_230.gif" sourceLastImported="1524738384" externalFileCRC32="1844800810" externalFileSize="767" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_230.gif" bitmapDataHRef="M 2033 1524744439.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_231" itemID="61ea404f-00000993" sourceExternalFilepath="./LIBRARY/图片/picture_231.gif" sourceLastImported="1524738428" externalFileCRC32="3352786215" externalFileSize="766" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_231.gif" bitmapDataHRef="M 2034 1524744451.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="图片/picture_232" itemID="61ea404f-00000994" sourceExternalFilepath="./LIBRARY/图片/picture_232.png" sourceLastImported="1524372858" externalFileCRC32="2076608443" externalFileSize="810" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_232.png" bitmapDataHRef="M 1964 1524458225.dat" frameRight="1100" frameBottom="1460"/>
+          <DOMBitmapItem name="图片/picture_233" itemID="61ea404f-00000995" sourceExternalFilepath="./LIBRARY/图片/picture_233.png" sourceLastImported="1524372858" externalFileCRC32="156050466" externalFileSize="929" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_233.png" bitmapDataHRef="M 1965 1524458236.dat" frameRight="1240" frameBottom="1460"/>
+          <DOMBitmapItem name="图片/picture_234" itemID="61ea404f-00000996" sourceExternalFilepath="./LIBRARY/图片/picture_234.png" sourceLastImported="1524372858" externalFileCRC32="1444301453" externalFileSize="873" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_234.png" bitmapDataHRef="M 1966 1524458246.dat" frameRight="1160" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_235" itemID="61ea404f-00000997" sourceExternalFilepath="./LIBRARY/图片/picture_235.png" sourceLastImported="1524372858" externalFileCRC32="2878245168" externalFileSize="904" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_235.png" bitmapDataHRef="M 1967 1524458258.dat" frameRight="1160" frameBottom="1160"/>
+          <DOMBitmapItem name="图片/picture_236" itemID="61ea404f-00000998" sourceExternalFilepath="./LIBRARY/图片/picture_236.png" sourceLastImported="1524372858" externalFileCRC32="588862786" externalFileSize="727" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_236.png" bitmapDataHRef="M 1968 1524458268.dat" frameRight="900" frameBottom="940"/>
+          <DOMSoundItem name="声音/sound_01" itemID="61ea404f-00000999" sourceExternalFilepath="./LIBRARY/声音/sound_01.wav" sourceLastImported="1429379444" externalFileCRC32="161720089" externalFileSize="557646" href="声音/sound_01.wav" soundDataHRef="M 1909 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="139392" dataLength="557568"/>
+          <DOMSoundItem name="声音/sound_010" itemID="61ea404f-000009a2" linkageExportForAS="true" linkageClassName="snd_hurt2" sourceExternalFilepath="./LIBRARY/声音/sound_010.wav" sourceLastImported="1530884523" href="声音/sound_010.wav" soundDataHRef="M 2109 1530884419.dat" format="44kHz 16bit Stereo" sampleCount="65664" dataLength="262656"/>
+          <DOMSoundItem name="声音/sound_011" itemID="61ea404f-000009a3" linkageExportForAS="true" linkageClassName="snd_die" sourceExternalFilepath="./LIBRARY/声音/sound_011.wav" sourceLastImported="1530884329" href="声音/sound_011.wav" soundDataHRef="M 2110 1530884419.dat" format="44kHz 16bit Stereo" sampleCount="168192" dataLength="672768"/>
+          <DOMSoundItem name="声音/sound_012" itemID="61ea404f-000009a4" sourceExternalFilepath="./LIBRARY/声音/sound_012.wav" sourceLastImported="1429379545" href="声音/sound_012.wav" soundDataHRef="M 1888 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="23040" dataLength="92160"/>
+          <DOMSoundItem name="声音/sound_013" itemID="61ea404f-000009a5" sourceExternalFilepath="./LIBRARY/声音/sound_013.wav" sourceLastImported="1429379487" href="声音/sound_013.wav" soundDataHRef="M 1875 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="74880" dataLength="299520"/>
+          <DOMSoundItem name="声音/sound_014" itemID="61ea404f-000009a6" sourceExternalFilepath="./LIBRARY/声音/sound_014.wav" sourceLastImported="1429379445" href="声音/sound_014.wav" soundDataHRef="M 2068 1524745476.dat" format="44kHz 16bit Stereo" sampleCount="137088" dataLength="548352"/>
+          <DOMSoundItem name="声音/sound_016" itemID="61ea404f-000009a8" sourceExternalFilepath="./LIBRARY/声音/sound_016.wav" sourceLastImported="1570845876" href="声音/sound_016.wav" soundDataHRef="M 268 1642741706.dat" format="44kHz 16bit Mono" sampleCount="31360" dataLength="62720"/>
+          <DOMSoundItem name="声音/sound_017" itemID="61ea404f-000009a9" sourceExternalFilepath="./LIBRARY/声音/sound_017.wav" sourceLastImported="1429379515" href="声音/sound_017.wav" soundDataHRef="M 1876 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="49536" dataLength="198144"/>
+          <DOMSoundItem name="声音/sound_018" itemID="61ea404f-000009aa" linkageExportForAS="true" linkageClassName="snd_hurt1" sourceExternalFilepath="./LIBRARY/声音/sound_018.wav" sourceLastImported="1429379508" externalFileCRC32="2464413864" externalFileSize="212046" href="声音/sound_018.wav" soundDataHRef="M 1554 1487162888.dat" format="44kHz 16bit Stereo" sampleCount="52992" dataLength="211968"/>
+          <DOMSoundItem name="声音/sound_02" itemID="61ea404f-0000099a" sourceExternalFilepath="./LIBRARY/声音/sound_02.wav" sourceLastImported="1429379508" externalFileCRC32="229873068" externalFileSize="92238" href="声音/sound_02.wav" soundDataHRef="M 1899 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="52992" dataLength="211968"/>
+          <DOMSoundItem name="声音/sound_020" itemID="61ea404f-000009ac" sourceExternalFilepath="./LIBRARY/声音/sound_020.wav" sourceLastImported="1171192040" externalFileCRC32="2713061531" externalFileSize="193614" href="声音/sound_020.wav" soundDataHRef="M 1915 1503030583.dat" format="22kHz 16bit Mono" sampleCount="24108" dataLength="48216"/>
+          <DOMSoundItem name="声音/sound_021" itemID="61ea404f-000009ad" sourceExternalFilepath="./LIBRARY/声音/sound_021.wav" externalFileCRC32="3813212693" externalFileSize="138318" href="声音/sound_021.wav" soundDataHRef="M 1807 1341584501.dat" format="22kHz 16bit Mono" sampleCount="31505" dataLength="63010"/>
+          <DOMSoundItem name="声音/sound_023" itemID="61ea404f-000009af" sourceExternalFilepath="./LIBRARY/声音/sound_023.wav" sourceLastImported="1429379528" href="声音/sound_023.wav" soundDataHRef="M 1877 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="41472" dataLength="165888"/>
+          <DOMSoundItem name="声音/sound_024" itemID="61ea404f-000009b0" sourceExternalFilepath="./LIBRARY/声音/sound_024.wav" sourceLastImported="1429379527" href="声音/sound_024.wav" soundDataHRef="M 1890 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="41472" dataLength="165888"/>
+          <DOMSoundItem name="声音/sound_025" itemID="61ea404f-000009b1" sourceExternalFilepath="./LIBRARY/声音/sound_025.wav" sourceLastImported="1429379540" externalFileCRC32="3428834320" externalFileSize="82154" href="声音/sound_025.wav" soundDataHRef="M 1882 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="31104" dataLength="124416"/>
+          <DOMSoundItem name="声音/sound_026" itemID="61ea404f-000009b2" sourceExternalFilepath="./LIBRARY/声音/sound_026.wav" sourceLastImported="1429379499" externalFileCRC32="1556189429" externalFileSize="299598" href="声音/sound_026.wav" soundDataHRef="M 1885 1503028290.dat" format="44kHz 16bit Stereo" sampleCount="62208" dataLength="248832"/>
+          <DOMSoundItem name="声音/sound_027" itemID="61ea404f-000009b3" sourceExternalFilepath="./LIBRARY/声音/sound_027.wav" sourceLastImported="1431137744" externalFileCRC32="576289035" externalFileSize="198222" href="声音/sound_027.wav" soundDataHRef="M 2188 1531058745.dat" format="22kHz 8bit Mono" sampleCount="32576" dataLength="32576"/>
+          <DOMSoundItem name="声音/sound_028" itemID="61ea404f-000009b4" sourceExternalFilepath="./LIBRARY/声音/sound_028.wav" sourceLastImported="1429379522" href="声音/sound_028.wav" soundDataHRef="M 1891 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="46080" dataLength="184320"/>
+          <DOMSoundItem name="声音/sound_029" itemID="61ea404f-000009b5" sourceExternalFilepath="./LIBRARY/声音/sound_029.wav" sourceLastImported="1429379535" href="声音/sound_029.wav" soundDataHRef="M 1892 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="34560" dataLength="138240"/>
+          <DOMSoundItem name="声音/sound_03" itemID="61ea404f-0000099b" sourceExternalFilepath="./LIBRARY/声音/sound_03.wav" sourceLastImported="1429379531" externalFileCRC32="1170752975" externalFileSize="165966" href="声音/sound_03.wav" soundDataHRef="M 1901 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="38016" dataLength="152064"/>
+          <DOMSoundItem name="声音/sound_030" itemID="61ea404f-000009b6" sourceExternalFilepath="./LIBRARY/声音/sound_030.wav" sourceLastImported="1429379544" href="声音/sound_030.wav" soundDataHRef="M 1895 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="25344" dataLength="101376"/>
+          <DOMSoundItem name="声音/sound_031" itemID="61ea404f-000009b7" sourceExternalFilepath="./LIBRARY/声音/sound_031.wav" sourceLastImported="1429379496" href="声音/sound_031.wav" soundDataHRef="M 1897 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="63360" dataLength="253440"/>
+          <DOMSoundItem name="声音/sound_032" itemID="61ea404f-000009b8" sourceExternalFilepath="./LIBRARY/声音/sound_032.wav" sourceLastImported="1429379504" href="声音/sound_032.wav" soundDataHRef="M 1898 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="59904" dataLength="239616"/>
+          <DOMSoundItem name="声音/sound_04" itemID="61ea404f-0000099c" sourceExternalFilepath="./LIBRARY/声音/sound_04.wav" href="声音/sound_04.wav" soundDataHRef="M 1131 1340973562.dat" format="22kHz 16bit Mono" sampleCount="21946" dataLength="43892"/>
+          <DOMSoundItem name="声音/sound_05" itemID="61ea404f-0000099d" sourceExternalFilepath="./LIBRARY/声音/sound_05.wav" sourceLastImported="1429379520" externalFileCRC32="217268067" externalFileSize="184398" href="声音/sound_05.wav" soundDataHRef="M 1904 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="48384" dataLength="193536"/>
+          <DOMSoundItem name="声音/sound_06" itemID="61ea404f-0000099e" sourceExternalFilepath="./LIBRARY/声音/sound_06.mp3" href="声音/sound_06.mp3" soundDataHRef="M 1804 1341584501.dat" format="11kHz 16bit Mono" sampleCount="9216" exportFormat="1" exportBits="7" dataLength="1671" exportNative="true" cachedSampleCount="4608"/>
+          <DOMSoundItem name="声音/sound_07" itemID="61ea404f-0000099f" sourceExternalFilepath="./LIBRARY/声音/sound_07.wav" sourceLastImported="1503028121" externalFileCRC32="3338816026" externalFileSize="101454" href="声音/sound_07.wav" soundDataHRef="M 1908 1503028291.dat" format="22kHz 16bit Stereo" sampleCount="6115" dataLength="24460"/>
+          <DOMSoundItem name="声音/sound_08" itemID="61ea404f-000009a0" sourceExternalFilepath="./LIBRARY/声音/sound_08.wav" sourceLastImported="1500368815" externalFileCRC32="1919982391" externalFileSize="253518" href="声音/sound_08.wav" soundDataHRef="M 1919 1503031564.dat" format="22kHz 16bit Mono" sampleCount="36256" dataLength="72512"/>
+          <DOMSoundItem name="声音/sound_09" itemID="61ea404f-000009a1" sourceExternalFilepath="./LIBRARY/声音/sound_09.wav" sourceLastImported="1503028173" externalFileCRC32="4217702397" externalFileSize="239694" href="声音/sound_09.wav" soundDataHRef="M 1906 1503028291.dat" format="44kHz 16bit Stereo" sampleCount="20519" dataLength="82076"/>
+     </media>
+     <symbols>
+          <Include href="元件/mc_01.xml" loadImmediate="false" itemID="61ea404e-00000872" lastModified="1642741838"/>
+          <Include href="元件/mc_02.xml" loadImmediate="false" itemID="61ea404e-00000873" lastModified="1642741838"/>
+          <Include href="元件/mc_03.xml" loadImmediate="false" itemID="61ea404e-00000874" lastModified="1642741838"/>
+          <Include href="元件/mc_04.xml" loadImmediate="false" itemID="61ea404e-00000875" lastModified="1642741838"/>
+          <Include href="元件/mc_05.xml" loadImmediate="false" itemID="61ea404e-00000876" lastModified="1642741838"/>
+          <Include href="元件/mc_06.xml" loadImmediate="false" itemID="61ea404e-00000877" lastModified="1642741838"/>
+          <Include href="元件/mc_07.xml" loadImmediate="false" itemID="61ea404e-00000878" lastModified="1642741838"/>
+          <Include href="元件/mc_08.xml" loadImmediate="false" itemID="61ea404e-00000879" lastModified="1642741838"/>
+          <Include href="元件/mc_09.xml" loadImmediate="false" itemID="61ea404e-0000087a" lastModified="1642741838"/>
+          <Include href="元件/mc_010.xml" loadImmediate="false" itemID="61ea404e-0000087b" lastModified="1642741838"/>
+          <Include href="元件/mc_011.xml" loadImmediate="false" itemID="61ea404e-0000087c" lastModified="1642741838"/>
+          <Include href="元件/mc_012.xml" loadImmediate="false" itemID="61ea404e-0000087d" lastModified="1642741838"/>
+          <Include href="元件/mc_013.xml" loadImmediate="false" itemID="61ea404e-0000087e" lastModified="1642741838"/>
+          <Include href="元件/mc_014.xml" loadImmediate="false" itemID="61ea404e-0000087f" lastModified="1642741838"/>
+          <Include href="元件/mc_015.xml" loadImmediate="false" itemID="61ea404e-00000880" lastModified="1642741838"/>
+          <Include href="元件/mc_016.xml" loadImmediate="false" itemID="61ea404e-00000881" lastModified="1642741838"/>
+          <Include href="元件/mc_017.xml" loadImmediate="false" itemID="61ea404e-00000882" lastModified="1642741838"/>
+          <Include href="元件/mc_018.xml" loadImmediate="false" itemID="61ea404e-00000883" lastModified="1642741838"/>
+          <Include href="元件/mc_019.xml" loadImmediate="false" itemID="61ea404e-00000884" lastModified="1642741838"/>
+          <Include href="元件/mc_020.xml" loadImmediate="false" itemID="61ea404e-00000885" lastModified="1642741838"/>
+          <Include href="元件/mc_021.xml" loadImmediate="false" itemID="61ea404e-00000886" lastModified="1642741838"/>
+          <Include href="元件/mc_022.xml" loadImmediate="false" itemID="61ea404e-00000887" lastModified="1642741838"/>
+          <Include href="元件/mc_023.xml" loadImmediate="false" itemID="61ea404e-00000888" lastModified="1642741838"/>
+          <Include href="元件/mc_024.xml" loadImmediate="false" itemID="61ea404e-00000889" lastModified="1642741838"/>
+          <Include href="元件/mc_025.xml" loadImmediate="false" itemID="61ea404e-0000088a" lastModified="1642741838"/>
+          <Include href="元件/mc_026.xml" loadImmediate="false" itemID="61ea404e-0000088b" lastModified="1642741838"/>
+          <Include href="元件/mc_027.xml" loadImmediate="false" itemID="61ea404e-0000088c" lastModified="1649943079"/>
+          <Include href="元件/mc_028.xml" loadImmediate="false" itemID="61ea404e-0000088d" lastModified="1642741838"/>
+          <Include href="元件/mc_029.xml" loadImmediate="false" itemID="61ea404e-0000088e" lastModified="1642741838"/>
+          <Include href="元件/mc_030.xml" loadImmediate="false" itemID="61ea404e-0000088f" lastModified="1642741838"/>
+          <Include href="元件/mc_031.xml" loadImmediate="false" itemID="61ea404e-00000890" lastModified="1642741838"/>
+          <Include href="元件/mc_032.xml" loadImmediate="false" itemID="61ea404e-00000891" lastModified="1642741838"/>
+          <Include href="元件/mc_033.xml" loadImmediate="false" itemID="61ea404e-00000892" lastModified="1642741838"/>
+          <Include href="元件/mc_034.xml" loadImmediate="false" itemID="61ea404e-00000893" lastModified="1642741838"/>
+          <Include href="元件/mc_035.xml" loadImmediate="false" itemID="61ea404e-00000894" lastModified="1642741838"/>
+          <Include href="元件/mc_036.xml" loadImmediate="false" itemID="61ea404e-00000895" lastModified="1642741838"/>
+          <Include href="元件/mc_037.xml" loadImmediate="false" itemID="61ea404e-00000896" lastModified="1642741838"/>
+          <Include href="元件/mc_038.xml" loadImmediate="false" itemID="61ea404e-00000897" lastModified="1642741838"/>
+          <Include href="元件/shape_01.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-00000898" lastModified="1642741838"/>
+          <Include href="元件/shape_02.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-00000899" lastModified="1642741838"/>
+          <Include href="元件/shape_03.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089a" lastModified="1642741838"/>
+          <Include href="元件/shape_04.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089b" lastModified="1642741838"/>
+          <Include href="元件/shape_05.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089c" lastModified="1642741838"/>
+          <Include href="元件/shape_06.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089d" lastModified="1642741838"/>
+          <Include href="元件/shape_07.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089e" lastModified="1642741838"/>
+          <Include href="元件/shape_08.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-0000089f" lastModified="1642741838"/>
+          <Include href="元件/shape_09.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a0" lastModified="1642741838"/>
+          <Include href="元件/shape_010.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a1" lastModified="1642741838"/>
+          <Include href="元件/shape_011.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a2" lastModified="1642741838"/>
+          <Include href="元件/shape_012.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a3" lastModified="1642741838"/>
+          <Include href="元件/shape_013.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a4" lastModified="1642741838"/>
+          <Include href="元件/shape_014.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a5" lastModified="1642741838"/>
+          <Include href="元件/shape_015.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a6" lastModified="1642741838"/>
+          <Include href="元件/shape_016.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a7" lastModified="1642741838"/>
+          <Include href="元件/shape_017.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a8" lastModified="1642741838"/>
+          <Include href="元件/shape_018.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008a9" lastModified="1642741838"/>
+          <Include href="元件/shape_019.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008aa" lastModified="1642741838"/>
+          <Include href="元件/shape_020.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008ab" lastModified="1642741838"/>
+          <Include href="元件/shape_021.xml" itemIcon="1" loadImmediate="false" itemID="61ea404e-000008ac" lastModified="1642741838"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+var $fighter_ctrler:*;
+var $mc_ctrler:*;
+var $effect_ctrler:*;
+
+var defineAction:Function;
+
+function initFighter(param:Object):void{
+	$fighter_ctrler = param.fighter_ctrler;
+	$mc_ctrler = param.mc_ctrler;
+	$effect_ctrler = param.effect_ctrler;
+	
+	defineAction = $fighter_ctrler.defineAction;
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[if(!$fighter_ctrler) return;
+
+defineAction("tk",{power:40,hitType:3,hitx:2,hity:-5,hurtTime:400,hurtType:0,isBreakDef:false});
+defineAction("tz",{power:70,hitType:3,hitx:5,hity:15,hurtTime:300,hurtType:1,isBreakDef:false});
+
+defineAction("k1",{power:30,hitType:2,hitx:1,hity:0,hurtTime:300,hurtType:0,isBreakDef:false});
+defineAction("k2",{power:30,hitType:2,hitx:3,hity:0,hurtTime:300,hurtType:0,isBreakDef:false});
+defineAction("k3",{power:50,hitType:3,hitx:6,hity:0,hurtTime:400,hurtType:0,isBreakDef:false});
+defineAction("k4",{power:70,hitType:6,hitx:6,hity:-8,hurtTime:500,hurtType:0,isBreakDef:false});
+
+defineAction("kj1",{power:15,hitType:1,hitx:1,hity:0,hurtTime:350,hurtType:0,isBreakDef:false});
+defineAction("kj2",{power:120,hitType:6,hitx:2,hity:-5,hurtTime:0,hurtType:1,isBreakDef:false});
+
+defineAction("zh1",{power:120,hitType:5,hitx:10,hity:0,hurtTime:0,hurtType:1,isBreakDef:false});
+defineAction("zh2",{power:100,hitType:5,hitx:10,hity:-5,hurtTime:0,hurtType:1,isBreakDef:true});
+defineAction("zh31",{power:0,hitType:11,hitx:1,hity:-1,hurtTime:500,hurtType:0,isBreakDef:false});
+defineAction("zh3",{power:100,hitType:6,hitx:5,hity:15,hurtTime:0,hurtType:1,isBreakDef:false});
+
+defineAction("sh1",{power:0,hitType:11,hitx:0,hity:0,hurtTime:1000,hurtType:0,isBreakDef:true});
+defineAction("sh12",{power:50,hitType:3,hitx:6,hity:0,hurtTime:1000,hurtType:0,isBreakDef:false});
+defineAction("sh2",{power:0,hitType:11,hitx:0,hity:0,hurtTime:1000,hurtType:0,isBreakDef:true});
+defineAction("sh22",{power:150,hitType:6,hitx:5,hity:10,hurtTime:0,hurtType:1,isBreakDef:false});
+
+defineAction("bs",{power:300,hitType:5,hitx:10,hity:0,hurtTime:0,hurtType:1,isBreakDef:false});
+defineAction("kbs",{power:20,hitType:1,hitx:8,hity:8,hurtTime:500,hurtType:0,isBreakDef:false});
+defineAction("kbs1",{power:200,hitType:5,hitx:8,hity:-4,hurtTime:0,hurtType:1,isBreakDef:false});
+defineAction("cbs1",{power:30,hitType:4,hitx:0,hity:20,hurtTime:1000,hurtType:0,isBreakDef:false});
+defineAction("cbs",{power:150,hitType:5,hitx:5,hity:0,hurtTime:1000,hurtType:0,isBreakDef:true});
+defineAction("cbs2",{power:30,hitType:4,hitx:0,hity:-1,hurtTime:1000,hurtType:0,isBreakDef:false});
+defineAction("cbs3",{power:30,hitType:5,hitx:6,hity:-10,hurtTime:0,hurtType:1,isBreakDef:false});
+
+$fighter_ctrler.defineBishaFace("Grimmjow_1",bsface1);
+$fighter_ctrler.defineBishaFace("Grimmjow_2",bsface2);
+$fighter_ctrler.defineBishaFace("Grimmjow_3",bsface3);
+
+$fighter_ctrler.defineHurtSound(null); //被打
+$fighter_ctrler.defineHurtFlySound(snd_hurt1,snd_hurt2);
+$fighter_ctrler.defineDieSound(snd_die);
+
+//速度
+$fighter_ctrler.speed = 12;
+//跳跃力
+$fighter_ctrler.jumpPower = 15;
+//体格::瘦弱：1,偏瘦：2,中等：3,偏胖：4,胖：5,重型：6+
+$fighter_ctrler.heavy = 3;
+
+$fighter_ctrler.initMc(mc);]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="引导层: 图层 1" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                                                                      <fill>
+                                                                           <SolidColor color="#00FF00"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge strokeStyle="1" edges="!-1021 -464|-1 -464!-1 -464|-1 -1024!1079 -464|-1 -464!-1 -464|-1 796"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                                                                      <fill>
+                                                                           <SolidColor color="#33FFFF"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge strokeStyle="1" edges="!-1076 1|1119 1"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="图层 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_027" name="mc" centerPoint3DX="6.5" centerPoint3DY="-7.75">
+                                             <matrix>
+                                                  <Matrix tx="1" ty="-23.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <swatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1066265" publishTime="1649470716"/>
+          <PublishItem publishSize="1066229" publishTime="1649470681"/>
+          <PublishItem publishSize="1066219" publishTime="1649470659"/>
+          <PublishItem publishSize="1066225" publishTime="1649470630"/>
+          <PublishItem publishSize="1066229" publishTime="1649470576"/>
+          <PublishItem publishSize="1071801" publishTime="1593766536"/>
+          <PublishItem publishSize="1121797" publishTime="1589077800"/>
+          <PublishItem publishSize="1123743" publishTime="1589036519"/>
+          <PublishItem publishSize="1123754" publishTime="1589036241"/>
+          <PublishItem publishSize="1132827" publishTime="1588923696"/>
+          <PublishItem publishSize="1132772" publishTime="1588923554"/>
+          <PublishItem publishSize="1132769" publishTime="1588923505"/>
+          <PublishItem publishSize="1132776" publishTime="1588923386"/>
+          <PublishItem publishSize="1132759" publishTime="1579761164"/>
+          <PublishItem publishSize="1192653" publishTime="1558930134"/>
+          <PublishItem publishSize="1192651" publishTime="1558929063"/>
+          <PublishItem publishSize="1192658" publishTime="1558876976"/>
+          <PublishItem publishSize="1192662" publishTime="1558876812"/>
+          <PublishItem publishSize="1192658" publishTime="1558607478"/>
+          <PublishItem publishSize="1192670" publishTime="1558607194"/>
+     </publishHistory>
+</DOMDocument>

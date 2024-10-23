@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_037" itemID="624c0dd4-00000919" symbolType="graphic" lastModified="1649151444">
+  <timeline>
+    <DOMTimeline name="shape_037" currentFrame="49">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_520">
+                  <matrix>
+                    <Matrix tx="276.65" ty="196.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_521">
+                  <matrix>
+                    <Matrix tx="276.65" ty="196.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_522">
+                  <matrix>
+                    <Matrix tx="276.65" ty="196.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_523">
+                  <matrix>
+                    <Matrix tx="276.65" ty="196.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_038" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-94.85" ty="22.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29" y="22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

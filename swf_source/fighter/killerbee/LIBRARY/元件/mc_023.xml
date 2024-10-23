@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_023" itemID="624bdba1-00002606" lastModified="1649138593">
+  <timeline>
+    <DOMTimeline name="mc_023" currentFrame="32">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_268"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_102"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_102"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

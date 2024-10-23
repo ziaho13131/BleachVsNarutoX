@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_010" itemID="64d21e67-00000ee1" symbolType="graphic" lastModified="1691491943">
+  <timeline>
+    <DOMTimeline name="shape_010" currentFrame="63">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-157.1" ty="-132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="230.75" y="125"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" selected="true" symbolType="graphic" firstFrame="44" loop="loop">
+                  <matrix>
+                    <Matrix tx="-157.1" ty="-132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="230.75" y="125"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" symbolType="graphic" firstFrame="55" loop="loop">
+                  <matrix>
+                    <Matrix tx="-157.1" ty="-132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="230.75" y="125"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.72270202636719" d="1.72270202636719" tx="-257.5" ty="-226.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152" y="97.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

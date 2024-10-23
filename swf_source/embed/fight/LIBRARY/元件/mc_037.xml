@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_037" itemID="64787615-000002be" linkageExportForAS="true" linkageClassName="time_mc" lastModified="1685616149">
+  <timeline>
+    <DOMTimeline name="mc_037">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_005" name="wuxian" selected="true">
+                  <matrix>
+                    <Matrix tx="22" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-21.5" y="13.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00CCFF" strength="1.2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_043">
+                  <matrix>
+                    <Matrix tx="-37.5" ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

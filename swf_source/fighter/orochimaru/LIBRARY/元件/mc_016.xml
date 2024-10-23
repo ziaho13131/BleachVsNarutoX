@@ -1,0 +1,2466 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_016" itemID="624c0fe7-00000ff0" sourceFlashFilepath="../../cs3/orochimaru.fla" sourceLibraryItemHRef="角色-火影/一护全动作" sourceLastModified="1389237261" lastModified="1685605726" lastUniqueIdentifier="162" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_016" currentFrame="395">
+      <layers>
+        <DOMLayer name="标签" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="站立" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="17" name="走" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="20" name="瞬步" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="46" duration="5" name="起跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="51" duration="5" name="跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="56" duration="5" name="跳中" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="61" duration="5" name="落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="66" duration="13" name="落地" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="79" duration="18" name="跳砍" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="97" duration="21" name="跳砍_1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="118" duration="6" name="跳招" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="124" duration="13" name="跳招_QK" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" duration="17" name="跳招_TF" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="154" duration="18" name="砍1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="24" name="砍2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="196" duration="29" name="砍3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="225" duration="29" name="砍4" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="254" duration="27" name="砍技1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="281" duration="28" name="砍技1_1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="309" duration="33" name="招3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="342" duration="37" name="招1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="379" duration="44" name="招2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="423" duration="42" name="砍技2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="465" duration="23" name="摔1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="488" duration="32" name="摔2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="520" duration="75" name="必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="19" name="必杀_CHK" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="614" duration="41" name="必杀_0" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="655" duration="107" name="上必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="762" duration="232" name="超必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="994" duration="6" name="防御" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1000" duration="12" name="防御恢复" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1012" duration="13" name="被打" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1025" duration="5" name="击飞" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1030" duration="10" name="击飞_落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1040" duration="9" name="击飞_弹" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1049" duration="9" name="击飞_倒" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1058" duration="24" name="击飞_起" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1082" duration="20" name="起身" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1102" duration="73" name="开场" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1175" duration="34" name="胜利" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1209" duration="2" name="失败" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="控制 " color="#FFFF4F" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.loop("走");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setBisha();
+parent.$mc_ctrler.setBishaUP();
+parent.$mc_ctrler.setBishaSUPER();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.dashStop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="71" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setSkillAIR();
+parent.$mc_ctrler.setAttackAIR("跳砍_1");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="93" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="107" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="113" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="119" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(5);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setTouchFloor("跳招_TF",true); //参数为落地时的动作帧]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="136" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="145" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="159" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttack("砍2");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="164" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="169" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="179" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttack("砍3");
+parent.$mc_ctrler.setZhao1();
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="185" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="207" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setBisha();
+parent.$mc_ctrler.setSkill1();
+parent.$mc_ctrler.setAttack("砍4");
+parent.$mc_ctrler.setSkill2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="214" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="221" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="235" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setBishaSUPER();
+parent.$mc_ctrler.setBishaUP();
+parent.$mc_ctrler.setSkill2();
+parent.$mc_ctrler.setZhao3();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="241" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="247" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="255" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(10);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="259" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setSteelBody(false);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="267" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setBishaSUPER();
+parent.$mc_ctrler.setBisha();
+parent.$mc_ctrler.setAttack("砍技1_1");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="272" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="280" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="288" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttack("砍4");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="294" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="304" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="310" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(10);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="321" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttackAIR();
+parent.$mc_ctrler.setZhao3("跳招_QK");
+parent.$mc_ctrler.setSkillAIR("跳招_QK");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="326" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="343" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(5);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="368" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="380" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(10);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="404" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="418" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="424" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(5);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="437" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setBishaUP();
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="439" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setJump();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="445" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="456" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="466" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(10);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="479" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="489" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(20);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="503" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="520" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var bishaIng:Boolean=false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="525" duration="49" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.bisha(false,"Orochimaru_1");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="574" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endBisha();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.gotoAndPlay("必杀_0");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[bishaIng=true;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="598" duration="36" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="634" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="640" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="657" duration="33" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.bisha(false,"Orochimaru_1");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="690" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endBisha();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="703" duration="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="744" duration="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="765" duration="70" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.bisha(true,"Orochimaru_2");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="835" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endBisha();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="836" duration="120" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="956" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="981" duration="81" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1062" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1082" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1093" duration="81" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1174" duration="34" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1208" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1210" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="移动" color="#FF800A" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行瞬步
+parent.$mc_ctrler.dash(0); //参数为移动速度倍数]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="52" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.dash(3);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="81" duration="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,-0.01); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.1,0.001); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.move(0,-5); //参数为X,Y
+parent.$mc_ctrler.damping(0,0.5); //移动阻尼，参数为X,Y
+
+//移动一次
+// parent.$fighter_ctrler.moveOnce(0,-5);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="29" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1); //参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="155" duration="46" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.1,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="201" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.1,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="225" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(0.5,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.025,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="255" duration="58" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1.85,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.2,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="313" duration="263" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,-1); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.03,0.03); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="576" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.move(20,0); //参数为X,Y
+
+//攻击区域检测[参数：检测MC名称，帧标签]
+parent.$mc_ctrler.setHitTarget("bs_chkm","必杀_CHK");
+
+//parent.$mc_ctrler.damping(2,0); //移动阻尼，参数为X,Y
+
+//移动一次
+// parent.$fighter_ctrler.moveOnce(20,0);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.move(20,0); //参数为X,Y
+parent.$mc_ctrler.damping(2,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="614" duration="597" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if(!bishaIng){
+	parent.$mc_ctrler.move(20,0); //参数为X,Y
+	parent.$mc_ctrler.damping(2,0);
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="效果" color="#808080" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="95" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.dash();
+parent.$effect_ctrler.shadow(50,-255,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="124" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shadow(50,-255,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" duration="118" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endShadow();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="255" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shadow(50,-255,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="259" duration="54" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine(0);
+parent.$effect_ctrler.endShadow();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="313" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();
+parent.$effect_ctrler.shadow(50,-255,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="321" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endShadow();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="348" duration="42" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine(0x00FFFF);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="390" duration="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine(0x9900FF);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="428" duration="121" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine(0x000000);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="549" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="576" duration="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shadow(50,-255,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="614" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.endShadow();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="622" duration="74" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="696" duration="140" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="836" duration="103" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine(0x000000);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="939" duration="272" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.shine();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物全" color="#4F80FF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="被打面" color="#00FF00" parentLayerIndex="5" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.270187377929688" d="1.50930786132813" tx="-9.25" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" duration="489" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.270187377929688" d="1.50930786132813" tx="-9.25" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="525" duration="109" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="634" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.270187377929688" d="1.50930786132813" tx="-9.25" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="657" duration="34" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="691" duration="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.270187377929688" d="1.50930786132813" tx="-9.25" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="765" duration="71" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="836" duration="189" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.270187377929688" d="1.50930786132813" tx="-9.25" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1025" duration="186" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="检测面" color="#FFFF00" parentLayerIndex="5" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="576" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="576" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bs_chkm" centerPoint3DX="-9.75" centerPoint3DY="-27.85">
+                  <matrix>
+                    <Matrix a="0" b="-1.42637634277344" c="3.2415771484375" d="0" tx="-75.4" ty="19.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.55" y="0.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="593" duration="618" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="攻击面" color="#FF0000" parentLayerIndex="5" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="81" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="81" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="tkatm" centerPoint3DX="23.05" centerPoint3DY="-17.9">
+                  <matrix>
+                    <Matrix a="0.845199584960938" d="0.682952880859375" tx="-4.8" ty="-31.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="86" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="tkatm" centerPoint3DX="28.55" centerPoint3DY="-11.85">
+                  <matrix>
+                    <Matrix a="0.48199462890625" d="0.98046875" tx="12.65" ty="-31.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="104" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="tk2atm" centerPoint3DX="25.2" centerPoint3DY="2.6">
+                  <matrix>
+                    <Matrix a="0.534530639648438" d="1.64837646484375" tx="7.6" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="tzatm" centerPoint3DX="15.05" centerPoint3DY="-15.45">
+                  <matrix>
+                    <Matrix a="1.60386657714844" d="3.56266784667969" tx="-37.85" ty="-87.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="132" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="156" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="k1atm" centerPoint3DX="18.45" centerPoint3DY="-12.1">
+                  <matrix>
+                    <Matrix a="0.511947631835938" d="0.538589477539063" tx="1.6" ty="-23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="158" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="175" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="k2atm" centerPoint3DX="13.3" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix a="0.551849365234375" d="1.09185791015625" tx="-4.9" ty="-33.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="177" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="202" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="k3atm" centerPoint3DX="17.8" centerPoint3DY="-9.75">
+                  <matrix>
+                    <Matrix a="0.748275756835938" d="0.98040771484375" tx="-6.85" ty="-29.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="205" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="230" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="k4atm" centerPoint3DX="21.3" centerPoint3DY="-19.25">
+                  <matrix>
+                    <Matrix a="0.2503662109375" d="1.27720642089844" tx="13.05" ty="-45.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="233" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="258" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="kj1atm" centerPoint3DX="44.6" centerPoint3DY="-11.25">
+                  <matrix>
+                    <Matrix a="1.66972351074219" d="2.04708862304688" tx="-10.45" ty="-52.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="41.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="268" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="285" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="kj11atm" centerPoint3DX="32.85" centerPoint3DY="-0.55">
+                  <matrix>
+                    <Matrix a="1.29534912109375" d="1.53604125976563" tx="-9.85" ty="-31.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="41.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="288" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="313" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="zh3atm" centerPoint3DX="14.25" centerPoint3DY="-23.5">
+                  <matrix>
+                    <Matrix a="1.63031005859375" d="2.78385925292969" tx="-39.5" ty="-79.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="40.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="316" duration="74" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="390" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="zh21atm" centerPoint3DX="54.45" centerPoint3DY="-21.5">
+                  <matrix>
+                    <Matrix a="0.844635009765625" d="1.36154174804688" tx="10.65" ty="-26.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="39.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="392" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="394" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="zh2atm" centerPoint3DX="93.05" centerPoint3DY="-21.5">
+                  <matrix>
+                    <Matrix a="1.33221435546875" d="2.5008544921875" tx="49.15" ty="-72.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="39.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="402" duration="64" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="466" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="sh1atm" centerPoint3DX="46.4" centerPoint3DY="-35.7">
+                  <matrix>
+                    <Matrix a="0.467178344726563" d="1.21989440917969" tx="2.15" ty="-35.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="39.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="469" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="471" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="sh12atm" centerPoint3DX="42.35" centerPoint3DY="-33.15">
+                  <matrix>
+                    <Matrix a="0.673080444335938" d="1.21989440917969" tx="-1.85" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="39.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="474" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="489" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="sh2atm" centerPoint3DX="46.4" centerPoint3DY="-28.3">
+                  <matrix>
+                    <Matrix a="0.623367309570313" d="1.21989440917969" tx="2.2" ty="-27.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="39.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="492" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="496" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="sh22atm" centerPoint3DX="27.8" centerPoint3DY="-30.1">
+                  <matrix>
+                    <Matrix a="1.06207275390625" d="1.43084716796875" tx="-16.25" ty="-38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="39.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="499" duration="96" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="bsatm" centerPoint3DX="-7.6" centerPoint3DY="-26.4">
+                  <matrix>
+                    <Matrix a="0" b="-1.15074157714844" c="3.59684753417969" d="0" tx="-80.4" ty="11.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.6" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="598" duration="240" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="838" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs1atm" centerPoint3DX="66.4" centerPoint3DY="-23.95">
+                  <matrix>
+                    <Matrix a="0" b="-1.43144226074219" c="1.9644775390625" d="0" tx="26.65" ty="23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="841" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs2atm" centerPoint3DX="102.5" centerPoint3DY="-18.25">
+                  <matrix>
+                    <Matrix a="0" b="-1.2574462890625" c="1.26959228515625" d="0" tx="76.8" ty="23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="851" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="858" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs3atm" centerPoint3DX="149" centerPoint3DY="-18.25">
+                  <matrix>
+                    <Matrix a="0" b="-1.2574462890625" c="1.021240234375" d="0" tx="128.35" ty="23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="860" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="868" duration="50" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs4atm">
+                  <matrix>
+                    <Matrix a="0" b="-1.64715576171875" c="2.72259521484375" d="0" tx="98.6" ty="46.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="918" duration="4" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs41atm">
+                  <matrix>
+                    <Matrix a="0" b="-1.64712524414063" c="2.72259521484375" d="0" tx="98.65" ty="-45.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="922" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbs41atm">
+                  <matrix>
+                    <Matrix a="0" b="-1.64715576171875" c="2.72259521484375" d="0" tx="98.6" ty="-53.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="923" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="939" duration="16" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-2.52146911621094" c="8.70001220703125" d="0" tx="-168.65" ty="-33.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="955" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_035" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-2.52146911621094" c="8.70001220703125" d="0" tx="507.35" ty="12.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="956" duration="255" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="特效" color="#4FFFFF" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="348" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="348" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//发射[参数：MC名称，param]
+/*
+params 参数 {
+	x:Number(速度X)|{start:Number(开始速度),add:Number(加速度),max:Number(最大速度),hit:Number(攻击到速度)} , 
+	y:Number(速度Y)|{start:Number(开始速度),add:Number(加速度),max:Number(最大速度),hit:Number(攻击到速度)} , 
+	hold:int(持续帧数) ,
+	hits:int(攻击次数)
+}
+*/
+parent.$mc_ctrler.fire("zh1atm",{x:25,hold:60,hits:1});]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_029" name="zh1atm" centerPoint3DX="57.55" centerPoint3DY="-6.85">
+                  <matrix>
+                    <Matrix tx="29.05" ty="-10.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="351" duration="77" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="428" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//加入攻击对象[参数：MC名称，params]
+/*
+params 参数 {
+	x:Number(速度X)|{moveToTarget:Boolean(是否移动到目标),followTarget:Boolean(是否跟随目标),offset:Number(距离目标偏移量),range:Array[left,right](攻击范围)} , 
+	y:Number(速度Y)|{moveToTarget:Boolean(是否移动到目标),followTarget:Boolean(是否跟随目标),offset:Number(距离目标偏移量),range:Array[top,bottom](攻击范围)} , 
+	applyG:Boolean(是否受重力影响) ,
+}
+*/
+parent.$mc_ctrler.addAttacker("kj2mc",{x:{moveToTarget:true,offset:0}});]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_030" name="kj2mc" centerPoint3DX="160.6" centerPoint3DY="7.15">
+                  <matrix>
+                    <Matrix tx="160.85" ty="24.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="432" duration="264" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="696" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addAttacker("sbsmc",{x:{moveToTarget:true,offset:0}});]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_027" name="sbsmc" centerPoint3DX="230.5" centerPoint3DY="-127.4">
+                  <matrix>
+                    <Matrix tx="265.5" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="700" duration="511" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" centerPoint3DX="-2.15" centerPoint3DY="-5.85">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-37.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_009" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-22.4" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" symbolType="graphic" firstFrame="10" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-37.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_002">
+                  <matrix>
+                    <Matrix tx="-13.25" ty="-37.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_254">
+                  <matrix>
+                    <Matrix tx="-15.85" ty="-37.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_254">
+                  <matrix>
+                    <Matrix tx="-59.25" ty="-37.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_002">
+                  <matrix>
+                    <Matrix tx="-31.85" ty="-37.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" centerPoint3DX="-2.15" centerPoint3DY="-5.85">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-37.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-31.4" ty="-71.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_002" centerPoint3DX="4.6" centerPoint3DY="-0.05">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-11.6" ty="-28.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_015" centerPoint3DX="-3.55" centerPoint3DY="-3.65">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-10.95" ty="-29.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" symbolType="graphic" firstFrame="24" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-31.4" ty="-71.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-66.5" ty="-72.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_025" symbolType="graphic" firstFrame="18" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-66.5" ty="-72.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_015" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-39.95" ty="-42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="137" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_015" symbolType="graphic" firstFrame="23" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-39.95" ty="-42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="154" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_002" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-41.75" ty="-26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_005" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-72.35" ty="-56.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="196" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_004" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-41.75" ty="-26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="225" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-41.75" ty="-26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="254" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-45.8" ty="-47.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="264" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" symbolType="graphic" firstFrame="13" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-45.8" ty="-47.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="281" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" symbolType="graphic" firstFrame="14" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-45.8" ty="-47.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="309" duration="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_006" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-48.5" ty="-53.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="342" duration="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_010" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-73.7" ty="-56.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="379" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_012" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-72.35" ty="-88"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="423" duration="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-58.4" ty="-67.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="465" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-63.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="470" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_004" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-41.75" ty="-26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="488" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_007" symbolType="graphic" firstFrame="1" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-48.5" ty="-53.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="493" duration="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_007" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-48.5" ty="-53.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="520" duration="94" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-63.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="614" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_014" symbolType="graphic" firstFrame="94" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-63.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="655" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_017" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-220.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="657" duration="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_017" symbolType="graphic" firstFrame="2" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-220.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="691" duration="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_017" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-89.2" ty="-220.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="762" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-72.35" ty="-88"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="797" duration="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" symbolType="graphic" firstFrame="34" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-72.35" ty="-88"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="835" duration="159" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_021" symbolType="graphic" firstFrame="34" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-72.35" ty="-88"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="994" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-19.7" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1000" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-19.7" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1012" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_013" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-42.2" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1025" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_020" symbolType="graphic" firstFrame="5" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-42.2" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1030" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_020" symbolType="graphic" firstFrame="12" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-46.25" ty="-38.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1040" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_020" symbolType="graphic" firstFrame="14" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-46.25" ty="-38.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1049" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_020" symbolType="graphic" firstFrame="17" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-46.25" ty="-38.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1058" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_020" symbolType="graphic" firstFrame="37" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-46.25" ty="-38.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1082" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.899993896484375" d="0.899993896484375" tx="47.3" ty="-31.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1102" duration="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_001" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-56.15" ty="-60.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1159" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" centerPoint3DX="-2.15" centerPoint3DY="-5.85">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-37.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1175" duration="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_023" symbolType="graphic" firstFrame="6" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-31.4" ty="-41.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1209" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_008" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-23.5" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1211" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AI" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1211" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_026" name="AImain">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="39.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="语音" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="99" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="21" keyMode="9728" soundName="声音/sound_017" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="120" duration="79" keyMode="9728" soundName="声音/sound_006" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="28" keyMode="9728" soundName="声音/sound_019" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="227" duration="29" keyMode="9728" soundName="声音/sound_017" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="256" duration="55" keyMode="9728" soundName="声音/sound_018" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="311" duration="32" keyMode="9728" soundName="声音/sound_006" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="343" duration="37" keyMode="9728" soundName="声音/sound_018" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="380" duration="44" keyMode="9728" soundName="声音/sound_012" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="424" duration="69" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="493" duration="29" keyMode="9728" soundName="声音/sound_006" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="522" duration="54" keyMode="9728" soundName="声音/sound_007" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="576" duration="81" keyMode="9728" soundName="声音/sound_014" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="657" duration="43" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="700" duration="86" keyMode="9728" soundName="声音/sound_014" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="786" duration="51" keyMode="9728" soundName="声音/sound_001" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="837" duration="31" keyMode="9728" soundName="声音/sound_019" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="868" duration="62" keyMode="9728" soundName="声音/sound_016" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="930" duration="175" keyMode="9728" soundName="声音/sound_005" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1105" duration="73" keyMode="9728" soundName="声音/sound_011" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1178" duration="33" keyMode="9728" soundName="声音/sound_004" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="81" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="81" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="86" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="125" duration="31" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="156" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="175" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="202" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="229" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="259" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="282" duration="31" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="313" duration="34" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="347" duration="43" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="390" duration="38" keyMode="9728" soundName="声音/sound_010" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="428" duration="42" keyMode="9728" soundEffect="custom" soundName="声音/sound_015" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="470" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="493" duration="58" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="551" duration="44" keyMode="9728" soundName="声音/sound_008" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="24" keyMode="9728" soundName="声音/sound_009" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="619" duration="77" keyMode="9728" soundName="声音/sound_008" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="696" duration="141" keyMode="9728" soundName="声音/sound_008" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="837" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="858" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit2();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="868" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="872" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="876" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="880" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="884" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="888" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="892" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="896" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="900" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="904" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="908" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="912" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="916" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="920" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.playSoundHit1();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="939" duration="272" keyMode="9728" soundName="声音/sound_009" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="定位" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="1211" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" centerPoint3DX="-2.15" centerPoint3DY="-5.85">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-37.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="150" blueOffset="150" greenOffset="150"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

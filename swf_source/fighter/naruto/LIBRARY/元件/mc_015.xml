@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_015" itemID="5f2bf444-00000aac" sourceFlashFilepath="../naruto.fla" sourceLibraryItemHRef="效果/鸣人-招1飞镖" sourceLastModified="1486628070" lastModified="1596716100" lastUniqueIdentifier="10" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_015" currentFrame="8">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="5" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" name="timeout" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="11" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_114" name="main" centerPoint3DX="-1.8" centerPoint3DY="8.35">
+                  <matrix>
+                    <Matrix a="0.832305908203125" d="0.868240356445313" tx="-16.9" ty="-13.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.55" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.25" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_017" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-21.55" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.25" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" selected="true" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix tx="-21.55" ty="-7.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.25" y="34.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

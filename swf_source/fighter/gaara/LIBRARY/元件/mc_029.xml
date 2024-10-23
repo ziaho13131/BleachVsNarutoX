@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_029" itemID="624b95db-00001864" sourceFlashFilepath="../gaara.fla" sourceLibraryItemHRef="元件 36" sourceLastModified="1491311868" lastModified="1649120731" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_029" currentFrame="9">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="356.75" ty="-32.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-82" blueOffset="-51" greenOffset="-72"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_011" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix tx="356.75" ty="-32.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-82" blueOffset="-51" greenOffset="-72"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

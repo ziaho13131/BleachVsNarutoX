@@ -1,0 +1,166 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_04" itemID="624b8ff2-0000067f" symbolType="graphic" lastModified="1649119218" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="shape_04" currentFrame="20" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;66&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_02">
+                  <matrix>
+                    <Matrix a="0" b="-0.16156005859375" c="0.16156005859375" d="0" tx="7.85" ty="31.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_02">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-11.95" ty="29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_01" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix tx="16.5" ty="-1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.4" y="19.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_04">
+                  <matrix>
+                    <Matrix tx="15.75" ty="1.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.5" y="19.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="15" blurY="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_04">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-12.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.5" y="19.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="0" blurY="15"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_01" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.5" ty="-13.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.4" y="19.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_02">
+                  <matrix>
+                    <Matrix tx="-0.15" ty="-6.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_07">
+                  <matrix>
+                    <Matrix tx="6.6" ty="11.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02">
+                  <matrix>
+                    <Matrix tx="6.35" ty="11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29" y="31.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="15" blurY="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_03">
+                  <matrix>
+                    <Matrix tx="7.35" ty="-1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="37"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="0" blurY="15" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_03">
+                  <matrix>
+                    <Matrix tx="7.35" ty="-1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="37"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

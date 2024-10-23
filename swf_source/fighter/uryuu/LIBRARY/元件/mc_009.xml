@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_009" itemID="64a37d1b-000054eb" sourceFlashFilepath="../../cs3/yulong.fla" sourceLibraryItemHRef="角色-死神/雨龙/一护-防御" sourceLastModified="1404481695" lastModified="1688435995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_009" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_108">
+                  <matrix>
+                    <Matrix tx="5.15" ty="-10.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_107">
+                  <matrix>
+                    <Matrix tx="5.15" ty="-11.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

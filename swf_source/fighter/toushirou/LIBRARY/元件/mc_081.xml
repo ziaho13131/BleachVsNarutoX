@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_081" itemID="624b9944-00002938" sourceFlashFilepath="../../cs3/rifagu.fla" sourceLibraryItemHRef="角色-死神/冬狮郎/超必杀 副本" sourceLastModified="1341280435" lastModified="1649121604" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_081" currentFrame="3">
+      <layers>
+        <DOMLayer name="日-效果" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_005"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_017" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="96.95" ty="72.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

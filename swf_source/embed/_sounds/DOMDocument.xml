@@ -1,0 +1,36 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="3F629DF0EB31C04DAB52A6171829BB8E">
+     <media>
+          <DOMSoundItem name="snd_gameover.mp3" itemID="63121dc1-000006c9" linkageExportForAS="true" linkageClassName="snd_gameover" sourceExternalFilepath="./LIBRARY/snd_gameover.mp3" sourceLastImported="1662131595" externalFileCRC32="3686715287" externalFileSize="157569" href="snd_gameover.mp3" soundDataHRef="M 6 1662131649.dat" format="44kHz 16bit Stereo" sampleCount="434304" exportFormat="1" exportBits="7" dataLength="157569" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="54288"/>
+          <DOMSoundItem name="snd_ghost_jump.mp3" itemID="63121dc2-000006cd" linkageExportForAS="true" linkageClassName="snd_ghost_jump" sourceExternalFilepath="./LIBRARY/snd_ghost_jump.mp3" sourceLastImported="1662131595" externalFileCRC32="4017031423" externalFileSize="4056" href="snd_ghost_jump.mp3" soundDataHRef="M 7 1662131650.dat" format="22kHz 16bit Mono" sampleCount="22464" exportFormat="1" exportBits="7" dataLength="4056" exportNative="true" cachedSampleCount="5616"/>
+          <DOMSoundItem name="snd_ko.mp3" itemID="63121dc2-000006d1" linkageExportForAS="true" linkageClassName="snd_ko" sourceExternalFilepath="./LIBRARY/snd_ko.mp3" sourceLastImported="1662131595" externalFileCRC32="2814643367" externalFileSize="3952" href="snd_ko.mp3" soundDataHRef="M 8 1662131650.dat" format="22kHz 16bit Mono" sampleCount="21888" exportFormat="1" exportBits="7" dataLength="3952" exportNative="true" cachedSampleCount="5472"/>
+          <DOMSoundItem name="snd_ko_bs.mp3" itemID="63121dc0-000006b5" linkageExportForAS="true" linkageClassName="snd_ko_bs" sourceExternalFilepath="./LIBRARY/snd_ko_bs.mp3" sourceLastImported="1662131595" externalFileCRC32="4022603169" externalFileSize="6448" href="snd_ko_bs.mp3" soundDataHRef="M 1 1662131648.dat" format="22kHz 16bit Mono" sampleCount="35712" exportFormat="1" exportBits="7" dataLength="6448" exportNative="true" cachedSampleCount="8928"/>
+          <DOMSoundItem name="snd_menu1.mp3" itemID="63121dc0-000006b9" linkageExportForAS="true" linkageClassName="snd_menu1" sourceExternalFilepath="./LIBRARY/snd_menu1.mp3" sourceLastImported="1662131595" externalFileCRC32="2613565560" externalFileSize="1664" href="snd_menu1.mp3" soundDataHRef="M 2 1662131648.dat" format="22kHz 16bit Mono" sampleCount="9216" exportFormat="1" exportBits="7" dataLength="1664" exportNative="true" cachedSampleCount="2304"/>
+          <DOMSoundItem name="snd_menu2.mp3" itemID="63121dc0-000006bd" linkageExportForAS="true" linkageClassName="snd_menu2" sourceExternalFilepath="./LIBRARY/snd_menu2.mp3" sourceLastImported="1662131595" externalFileCRC32="2726413709" externalFileSize="3016" href="snd_menu2.mp3" soundDataHRef="M 3 1662131648.dat" format="22kHz 16bit Mono" sampleCount="16704" exportFormat="1" exportBits="7" dataLength="3016" exportNative="true" cachedSampleCount="4176"/>
+          <DOMSoundItem name="snd_menu5.mp3" itemID="63121dc0-000006c1" linkageExportForAS="true" linkageClassName="snd_menu5" sourceExternalFilepath="./LIBRARY/snd_menu5.mp3" sourceLastImported="1662131595" externalFileCRC32="681253359" externalFileSize="7176" href="snd_menu5.mp3" soundDataHRef="M 4 1662131648.dat" format="22kHz 16bit Mono" sampleCount="39744" exportFormat="1" exportBits="7" dataLength="7176" exportNative="true" cachedSampleCount="9936"/>
+          <DOMSoundItem name="snd_over_hit.mp3" itemID="63121dc1-000006c5" linkageExportForAS="true" linkageClassName="snd_over_hit" sourceExternalFilepath="./LIBRARY/snd_over_hit.mp3" sourceLastImported="1662131595" externalFileCRC32="3963586822" externalFileSize="10816" href="snd_over_hit.mp3" soundDataHRef="M 5 1662131649.dat" format="22kHz 16bit Mono" sampleCount="59904" exportFormat="1" exportBits="7" dataLength="10816" exportNative="true" cachedSampleCount="14976"/>
+     </media>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <persistentData>
+          <PD n="com.air.sdk.path"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="175192" publishTime="1692189587"/>
+          <PublishItem publishSize="175192" publishTime="1692189539"/>
+          <PublishItem publishSize="175179" publishTime="1676008589"/>
+          <PublishItem publishSize="175179" publishTime="1676008539"/>
+     </publishHistory>
+</DOMDocument>

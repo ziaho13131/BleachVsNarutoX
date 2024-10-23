@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_044" itemID="624c0dd4-000008dd" sourceFlashFilepath="../lee.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-砍3" sourceLastModified="1501900222" lastModified="1649151444" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_044" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_009" symbolType="graphic" firstFrame="6" loop="play once">
+                  <matrix>
+                    <Matrix a="1.32977294921875" d="1.32977294921875" tx="-88.05" ty="-45.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="82.75" y="54"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

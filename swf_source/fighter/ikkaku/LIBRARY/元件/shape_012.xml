@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_012" itemID="624ba990-0000505e" sourceFlashFilepath="../yihu.fla" sourceLibraryItemHRef="鸣人-动作/鸣人-分身" sourceLastModified="1345163497" symbolType="graphic" lastModified="1649125776" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_012" currentFrame="4">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_003" centerPoint3DX="43" centerPoint3DY="107.95">
+                  <matrix>
+                    <Matrix tx="3" ty="57.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="50"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="0" blurY="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_002"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_002" centerPoint3DX="40" centerPoint3DY="54">
+                  <matrix>
+                    <Matrix ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

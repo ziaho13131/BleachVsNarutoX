@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_014" itemID="624baaa9-000053bd" sourceFlashFilepath="../主人物/井上织姬.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-站立" sourceLastModified="1500359321" lastModified="1649126057" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_014" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_111">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="2.1" ty="-12.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19" y="30.55"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_112">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="2.1" ty="-13.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19" y="31"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

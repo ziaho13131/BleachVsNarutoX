@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_032" itemID="624bac53-000057ec" sourceFlashFilepath="../itachi.fla" sourceLibraryItemHRef="写轮眼1" sourceLastModified="1377166347" symbolType="graphic" lastModified="1649126483" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_032" currentFrame="5">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_245"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_245">
+                  <matrix>
+                    <Matrix a="0.719436645507813" b="0.694549560546875" c="-0.694549560546875" d="0.719436645507813" tx="29.75" ty="-11.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.75" y="30.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_245">
+                  <matrix>
+                    <Matrix a="0.280975341796875" b="0.959701538085938" c="-0.959701538085938" d="0.280975341796875" tx="50.85" ty="-5.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.8" y="30.4"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

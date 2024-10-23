@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_003" itemID="64d21051-0000048f" sourceFlashFilepath="../madara.fla" sourceLibraryItemHRef="22/鸣人-跳招" sourceLastModified="1516099414" symbolType="graphic" lastModified="1691488337" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_003" currentFrame="9" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;87&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_222">
+                  <matrix>
+                    <Matrix tx="7.5" ty="20"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_190">
+                  <matrix>
+                    <Matrix tx="10" ty="18"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_191">
+                  <matrix>
+                    <Matrix a="0.707107543945312" b="-0.70709228515625" c="0.707107543945312" d="0.707107543945312" tx="-10.9" ty="53.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_192">
+                  <matrix>
+                    <Matrix a="0.707107543945312" b="-0.70709228515625" c="0.707107543945312" d="0.707107543945312" tx="-10.55" ty="53.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

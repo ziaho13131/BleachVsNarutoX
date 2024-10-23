@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_011" itemID="64d21e67-00000ee2" symbolType="graphic" lastModified="1691491943" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="shape_011" currentFrame="53">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_210">
+                  <matrix>
+                    <Matrix tx="6.1" ty="9.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_211">
+                  <matrix>
+                    <Matrix tx="4.1" ty="9.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="39" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_212">
+                  <matrix>
+                    <Matrix tx="5.1" ty="9.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_213">
+                  <matrix>
+                    <Matrix tx="5.1" ty="9.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_214">
+                  <matrix>
+                    <Matrix tx="7.1" ty="9.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_014" itemID="624baaa9-000053cb" symbolType="graphic" lastModified="1649126057">
+  <timeline>
+    <DOMTimeline name="shape_014" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_205">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="1.6" ty="6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.45" y="28"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_015" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="39.5" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_204">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="3.65" ty="0.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.45" y="31"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

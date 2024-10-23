@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_0032" itemID="64785e0b-00000b82" sourceFlashFilepath="H:\改源文件\yihu.fla" sourceLibraryItemHRef="一护-万解" sourceLastModified="1187698477" lastModified="1685609995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_0032">
+      <layers>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_0745">
+                  <matrix>
+                    <Matrix tx="56" ty="64.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_0015" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="0.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_0015" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

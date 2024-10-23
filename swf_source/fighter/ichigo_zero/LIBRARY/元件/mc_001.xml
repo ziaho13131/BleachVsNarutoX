@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="624ba622-00004ba8" lastModified="1649124898" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="mc_001" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_082" centerPoint3DX="-18.9" centerPoint3DY="31.85">
+                  <matrix>
+                    <Matrix a="1.02555847167969" d="0.240264892578125" tx="-16.8" ty="29.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_082" centerPoint3DX="-19.6" centerPoint3DY="84.75">
+                  <matrix>
+                    <Matrix a="1.02555847167969" d="-0.240264892578125" tx="-17.5" ty="88.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_082" centerPoint3DX="-16.35" centerPoint3DY="46.9">
+                  <matrix>
+                    <Matrix a="0.630477905273438" d="0.240264892578125" tx="10.35" ty="44.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.35" y="14.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_082" centerPoint3DX="-16.45" centerPoint3DY="60.25">
+                  <matrix>
+                    <Matrix a="0.450225830078125" d="-0.201217651367188" tx="21.5" ty="63.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_030">
+                        <matrix>
+                          <Matrix a="20" d="20"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1302 0|1302 2320!1302 2320|0 2320!0 2320|0 0!0 0|1302 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

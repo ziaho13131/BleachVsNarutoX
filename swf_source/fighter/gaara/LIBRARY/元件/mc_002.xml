@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_002" itemID="624b95db-00001849" sourceFlashFilepath="../../cs3/gaara.fla" sourceLibraryItemHRef="角色-火影/我爱罗/一护-砍1 副本 2" sourceLastModified="1387865648" lastModified="1649120731" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_002" currentFrame="20">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_041">
+                  <matrix>
+                    <Matrix tx="25.75" ty="0.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_039">
+                  <matrix>
+                    <Matrix tx="26.75" ty="-3.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_038">
+                  <matrix>
+                    <Matrix tx="19.75" ty="-27.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_037">
+                  <matrix>
+                    <Matrix tx="22.75" ty="-19.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_036">
+                  <matrix>
+                    <Matrix tx="23.75" ty="-10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_033">
+                  <matrix>
+                    <Matrix tx="22.75" ty="-4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_032">
+                  <matrix>
+                    <Matrix tx="23.75" ty="-6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="10" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_032">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="23.75" ty="-6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!475 -25|475 1160!475 1160|1420 1160!1420 1160|1420 683!1420 683|1445 683!1445 683|1445 470.5!1445 470.5[#5A3.6C #1D4.7 1442 466!1442 466[1435 441 1435 440!1435 440[1435 389 1485 389!1485 389[1535 389 1535 439!1535 439|1535 439.5!1535
+ 439.5[#607.64 #1BE.44 1547 458!1547 458|1620 458!1620 458|1620 314!1620 314|1595 314!1595 314|1595 259!1595 259|1475 259!1475 259[#5B8.3C 265 1450 265!1450 265[1435.5 265 1425 259!1425 259|1420 259!1420 259|1420 256!1420 256[#584.56
+ #FA.26 1407 241!1407 241[1400 216 1400 215!1400 215[1400 #C3.BC 1406.5 184!1406.5 184|1405 184!1405 184|1405 -25!1405 -25|475 -25"/>
+                        <Edge cubics="!1535 440(1535,440;1542,449 1545,453 1547,458q1535 440 1547 458);"/>
+                        <Edge cubics="!1535 439(1535,439;1535,439 1535,439 1535,440q1535 439 1535 440);"/>
+                        <Edge cubics="!1445 471(1445,471;1436,460 1435,441 1435,440q1445 471 1442 466 1435 440)1435,440;"/>
+                        <Edge cubics="!1435 440(1435,440;1435,372 1535,373 1535,439q1435 440Q1435 389q1485 389Q1535 389q1535 439)1535,439;"/>
+                        <Edge cubics="!1475 259(;1468,263 1460,265 1450,265q1475 259 1450 265);"/>
+                        <Edge cubics="!1450 265(1450,265;1443,265 1437,264 1425,259q1450 265Q1436 265q1425 259)1425,259;"/>
+                        <Edge cubics="!1420 256(;1403,249 1400,217 1400,215q1420 256 1407 241 1400 215);"/>
+                        <Edge cubics="!1400 215(;1400,203 1402,194 1407,184q1400 215 1407 184);"/>
+                        <Edge cubics="!1620 458(;1620,458 1620,314 1620,314q1620 458 1620 314);"/>
+                        <Edge cubics="!1407 184(;1407,184 1405,184 1405,184q1407 184 1405 184);"/>
+                        <Edge cubics="!1595 314(1595,314;1595,314 1595,259 1595,259q1595 314 1595 259);"/>
+                        <Edge cubics="!1420 259(1420,259;1420,259 1420,256 1420,256q1420 259 1420 256);"/>
+                        <Edge cubics="!1425 259(;1425,259 1420,259 1420,259q1425 259 1420 259)1420,259;"/>
+                        <Edge cubics="!1595 259(1595,259;1595,259 1475,259 1475,259q1595 259 1475 259);"/>
+                        <Edge cubics="!1420 683(;1420,683 1445,683 1445,683q1420 683 1445 683);"/>
+                        <Edge cubics="!1445 683(1445,683;1445,683 1445,471 1445,471q1445 683 1445 471);"/>
+                        <Edge cubics="!1420 1160(1420,1160;1420,1160 475,1160 475,1160q1420 1160 475 1160)475,1160;"/>
+                        <Edge cubics="!1420 1160(;1420,1160 1420,683 1420,683q1420 1160 1420 683);"/>
+                        <Edge cubics="!1620 314(;1620,314 1595,314 1595,314q1620 314 1595 314);"/>
+                        <Edge cubics="!1547 458(;1547,458 1620,458 1620,458q1547 458 1620 458);"/>
+                        <Edge cubics="!1405 184(;1405,184 1405,-25 1405,-25q1405 184 1405 -25);"/>
+                        <Edge cubics="!475 1160(;475,1160 475,-25 475,-25q475 1160 475 -25);"/>
+                        <Edge cubics="!1405 -25(;1405,-25 475,-25 475,-25q1405 -25 475 -25)475,-25;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_031">
+                  <matrix>
+                    <Matrix tx="26.75" ty="-3.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

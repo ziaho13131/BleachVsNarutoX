@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_003" itemID="624bdab3-00001d45" sourceFlashFilepath="../../cs3/rukia.fla" sourceLibraryItemHRef="露琪亚/露琪亚-开场 副本" sourceLastModified="1323762381" lastModified="1649138355" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_003">
+      <layers>
+        <DOMLayer name="人物" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_416">
+                  <matrix>
+                    <Matrix tx="5.7" ty="9.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_029" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="4" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

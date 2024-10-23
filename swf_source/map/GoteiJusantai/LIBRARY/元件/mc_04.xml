@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_04" itemID="6257efb4-000001bb" lastModified="1649930164" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="mc_04">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" centerPoint3DX="-215" centerPoint3DY="159.05">
+                  <matrix>
+                    <Matrix tx="-231" ty="63.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" centerPoint3DX="224.95" centerPoint3DY="159.05">
+                  <matrix>
+                    <Matrix tx="208.95" ty="63.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" centerPoint3DX="664.9" centerPoint3DY="159.05">
+                  <matrix>
+                    <Matrix tx="648.9" ty="63.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" centerPoint3DX="-654.95" centerPoint3DY="159.05">
+                  <matrix>
+                    <Matrix tx="-670.95" ty="63.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" centerPoint3DX="1104.85" centerPoint3DY="159.05">
+                  <matrix>
+                    <Matrix tx="1088.85" ty="63.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

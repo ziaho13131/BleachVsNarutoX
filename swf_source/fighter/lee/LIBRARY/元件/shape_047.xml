@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_047" itemID="624c0dd4-00000923" sourceFlashFilepath="../../cs3/lee.fla" sourceLibraryItemHRef="效果/元件 21" sourceLastModified="1359514762" symbolType="graphic" lastModified="1649151444" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_047" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_035" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="134" y="96.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="-255" greenOffset="147"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,201 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" objectsSnapTo="false" viewAngle3D="1" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E0EB040D1CA7D499A02E3FAE623A882">
+     <folders>
+          <DOMFolderItem name="元件" itemID="5efc9896-00000d8f"/>
+          <DOMFolderItem name="字体" itemID="5efc9896-00000d8b"/>
+          <DOMFolderItem name="图片" itemID="5efc9896-00000d8d"/>
+          <DOMFolderItem name="声音" itemID="5efc9896-00000d8c"/>
+          <DOMFolderItem name="组件" itemID="5efc9896-00000d8a"/>
+          <DOMFolderItem name="视频" itemID="5efc9896-00000d8e"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="图片/picture_01" itemID="6257f17f-0000025c" sourceExternalFilepath="./LIBRARY/图片/picture_01.png" sourceLastImported="1531211464" externalFileCRC32="1236524561" externalFileSize="156504" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片/picture_01.png" bitmapDataHRef="M 37 1531211505.dat" frameRight="16000" frameBottom="12000"/>
+          <DOMBitmapItem name="图片/picture_02" itemID="6257f17f-0000025d" sourceExternalFilepath="./LIBRARY/图片/picture_02.png" sourceLastImported="1531211464" externalFileCRC32="2524018382" externalFileSize="29194" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_02.png" bitmapDataHRef="M 42 1531211505.dat" frameRight="4800" frameBottom="17640"/>
+          <DOMBitmapItem name="图片/picture_03" itemID="6257f17f-0000025e" sourceExternalFilepath="./LIBRARY/图片/picture_03.png" sourceLastImported="1531211462" externalFileCRC32="1138825849" externalFileSize="179893" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片/picture_03.png" bitmapDataHRef="M 28 1531211504.dat" frameRight="32400" frameBottom="14360"/>
+     </media>
+     <symbols>
+          <Include href="元件/mc_01.xml" loadImmediate="false" itemID="6257f17f-00000254" lastModified="1650011297"/>
+          <Include href="元件/mc_02.xml" loadImmediate="false" itemID="6257f17f-00000255" lastModified="1649930623"/>
+          <Include href="元件/mc_03.xml" loadImmediate="false" itemID="6257f17f-00000256" lastModified="1649930623"/>
+          <Include href="元件/mc_04.xml" loadImmediate="false" itemID="6257f17f-00000257" lastModified="1649930623"/>
+          <Include href="元件/mc_05.xml" loadImmediate="false" itemID="6257f17f-00000258" lastModified="1649930623"/>
+          <Include href="元件/mc_06.xml" loadImmediate="false" itemID="6257f17f-00000259" lastModified="1649930623"/>
+          <Include href="元件/mc_07.xml" loadImmediate="false" itemID="6257f17f-0000025a" lastModified="1649930623"/>
+          <Include href="元件/mc_08.xml" loadImmediate="false" itemID="6257f17f-0000025b" lastModified="1649930623"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="边界线" color="#808080" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_07" name="line_player_bottom">
+                                             <matrix>
+                                                  <Matrix ty="398"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color blueMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_07" name="line_bottom">
+                                             <matrix>
+                                                  <Matrix ty="441.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color blueMultiplier="0" greenMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_07" name="line_left" centerPoint3DX="0.05" centerPoint3DY="810">
+                                             <matrix>
+                                                  <Matrix a="9.1552734375e-05" b="1" c="-1" d="9.1552734375e-05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0" blueMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_07" name="line_right" centerPoint3DX="1620.05" centerPoint3DY="810">
+                                             <matrix>
+                                                  <Matrix a="9.1552734375e-05" b="1" c="-1" d="9.1552734375e-05" tx="1620"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0" blueMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="板" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_02" name="floor" centerPoint3DX="422.95" centerPoint3DY="202.5">
+                                             <matrix>
+                                                  <Matrix tx="-81.75" ty="191.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="504.7" y="11.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="人物位置" color="#4FFFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_08" name="p1">
+                                             <matrix>
+                                                  <Matrix tx="528.1" ty="156"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-11.2"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0" greenMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_08" name="p2">
+                                             <matrix>
+                                                  <Matrix tx="791" ty="156"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-11.2"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color blueMultiplier="0" greenMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="前景" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_06" name="front" centerPoint3DX="-120" centerPoint3DY="228.95">
+                                             <matrix>
+                                                  <Matrix a="1.00004577636719" tx="-120" ty="114.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="114.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="主场景" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_03" name="map" centerPoint3DX="500.45" centerPoint3DY="-216.55">
+                                             <matrix>
+                                                  <Matrix a="1.00004577636719" ty="-494"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="414.65" y="236.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="背景" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="元件/mc_04" name="bg" centerPoint3DX="300" centerPoint3DY="200">
+                                             <transformationPoint>
+                                                  <Point x="300" y="200"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <persistentData>
+          <PD n="com.air.sdk.path"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="276049" publishTime="1593615335"/>
+          <PublishItem publishSize="360713" publishTime="1593615323"/>
+          <PublishItem publishSize="455132" publishTime="1593615307"/>
+          <PublishItem publishSize="376940" publishTime="1593615293"/>
+          <PublishItem publishSize="354109" publishTime="1593612479"/>
+          <PublishItem publishSize="354109" publishTime="1593612454"/>
+          <PublishItem publishSize="2290470" publishTime="1497451184"/>
+          <PublishItem publishSize="2290471" publishTime="1497451174"/>
+          <PublishItem publishSize="2290473" publishTime="1497451007"/>
+          <PublishItem publishSize="2290473" publishTime="1497450882"/>
+          <PublishItem publishSize="2290469" publishTime="1497450854"/>
+          <PublishItem publishSize="2290473" publishTime="1497450777"/>
+          <PublishItem publishSize="2290473" publishTime="1497450771"/>
+          <PublishItem publishSize="2290469" publishTime="1497450674"/>
+          <PublishItem publishSize="1995288" publishTime="1497450465"/>
+          <PublishItem publishSize="1915261" publishTime="1497450422"/>
+          <PublishItem publishSize="909811" publishTime="1497450304"/>
+          <PublishItem publishSize="909798" publishTime="1497450160"/>
+          <PublishItem publishSize="909795" publishTime="1497450060"/>
+          <PublishItem publishSize="909802" publishTime="1497449905"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_004" itemID="624bb179-0000666d" lastModified="1649127801" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_004" currentFrame="13">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_043" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.18670654296875" b="-0.269088745117188" c="0.491012573242188" d="0.207931518554688" tx="-15.1" ty="188.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="244.35" y="299.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_045" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.468612670898438" b="-0.316268920898438" c="0.316268920898438" d="0.468612670898438" tx="81.9" ty="244.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="265.9" y="151.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_045" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.549880981445313" b="-0.131332397460938" c="0.131332397460938" d="-0.549880981445313" tx="336.55" ty="226.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="266" y="151.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

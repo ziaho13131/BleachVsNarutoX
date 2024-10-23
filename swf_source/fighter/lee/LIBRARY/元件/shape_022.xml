@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_022" itemID="624c0dd4-0000090a" symbolType="graphic" lastModified="1649151444">
+  <timeline>
+    <DOMTimeline name="shape_022">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_037" blendMode="screen" centerPoint3DX="-17.65" centerPoint3DY="167.75">
+                  <matrix>
+                    <Matrix a="-1.36283874511719" b="-0.572952270507813" c="0.424758911132813" d="-1.01034545898438" tx="36.3" ty="126.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.35" y="65.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="-255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_010">
+                  <transformationPoint>
+                    <Point x="20.5" y="26.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

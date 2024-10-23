@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_121" itemID="64d224cc-00001693" symbolType="graphic" lastModified="1691493580">
+  <timeline>
+    <DOMTimeline name="shape_121" currentFrame="5">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_053" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-4" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_053" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-4" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_061" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.85" ty="9.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.75" y="23.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_120" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="1.15" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.55" y="34.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_061" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.85" ty="9.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.75" y="23.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

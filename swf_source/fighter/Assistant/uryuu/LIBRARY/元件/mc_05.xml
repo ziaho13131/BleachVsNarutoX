@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_05" itemID="5efc648b-0000199e" sourceFlashFilepath="../../../bleachvsnaruto.fla" sourceLibraryItemHRef="图片S/8683318_49386_2.gif 拷贝" sourceLastModified="1306461934" lastModified="1593599115" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_05" currentFrame="5">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_03" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="48.5" y="93.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_03" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="4.35025024414063" tx="188.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.5" y="93.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_03" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.29083251953125" tx="1712.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="498.4" y="93.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

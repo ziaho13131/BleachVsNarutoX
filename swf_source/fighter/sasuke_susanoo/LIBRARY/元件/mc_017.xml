@@ -1,0 +1,141 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_017" itemID="624bb179-0000667a" lastModified="1676096991" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="mc_017" currentFrame="44">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="21" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="22" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.move(13,0);
+$attacker_ctrler.setHitTarget("mian","hit");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.removeSelf();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//移动
+$attacker_ctrler.move(5,0);
+//阻尼
+$attacker_ctrler.damping(0.1,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="mian" centerPoint3DX="98.05" centerPoint3DY="-127.35">
+                  <matrix>
+                    <Matrix a="2.76626586914063" d="5.17178344726563" tx="-119.25" ty="-155.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="bsatm" centerPoint3DX="220.7" centerPoint3DY="-90.85">
+                  <matrix>
+                    <Matrix a="1.13555908203125" d="3.3109130859375" tx="2.25" ty="-118.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="23" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_004" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-253.3" ty="-230.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="314" y="182.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_004" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.21337890625" d="0.700592041015625" tx="-6.3" ty="-176.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="314" y="182.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_044" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.518051147460938" b="-0.521759033203125" c="0.521759033203125" d="0.518051147460938" tx="-184.3" ty="26.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="265.95" y="151.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

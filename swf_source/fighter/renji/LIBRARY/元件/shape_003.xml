@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_003" itemID="624bdc35-00002d2f" sourceFlashFilepath="../../cs3/Renji.fla" sourceLibraryItemHRef="效果/超必杀特效" sourceLastModified="1404566190" symbolType="graphic" lastModified="1649138741" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_003">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_305">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-51.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="图片/picture_305">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-171.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2612 0S2|6974 0!6974 0|6974 2820!6974 2820|2612 2820"/>
+                        <Edge fillStyle1="2" edges="!2612 2820S2|0 2820!0 2820|0 0!0 0|2612 0"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!2612 0S3|2612 2820"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

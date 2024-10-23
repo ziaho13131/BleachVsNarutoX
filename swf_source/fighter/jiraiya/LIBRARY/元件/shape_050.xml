@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_050" itemID="65fd08c1-00000420" symbolType="graphic" lastModified="1711081665">
+  <timeline>
+    <DOMTimeline name="shape_050">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_032" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="10.4"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5059 1211|5053 1212!5053 1212[4975 1213 4938 1134!4938 1134|4924 1120!4924 1120|4865 704!4865 704[4771 545 4646 404!4646 404[4038 154 3400 0!3400 0|627 0!627 0[647 261 588 544!588 544|586 566!586 566[472 871 417 1182!417 1182[411 1216
+ 387 1258!387 1258|397 1327!397 1327[379 1347 347 1339!347 1339|318 1339!318 1339[258 1266 208 1190!208 1190|208 1640!208 1640|5608 1640!5608 1640|5608 1358!5608 1358|5421 1397!5421 1397[5196 1340 5103 1131!5103 1131[5079 1141 5059 1211"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

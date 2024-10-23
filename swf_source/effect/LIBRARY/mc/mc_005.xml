@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc/mc_005" itemID="64780cab-000003b2" linkageExportForAS="true" linkageClassName="xg_buff_effect_defense" lastModified="1685589163">
+  <timeline>
+    <DOMTimeline name="mc_005">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/shape_002" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-54.95" ty="-131"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.9" y="73.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="-255" greenOffset="-42"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

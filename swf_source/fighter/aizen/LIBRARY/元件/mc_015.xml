@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_015" itemID="624afc6d-00000eef" lastModified="1649081453" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_015" currentFrame="29">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_024" name="zh3atm" centerPoint3DX="20.5" centerPoint3DY="3325.85">
+                  <matrix>
+                    <Matrix a="-0.367141723632813" b="-0.000152587890625" c="0.01165771484375" d="-27.2702789306641" tx="32.25" ty="4043.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.3" y="20.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.006866455078125" b="7.80511474609375" c="-0.490631103515625" d="-4.36093139648438" tx="35.7" ty="3268.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.5" y="50.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" selected="true" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.006866455078125" b="7.80511474609375" c="-0.490631103515625" d="-4.36093139648438" tx="46.7" ty="3268.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.5" y="50.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_017" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.006866455078125" b="7.80511474609375" c="-0.490631103515625" d="-4.36093139648438" tx="46.7" ty="3268.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.5" y="50.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" symbolType="graphic" firstFrame="17" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.006866455078125" b="7.80511474609375" c="-0.490631103515625" d="-4.36093139648438" tx="46.7" ty="3268.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.5" y="50.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" symbolType="graphic" firstFrame="17" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.006866455078125" b="7.80511474609375" c="-0.490631103515625" d="-4.36093139648438" tx="46.7" ty="3268.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.5" y="50.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

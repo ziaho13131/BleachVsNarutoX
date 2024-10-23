@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_21" itemID="5efc61db-00000548" symbolType="graphic" lastModified="1593598427">
+  <timeline>
+    <DOMTimeline name="shape_21">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_15" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-60.8" ty="-89.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!753 -480[681 -653 512 -738!512 -738[378 -806 225 -806!225 -806[57 -805 -69 -713!-69 -713[-95 -694 -100 -658!-100 -658[-125 -459 -116 -264!-116 -264[-115 -240 -121 -214!-121 -214[-161 -25 -221 151!-221 151|-240 215!-240 215|-300 260!-300
+ 260|-336 335!-336 335|-361 411!-361 411[-378 470 -378 531!-378 531|-1216 531!-1216 531|-1216 -1789!-1216 -1789|3604 -1789!3604 -1789|3604 531!3604 531|581 531!581 531[599 369 643 211!643 211[692 34 757 -135!757 -135[825 -308 753 -480"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

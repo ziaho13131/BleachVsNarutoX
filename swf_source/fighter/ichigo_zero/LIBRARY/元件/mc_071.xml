@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_071" itemID="624ba622-00004bee" sourceFlashFilepath="../ichigo.fla" sourceLibraryItemHRef="xin yihu/效果/招1刀光" sourceLastModified="1487312118" lastModified="1649124898" lastUniqueIdentifier="3" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_071">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="hit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_069" name="main" centerPoint3DX="-25.8" centerPoint3DY="4.85">
+                  <matrix>
+                    <Matrix a="0.79974365234375" d="1.82574462890625" tx="-47.3" ty="-36.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_016">
+                  <matrix>
+                    <Matrix a="0.861129760742188" d="0.86126708984375" tx="-275.1" ty="-98.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="175" y="87.95"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_060">
+                  <matrix>
+                    <Matrix a="0.81597900390625" d="0.81597900390625" tx="-263.1" ty="-92.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_074">
+                  <matrix>
+                    <Matrix a="0.81597900390625" d="0.81597900390625" tx="-263.1" ty="-92.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_088">
+                  <matrix>
+                    <Matrix a="0.81597900390625" d="0.81597900390625" tx="-263.1" ty="-92.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_036">
+                  <matrix>
+                    <Matrix a="0.81597900390625" d="0.81597900390625" tx="-263.1" ty="-92.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_309">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-159.5" ty="-39"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!110 -760|110 780!110 780|-1180 780!-1180 780|-1180 -760!-1180 -760|110 -760"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="-26.75" y="1.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="-26.75" y="1.25"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_309">
+                            <matrix>
+                              <Matrix a="20" d="19.0994110107422" tx="-159.5" ty="-36.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!110 760|-1180 760!-1180 760|-1180 -711!-1180 -711|110 -711!110 -711|110 760"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

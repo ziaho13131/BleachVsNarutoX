@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_0156" itemID="64785e0b-00000bfe" sourceFlashFilepath="../../../../../../../../lenovo/Desktop/BVN/ichigo_halfmask.fla" sourceLibraryItemHRef="xin yihu/元件 2" sourceLastModified="1319562282" lastModified="1685609995" lastUniqueIdentifier="5" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_0156">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0107" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.22872924804688" d="1.22872924804688" tx="72.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.95" y="75.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_0108">
+                  <matrix>
+                    <Matrix a="1.1075439453125" d="0.492645263671875" tx="48.55" ty="144.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_0108" centerPoint3DX="91.9" centerPoint3DY="60.15">
+                  <matrix>
+                    <Matrix a="0.768218994140625" d="0.492645263671875" tx="68.15" ty="53.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_0108">
+                  <matrix>
+                    <Matrix a="1.48443603515625" d="0.492645263671875" tx="38.65" ty="102.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_0108" centerPoint3DX="92.45" centerPoint3DY="84.65">
+                  <matrix>
+                    <Matrix a="1.13180541992188" d="0.492645263671875" tx="57.45" ty="78.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_0108" centerPoint3DX="65" centerPoint3DY="131.15">
+                  <matrix>
+                    <Matrix a="2.102783203125" d="0.492645263671875" ty="124.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.3" y="14.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="64d224cb-000015f9" sourceFlashFilepath="../../1.4更新/xianmin.fla" sourceLibraryItemHRef="鸣人-跳招xx1" sourceLastModified="1342350128" lastModified="1691493579" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_001" currentFrame="2" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;82&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_450">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-133.5" ty="-260.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!772 -787|-803 -787!-803 -787|-803 811!-803 811|772 811!772 811|772 -787"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_450">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-224" ty="-260.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-803 -848|-803 911!-803 911|818 911!818 911|818 -848!818 -848|-803 -848"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片/picture_450">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-315.5" ty="-260.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-788 -764|-788 827!-788 827|772 827!772 827|772 -764!772 -764|-788 -764"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

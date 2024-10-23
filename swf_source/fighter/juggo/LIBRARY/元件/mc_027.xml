@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_027" itemID="624bb0e9-000062e2" lastModified="1649127657">
+  <timeline>
+    <DOMTimeline name="mc_027">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_056">
+                  <matrix>
+                    <Matrix a="0.769989013671875" d="0.769989013671875" tx="27.5" ty="36.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="33"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_047">
+                  <matrix>
+                    <Matrix a="0.769989013671875" d="0.769989013671875" tx="34.1" ty="36.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.5" y="33"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

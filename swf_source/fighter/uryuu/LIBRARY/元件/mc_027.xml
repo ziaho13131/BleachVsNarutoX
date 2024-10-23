@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_027" itemID="64a37d1b-000054fd" sourceFlashFilepath="../../cs3/yulong.fla" sourceLibraryItemHRef="效果/元件 28" sourceLastModified="1404481824" lastModified="1688435995" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_027">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_022" selected="true">
+                  <transformationPoint>
+                    <Point x="17" y="1.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#5DE1F4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

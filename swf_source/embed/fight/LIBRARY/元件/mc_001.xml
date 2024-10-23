@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="64787615-00000294" lastModified="1685616149">
+  <timeline>
+    <DOMTimeline name="mc_001">
+      <layers>
+        <DOMLayer name="图层 1 复制" color="#4F80FF" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!120 60S2[120 85 103 103!103 103[85 120 60 120!60 120[36 120 18 103!18 103[0 85 0 60!0 60[0 36 18 18!18 18[36 0 60 0!60 0[85 0 103 18!103 18[120 36 120 60"/>
+                    <Edge cubics="!18 18(18,18;30,6 44,0 60,0q18 18Q36 0q60 0)60,0;"/>
+                    <Edge cubics="!60 0(;77,0 91,6 103,18q60 0Q85 0q103 18)103,18;"/>
+                    <Edge cubics="!60 120(;44,120 30,114 18,103q60 120Q36 120q18 103)18,103;"/>
+                    <Edge cubics="!120 60(120,60;120,77 115,91 103,103q120 60Q120 85q103 103);"/>
+                    <Edge cubics="!103 103(;91,114 77,120 60,120q103 103Q85 120q60 120);"/>
+                    <Edge cubics="!18 103(;6,91 0,77 0,60q18 103Q0 85q0 60);"/>
+                    <Edge cubics="!0 60(;0,44 6,30 18,18q0 60Q0 36q18 18);"/>
+                    <Edge cubics="!103 18(;115,30 120,44 120,60q103 18Q120 36q120 60);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_001"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

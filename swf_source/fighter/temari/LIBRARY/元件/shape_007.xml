@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_007" itemID="624b9e3f-00003ed1" sourceFlashFilepath="../../../../../../Users/Administrator/Documents/未命名-1.fla" sourceLibraryItemHRef="元件 9" sourceLastModified="1370439792" symbolType="graphic" lastModified="1649122879" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_007">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="17" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-75.25" ty="-52.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.25" y="52.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_006" symbolType="graphic" firstFrame="17" loop="loop">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="65.75" ty="-52.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.25" y="52.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

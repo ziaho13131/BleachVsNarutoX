@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_044" itemID="64d21051-0000047d" sourceFlashFilepath="../轮回眼佐助.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-防御" sourceLastModified="1510201555" lastModified="1691488337" lastUniqueIdentifier="3" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_044" currentFrame="12">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_001" selected="true" blendMode="add" centerPoint3DX="-23.45" centerPoint3DY="28.2">
+                  <matrix>
+                    <Matrix tx="-138.45" ty="-46.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="75"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="-150"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_001" selected="true" blendMode="add" centerPoint3DX="-23.45" centerPoint3DY="28.2">
+                  <matrix>
+                    <Matrix tx="-138.45" ty="-46.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="75"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="-150"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_001" blendMode="add" centerPoint3DX="-23.45" centerPoint3DY="28.2">
+                  <matrix>
+                    <Matrix tx="-138.45" ty="-46.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="75"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="-150"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" blendMode="screen" centerPoint3DX="186.15" centerPoint3DY="312.25">
+                  <matrix>
+                    <Matrix a="1.288330078125" b="1.52587890625e-05" d="1.14276123046875" tx="-45" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_011" blendMode="screen" centerPoint3DX="-457" centerPoint3DY="-24.85">
+                  <matrix>
+                    <Matrix a="1.30001831054688" b="-1.52587890625e-05" d="1.14791870117188" tx="-457" ty="-269"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" blendMode="screen" centerPoint3DX="186.15" centerPoint3DY="312.25">
+                  <matrix>
+                    <Matrix a="1.288330078125" b="1.52587890625e-05" d="1.14276123046875" tx="-45" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" blendMode="screen" centerPoint3DX="186.15" centerPoint3DY="312.25">
+                  <matrix>
+                    <Matrix a="1.288330078125" b="1.52587890625e-05" d="1.14276123046875" tx="-45" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_034" centerPoint3DX="-16.5" centerPoint3DY="43.15">
+                  <matrix>
+                    <Matrix tx="-36" ty="16.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

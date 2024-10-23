@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_013" itemID="64a37bee-00003a4a" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="效果/效果1/元件 2 副本" sourceLastModified="1365303097" symbolType="graphic" lastModified="1688435694" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_013">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_011">
+                  <matrix>
+                    <Matrix tx="-8.55" ty="-5.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_010">
+                  <matrix>
+                    <Matrix tx="-8.55" ty="-1.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

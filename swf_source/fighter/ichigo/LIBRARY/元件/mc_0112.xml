@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_0112" itemID="64785e0b-00000bd2" sourceFlashFilepath="H:\新yihu.fla" sourceLibraryItemHRef="一护虚化-跳招" sourceLastModified="1341584430" lastModified="1685609995" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_0112">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0094" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="38" ty="-49.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.5" y="129.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0095" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="12.85" ty="-29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0096" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-17" ty="-58"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.5" y="73.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

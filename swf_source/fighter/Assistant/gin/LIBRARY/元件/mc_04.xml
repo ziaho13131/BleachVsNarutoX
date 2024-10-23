@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_04" itemID="5efc614b-000001ac" sourceFlashFilepath="../../../bleachvsnaruto.fla" sourceLibraryItemHRef="辅助-死神/辅助-夜一" sourceLastModified="1188620613" lastModified="1593598283" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_04" currentFrame="39">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_03" selected="true" centerPoint3DX="57.5" centerPoint3DY="69">
+                  <matrix>
+                    <Matrix tx="40.3" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="40" ty="52.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" symbolType="graphic" firstFrame="3" centerPoint3DX="79" centerPoint3DY="71.6" loop="single frame">
+                  <matrix>
+                    <Matrix tx="40" ty="52.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" symbolType="graphic" firstFrame="3" centerPoint3DX="79" centerPoint3DY="71.6" loop="play once">
+                  <matrix>
+                    <Matrix tx="40" ty="52.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

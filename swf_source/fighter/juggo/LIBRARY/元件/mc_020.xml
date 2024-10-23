@@ -1,0 +1,220 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_020" itemID="624bb0e9-000062db" lastModified="1649127657" lastUniqueIdentifier="22">
+  <timeline>
+    <DOMTimeline name="mc_020" currentFrame="1">
+      <layers>
+        <DOMLayer name="tkmain" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="tkanmian" centerPoint3DX="37.55" centerPoint3DY="-18.6">
+                  <matrix>
+                    <Matrix a="0.865692138671875" d="0.943496704101563" tx="-0.15" ty="-23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.55" y="41.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tzmian" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="tzmian" centerPoint3DX="26.65" centerPoint3DY="45.4">
+                  <matrix>
+                    <Matrix a="0.94085693359375" b="-3.0517578125e-05" d="2.10343933105469" tx="-5.25" ty="-50.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kanmian" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="kanmian" centerPoint3DX="21" centerPoint3DY="-12.7">
+                  <matrix>
+                    <Matrix a="0.719329833984375" d="0.973434448242188" tx="4.25" ty="-23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="1.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kj1mian" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="kj1mian" centerPoint3DX="42.05" centerPoint3DY="-2.7">
+                  <matrix>
+                    <Matrix a="3.12345886230469" d="1.34530639648438" tx="-12.3" ty="-25.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kj2mian" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="kj2mian" centerPoint3DX="58" centerPoint3DY="-0.9">
+                  <matrix>
+                    <Matrix a="0.664535522460938" d="0.811920166015625" tx="4.25" ty="-29.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh1mian" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="zh1mian" centerPoint3DX="111.1" centerPoint3DY="-9.45">
+                  <matrix>
+                    <Matrix a="6.02737426757813" d="1.03266906738281" tx="-1.7" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh2mian" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="zh2mian" centerPoint3DX="124.9" centerPoint3DY="-23.15">
+                  <matrix>
+                    <Matrix a="10.7837371826172" d="1.7054443359375" tx="-0.1" ty="-46.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh3mian" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="zh3mian" centerPoint3DX="62.5" centerPoint3DY="-104.45">
+                  <matrix>
+                    <Matrix a="1.9510498046875" b="3.0517578125e-05" d="2.86163330078125" tx="-8.2" ty="-137.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bsmian" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="bsmian" centerPoint3DX="27.05" centerPoint3DY="-17.95">
+                  <matrix>
+                    <Matrix a="7.79046630859375" b="-0.0012054443359375" c="0.0003509521484375" d="2.29264831542969" tx="-12.05" ty="-54.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sbsmian" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="sbsmian" centerPoint3DX="-475.6" centerPoint3DY="179.7">
+                  <matrix>
+                    <Matrix a="-0.0024871826171875" b="-9.09701538085938" c="37.0345764160156" d="-0.0031890869140625" tx="-750" ty="300"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cbsmian" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_019" name="cbsmian" centerPoint3DX="30.05" centerPoint3DY="28.45">
+                  <matrix>
+                    <Matrix a="2.23135375976563" b="-0.0003509521484375" c="0.000274658203125" d="1.70216369628906" tx="-4" ty="-44.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

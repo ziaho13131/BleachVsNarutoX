@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_02" itemID="62592a53-000003a7" lastModified="1650010707" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="mc_02">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_01">
+                  <matrix>
+                    <Matrix a="0.924652099609375" d="0.35552978515625" tx="-0.4" ty="-73.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01">
+                  <matrix>
+                    <Matrix a="0.294815063476563" d="0.35552978515625" tx="756.5" ty="-7.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01">
+                  <matrix>
+                    <Matrix a="0.242965698242188" d="0.35552978515625" tx="742.75" ty="-100.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01">
+                  <matrix>
+                    <Matrix a="0.294830322265625" d="0.35552978515625" tx="756.5" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" selected="true" centerPoint3DX="303.8" centerPoint3DY="-227.1">
+                  <matrix>
+                    <Matrix a="0.740707397460938" d="0.35552978515625" tx="-0.5" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_049" itemID="624c0dd4-000008e2" sourceFlashFilepath="../lee.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-砍技1" sourceLastModified="1512525713" lastModified="1649151444" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_049" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_082" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.991363525390625" b="-0.131240844726563" c="0.131240844726563" d="-0.991363525390625" tx="129.75" ty="160.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54" y="107.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-130" blueOffset="-255" greenOffset="122"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_017">
+                  <matrix>
+                    <Matrix tx="54.1" ty="17.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="40" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_050">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="-0.70709228515625" c="0.70709228515625" d="0.707107543945313" tx="45.5" ty="40.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

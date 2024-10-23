@@ -1,0 +1,304 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_017" itemID="64787615-000002a4" linkageExportForAS="true" linkageClassName="hits_mc" lastModified="1685616149" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="mc_017">
+      <layers>
+        <DOMLayer name="AS" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+this.visible=false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.visible=true;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="标签" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="20" name="fadin" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="21" name="update" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" duration="6" name="fadout" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="连击数字" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct">
+                  <matrix>
+                    <Matrix tx="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" centerPoint3DX="-5.5" centerPoint3DY="23">
+                  <matrix>
+                    <Matrix a="0.216995239257813" d="0.216995239257813" tx="-5.5" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" selected="true" centerPoint3DX="-27.3" centerPoint3DY="-4.35">
+                  <matrix>
+                    <Matrix a="1.20999145507813" d="1.20999145507813" tx="-27.3" ty="-4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" centerPoint3DX="-23.5">
+                  <matrix>
+                    <Matrix tx="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" selected="true" centerPoint3DX="-23.5" centerPoint3DY="21.5">
+                  <matrix>
+                    <Matrix d="0.595993041992188" tx="-23.5" ty="21.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" selected="true" centerPoint3DX="-23.5" centerPoint3DY="-16.5">
+                  <matrix>
+                    <Matrix d="1.22799682617188" tx="-23.5" ty="-16.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct">
+                  <matrix>
+                    <Matrix tx="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" selected="true" centerPoint3DX="-0.5" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix tx="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="ct" centerPoint3DX="-0.5" centerPoint3DY="53.6">
+                  <matrix>
+                    <Matrix d="0.0389862060546875" tx="-23.5" ty="52.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hits" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc">
+                  <matrix>
+                    <Matrix tx="65.05" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="1.8" centerPoint3DY="19.3">
+                  <matrix>
+                    <Matrix a="0.482986450195313" d="0.482986450195313" tx="1.3" ty="12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.05" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="71.1" centerPoint3DY="18.1">
+                  <matrix>
+                    <Matrix d="0.8179931640625" tx="70.05" ty="5.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.05" y="15.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc">
+                  <matrix>
+                    <Matrix tx="65.05" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="66.05" centerPoint3DY="23.15">
+                  <matrix>
+                    <Matrix d="0.709991455078125" tx="65.05" ty="12.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="66.05" centerPoint3DY="9.45">
+                  <matrix>
+                    <Matrix d="1.19398498535156" tx="65.05" ty="-8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc">
+                  <matrix>
+                    <Matrix tx="65.05" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="66.05" centerPoint3DY="18">
+                  <matrix>
+                    <Matrix tx="65.05" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_016" name="hitsmc" centerPoint3DX="66.05" centerPoint3DY="53.45">
+                  <matrix>
+                    <Matrix d="0.097991943359375" tx="65.05" ty="52"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="14.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

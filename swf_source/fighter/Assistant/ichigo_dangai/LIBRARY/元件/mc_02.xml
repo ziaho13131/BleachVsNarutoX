@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_02" itemID="5efc6240-0000076d" sourceFlashFilepath="../ichigo_padipata.fla" sourceLibraryItemHRef="Sprites/Sprite 15" sourceLastModified="1507966256" lastModified="1593598528" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_02" currentFrame="12">
+      <layers>
+        <DOMLayer name="人物" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_07">
+                  <matrix>
+                    <Matrix tx="-37.45" ty="-30.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_08">
+                  <matrix>
+                    <Matrix tx="-75.15" ty="-40.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_09">
+                  <matrix>
+                    <Matrix tx="-71.15" ty="-45.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_10">
+                  <matrix>
+                    <Matrix tx="-56.9" ty="-48.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

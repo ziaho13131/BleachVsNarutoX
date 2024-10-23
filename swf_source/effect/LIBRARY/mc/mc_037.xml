@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc/mc_037" itemID="64780cab-000003e7" linkageExportForAS="true" linkageIdentifier="XG_fykanx" linkageClassName="XG_fykanx" lastModified="1685589163" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="mc_037" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/mc_003" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.45762634277344" d="1.45762634277344" tx="-64.2" ty="-78.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43" y="59"/>
+                  </transformationPoint>
+                  <color>
+                    <Color greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/mc_002" selected="true" symbolType="graphic" centerPoint3DX="-28.5" centerPoint3DY="-1.6" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.635498046875" d="1.635498046875" tx="85.2" ty="-134.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53" y="83"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

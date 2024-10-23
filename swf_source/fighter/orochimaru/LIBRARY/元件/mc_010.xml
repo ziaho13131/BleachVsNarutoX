@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_010" itemID="624c0fe7-00000fea" sourceFlashFilepath="../../cs3/orochimaru.fla" sourceLibraryItemHRef="角色-火影/大蛇丸/一护-招2" sourceLastModified="1387247461" lastModified="1649151975" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_010" currentFrame="26">
+      <layers>
+        <DOMLayer name="图层 7" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_028" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.210693359375" d="1.210693359375" tx="47.6" ty="-17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.15" y="87.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_028" symbolType="graphic" firstFrame="3" loop="play once">
+                  <matrix>
+                    <Matrix a="1.210693359375" d="1.210693359375" tx="47.6" ty="-17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.15" y="87.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

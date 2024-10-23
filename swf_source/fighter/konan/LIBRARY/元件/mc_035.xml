@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_035" itemID="65fc5ce7-000009e3" sourceFlashFilepath="2.1更新\konan2.fla" sourceLibraryItemHRef="元件 1135" sourceLastModified="1418391984" lastModified="1711037671" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_035" currentFrame="17">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.40000915527344" d="1.40000915527344" tx="-26" ty="-86.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="105"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

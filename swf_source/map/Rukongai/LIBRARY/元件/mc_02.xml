@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_02" itemID="6258fd7a-00000175" lastModified="1649999226" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="mc_02">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" centerPoint3DX="132.7" centerPoint3DY="-18.5">
+                  <matrix>
+                    <Matrix a="0.283584594726563" d="0.35546875" tx="9.6" ty="-29.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" centerPoint3DX="457.05" centerPoint3DY="-34.5">
+                  <matrix>
+                    <Matrix a="0.174179077148438" d="0.35546875" tx="385.2" ty="-45.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" centerPoint3DX="650.5" centerPoint3DY="-10.5">
+                  <matrix>
+                    <Matrix a="0.274765014648438" d="0.35546875" tx="537.15" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" selected="true" centerPoint3DX="659.05" centerPoint3DY="-82.45">
+                  <matrix>
+                    <Matrix a="0.160186767578125" d="0.35546875" tx="592.3" ty="-93.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" centerPoint3DX="921.2" centerPoint3DY="12.8">
+                  <matrix>
+                    <Matrix a="0.190582275390625" d="0.35546875" tx="842.35" ty="2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_01" centerPoint3DX="924.95" centerPoint3DY="-58.55">
+                  <matrix>
+                    <Matrix a="0.183059692382813" d="0.35546875" tx="848.6" ty="-69.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

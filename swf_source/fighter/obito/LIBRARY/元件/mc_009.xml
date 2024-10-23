@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_009" itemID="624c1c1f-0000172a" lastModified="1676096447" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mc_009" currentFrame="66">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="58" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if($attacker_ctrler.owner_fighter_ctrler.target){
+	$attacker_ctrler.owner_fighter_ctrler.target.visible = true;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="攻击面" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_091" name="zh31atm" centerPoint3DX="18.7" centerPoint3DY="8.75">
+                  <matrix>
+                    <Matrix a="1.69944763183594" d="4.85154724121094" tx="0.15" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_091" name="zh32atm" centerPoint3DX="18.7" centerPoint3DY="8.75">
+                  <matrix>
+                    <Matrix a="1.69944763183594" d="4.85154724121094" tx="0.15" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

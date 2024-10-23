@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_059" itemID="624b9944-00002922" sourceFlashFilepath="../../cs3/rifagu.fla" sourceLibraryItemHRef="角色-死神/冬狮郎/招3 副本" sourceLastModified="1404469955" lastModified="1649121604" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_059" currentFrame="14">
+      <layers>
+        <DOMLayer name="图层 6" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_131">
+                  <matrix>
+                    <Matrix tx="-18.65" ty="-4.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_132">
+                  <matrix>
+                    <Matrix tx="-31.65" ty="-4.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_133">
+                  <matrix>
+                    <Matrix tx="-34.8" ty="-13.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片/picture_130">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-35.05" ty="-54.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!1000 -1037[1000 -943 911 -873!911 -873[813 -797 660 -797!660 -797[633 -797 596 -814!596 -814[559 -832 545 -832!545 -832[160 -850 55 -852!55 -852[-75 -860 -220 -878!-220 -878[-342 -892 -360 -892!-360 -892[#FFFE13.2B -892 -701 -863.5!-701
+ -863.5|-701 1690!-701 1690|3099 1690!3099 1690|3099 140!3099 140|2581.5 140!2581.5 140[#A3A.43 #B3.BB 2653 222!2653 222[2800 401 2800 497!2800 497[2800 584 2741 641!2741 641[2679 700 2580 700!2580 700[2361 700 2090 350!2090 350[#7DD.86
+ #FB.CD 1944.5 140!1944.5 140|1865 140!1865 140|1865 3!1865 3[1860 #FFFFF8.CB 1860 -10!1860 -10[1860 #FFFFCE.E7 1865 -81!1865 -81|1865 -539!1865 -539|1905 -539!1905 -539|1905 -1090!1905 -1090|993.5 -1090!993.5 -1090[1000 #FFFBD6.DE 1000
+ -1037"/>
+                        <Edge cubics="!2800 497(2800,497;2800,610 2715,700 2580,700q2800 497Q2800 584q2741 641Q2679 700q2580 700);"/>
+                        <Edge cubics="!1860 -10(1860,-10;1860,-34 1861,-56 1865,-81q1860 -10 1865 -81);"/>
+                        <Edge cubics="!2582 140(2582,140;2710,278 2800,416 2800,497q2582 140 2653 222Q2800 401q2800 497);"/>
+                        <Edge cubics="!994 -1090(;998,-1071 1000,-1053 1000,-1037q994 -1090 1000 -1037);"/>
+                        <Edge cubics="!1000 -1037(1000,-1037;1000,-920 875,-797 660,-797q1000 -1037Q1000 -943q911 -873Q813 -797q660 -797);"/>
+                        <Edge cubics="!660 -797(;610,-797 577,-832 545,-832q660 -797Q633 -797q596 -814Q559 -832q545 -832);"/>
+                        <Edge cubics="!545 -832(;160,-850 90,-850 55,-852q545 -832Q160 -850q55 -852);"/>
+                        <Edge cubics="!55 -852(;-175,-867 -310,-892 -360,-892q55 -852Q-75 -860q-220 -878Q-342 -892q-360 -892);"/>
+                        <Edge cubics="!-360 -892(-360,-892;-452,-892 -566,-882 -701,-863q-360 -892Q-493 -892q-701 -863);"/>
+                        <Edge cubics="!1865 -539(;1865,-539 1905,-539 1905,-539q1865 -539 1905 -539);"/>
+                        <Edge cubics="!1865 -81(;1865,-81 1865,-539 1865,-539q1865 -81 1865 -539);"/>
+                        <Edge cubics="!1905 -539(;1905,-539 1905,-1090 1905,-1090q1905 -539 1905 -1090);"/>
+                        <Edge cubics="!994 -1090(;994,-1090 1905,-1090 1905,-1090q994 -1090 1905 -1090);"/>
+                        <Edge cubics="!3099 140(;3099,140 2582,140 2582,140q3099 140 2582 140);"/>
+                        <Edge cubics="!1945 140(;1945,140 1865,140 1865,140q1945 140 1865 140);"/>
+                        <Edge cubics="!2090 350(2090,350;2039,285 1991,215 1945,140q2090 350Q2014 252q1945 140);"/>
+                        <Edge cubics="!1865 140(1865,140;1865,140 1865,3 1865,3q1865 140 1865 3);"/>
+                        <Edge cubics="!3099 140(3099,140;3099,140 3099,1690 3099,1690q3099 140 3099 1690);"/>
+                        <Edge cubics="!2580 700(;2434,700 2271,583 2090,350q2580 700Q2361 700q2090 350);"/>
+                        <Edge cubics="!1865 3(;1862,-4 1860,-8 1860,-10q1865 3Q1860 -7q1860 -10);"/>
+                        <Edge cubics="!-701 1690(;-701,1690 -701,-863 -701,-863q-701 1690 -701 -863);"/>
+                        <Edge cubics="!3099 1690(;3099,1690 -701,1690 -701,1690q3099 1690 -701 1690);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_134">
+                  <matrix>
+                    <Matrix tx="-30" ty="-4.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

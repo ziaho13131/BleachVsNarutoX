@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_013" itemID="624b96ba-00001deb" symbolType="graphic" lastModified="1649120954">
+  <timeline>
+    <DOMTimeline name="shape_013">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_386">
+                  <matrix>
+                    <Matrix a="0.573760986328125" b="-1.52587890625e-05" c="1.52587890625e-05" d="0.999984741210938" tx="5.75" ty="-60.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.5" y="51.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_386">
+                  <matrix>
+                    <Matrix a="0.999984741210938" b="-1.52587890625e-05" c="1.52587890625e-05" d="0.999984741210938" tx="-45.25" ty="-60.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_387">
+                  <matrix>
+                    <Matrix a="0.999984741210938" b="-1.52587890625e-05" c="1.52587890625e-05" d="0.999984741210938" tx="58.3" ty="-60.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

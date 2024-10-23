@@ -1,0 +1,241 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_033" itemID="5f2bf444-00000abe" sourceFlashFilepath="../../../1.7更新/minren3.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-砍技2" sourceLastModified="1374657311" lastModified="1596716100" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_033" currentFrame="45">
+      <layers>
+        <DOMLayer name="as" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="49" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_114" name="sbsatm" centerPoint3DX="-42" centerPoint3DY="-114.55">
+                  <matrix>
+                    <Matrix a="2.95413208007813" d="4.298828125" tx="-105" ty="-175.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_114" name="sbs2atm" centerPoint3DX="15" centerPoint3DY="-4.1">
+                  <matrix>
+                    <Matrix a="1.4122314453125" d="1.52224731445313" tx="-48.1" ty="-61.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="0.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_050" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix ty="-19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108" y="66.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_050" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix ty="-19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108" y="66.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="语音" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="5" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="4" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="4" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="4" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="5" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="4" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" duration="4" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="31" keyMode="9728" soundName="声音/sound_013" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="5" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="4" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="4" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="4" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="5" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="4" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" duration="4" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="31" keyMode="9728" soundEffect="custom" soundName="声音/sound_011" inPoint44="7035" outPoint44="39168" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="16532" level1="15646"/>
+                <SoundEnvelopePoint mark44="33366"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

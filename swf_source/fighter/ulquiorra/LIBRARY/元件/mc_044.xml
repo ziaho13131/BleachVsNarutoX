@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_044" itemID="624b96ba-00001dc6" sourceFlashFilepath="H:\新yihu.fla" sourceLibraryItemHRef="一护虚化-招3" sourceLastModified="1341584461" lastModified="1649120954" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_044" currentFrame="12">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_003" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.838836669921875" b="-0.5430908203125" c="0.5430908203125" d="0.838836669921875" tx="125.2" ty="53.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.05" y="-0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="32" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_117">
+                  <matrix>
+                    <Matrix tx="87.5" ty="43.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

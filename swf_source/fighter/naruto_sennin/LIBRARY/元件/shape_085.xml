@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_085" itemID="64d224cc-0000166f" symbolType="graphic" lastModified="1691493580">
+  <timeline>
+    <DOMTimeline name="shape_085" currentFrame="1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;19&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_034" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_350">
+                  <matrix>
+                    <Matrix a="-1" tx="43.2" ty="-18.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_349">
+                  <matrix>
+                    <Matrix a="-1" tx="41.2" ty="-19.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

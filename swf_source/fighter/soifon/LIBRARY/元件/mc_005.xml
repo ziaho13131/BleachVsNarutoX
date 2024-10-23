@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_005" itemID="624baaa9-000053b4" lastModified="1649126057">
+  <timeline>
+    <DOMTimeline name="mc_005" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.65" ty="7.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.4" y="4.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" centerPoint3DX="21.05" centerPoint3DY="12" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.65" ty="7.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.4" y="4.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_014" itemID="64d224cb-00001606" sourceFlashFilepath="../../1.4更新/xianmin.fla" sourceLibraryItemHRef="sprite 77" sourceLastModified="1349235695" lastModified="1691493579" lastUniqueIdentifier="4" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_014" currentFrame="15">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_123" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-1.05" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.4" y="35.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.64" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_124" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-28.15" ty="-32.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.65" y="29.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.53" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

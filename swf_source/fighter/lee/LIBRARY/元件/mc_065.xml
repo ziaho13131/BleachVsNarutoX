@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_065" itemID="624c0dd4-000008f2" sourceFlashFilepath="../lee.fla" sourceLibraryItemHRef="角色-火影/鸣人/鸣人-跳斩" sourceLastModified="1512444339" lastModified="1649151444" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_065" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_042" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="-0.70709228515625" c="0.70709228515625" d="-0.707107543945313" tx="27.6" ty="151.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.3" y="85.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-255" blueOffset="-255" greenOffset="142"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_001" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2" ty="12.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.5" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_001" symbolType="graphic" centerPoint3DX="22.5" centerPoint3DY="38.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-3.5" ty="62.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.5" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

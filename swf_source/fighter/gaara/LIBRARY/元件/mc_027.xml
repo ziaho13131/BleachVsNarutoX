@@ -1,0 +1,1993 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_027" itemID="624b95db-00001862" lastModified="1676095539" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="mc_027" currentFrame="195">
+      <layers>
+        <DOMLayer name="图层 11" color="#FF800A" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}
+
+//如果比较复杂，需要在MC内部加入代码，实现接口
+/*
+
+
+//调用效果接口，等同于parent.$effect_ctrler
+$attacker_ctrler.effect
+
+//动作结束，用于AI判断
+$attacker_ctrler.endAct();
+
+//移动
+$attacker_ctrler.move(0,0);
+
+//阻尼
+$attacker_ctrler.damping(0,0);
+
+//停止播放
+$attacker_ctrler.stop();
+
+//跳到帧并播放
+$attacker_ctrler.gotoAndPlay("帧名称");
+
+//跳到帧并停止
+$attacker_ctrler.gotoAndStop("帧名称");
+
+//落地时跳转帧
+$attacker_ctrler.setTouchFloor("帧名称");
+
+*/
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="53" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="52" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.gotoAndPlay("miss");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="112" duration="47" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.owner_fighter_ctrler.setTargetVelocity(0,-0.1);
+$attacker_ctrler.owner_fighter_ctrler.setTargetDamping(0,0);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="159" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.gotoAndPlay("end");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="182" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 13" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="65" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="65" duration="65" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" duration="48" name="big" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="178" duration="13" name="miss" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="191" duration="5" name="end" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 12" color="#FF4FFF" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs1atm" centerPoint3DX="-2.95" centerPoint3DY="2.95">
+                  <matrix>
+                    <Matrix a="2.00254821777344" d="3.1605224609375" tx="-64.85" ty="-63.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="68" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="75" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs2atm" centerPoint3DX="11.8" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="1.6741943359375" d="2.91487121582031" tx="-46" ty="-54.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.6" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="82" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs2atm" centerPoint3DX="-6.05" centerPoint3DY="6.65">
+                  <matrix>
+                    <Matrix a="1.63117980957031" d="2.92636108398438" tx="-64.1" ty="-54.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="87" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs2atm" centerPoint3DX="8.25" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix a="1.6427001953125" d="2.95639038085938" tx="-49.7" ty="-52.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="92" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs2atm" centerPoint3DX="0.2" centerPoint3DY="3.45">
+                  <matrix>
+                    <Matrix a="1.69876098632813" d="2.8262939453125" tx="-57.7" ty="-57.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbsatm" centerPoint3DX="-1.05" centerPoint3DY="-1">
+                  <matrix>
+                    <Matrix a="2.39402770996094" d="3.85986328125" tx="-79.9" ty="-79.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.95" y="20.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="152" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="180" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_032" name="cbs3atm" centerPoint3DX="7" centerPoint3DY="16.55">
+                  <matrix>
+                    <Matrix a="1.51451110839844" d="2.7518310546875" tx="-50.9" ty="-44.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="182" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 10" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="73" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="7" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="85" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="7" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="7" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="3" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53753662109375" b="-0.675674438476563" c="-0.675674438476563" d="1.53753662109375" tx="17.2" ty="-66.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="8" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53753662109375" b="-0.675674438476563" c="-0.675674438476563" d="1.53753662109375" tx="17.2" ty="-66.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-34.5" ty="69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="7" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53753662109375" b="-0.675674438476563" c="-0.675674438476563" d="1.53753662109375" tx="17.2" ty="-66.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-34.5" ty="69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.28704833984375" b="1.07890319824219" c="1.07890319824219" d="1.28704833984375" tx="-55.75" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53753662109375" b="-0.675674438476563" c="-0.675674438476563" d="1.53753662109375" tx="17.2" ty="-66.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-34.5" ty="69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.28704833984375" b="1.07890319824219" c="1.07890319824219" d="1.28704833984375" tx="-55.75" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53720092773438" b="-0.676376342773438" c="-0.676376342773438" d="1.53720092773438" tx="15.5" ty="-64.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="109" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.67947387695313" d="1.67947387695313" tx="1.7" ty="-66.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="-1.67947387695313" tx="19.6" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.41714477539063" b="-0.90130615234375" c="-0.90130615234375" d="1.41714477539063" tx="34.35" ty="-58.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-43.8" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="1.67947387695313" d="1.67947387695313" tx="-5.4" ty="-70.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.16702270507813" b="1.20774841308594" c="1.20774841308594" d="1.16702270507813" tx="-61" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="9" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53753662109375" b="-0.675674438476563" c="-0.675674438476563" d="1.53753662109375" tx="17.2" ty="-66.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="6" loop="play once">
+                  <matrix>
+                    <Matrix a="1.35459899902344" b="0.9927978515625" c="0.9927978515625" d="-1.35459899902344" tx="-34.5" ty="69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.28704833984375" b="1.07890319824219" c="1.07890319824219" d="1.28704833984375" tx="-55.75" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.53720092773438" b="-0.676376342773438" c="-0.676376342773438" d="1.53720092773438" tx="15.5" ty="-64.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_018" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.16777038574219" b="-1.20700073242188" c="-1.20700073242188" d="-1.16777038574219" tx="58.55" ty="34.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="41.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="14" blueOffset="-61" greenOffset="-28"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="120" duration="76" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 6" color="#808080" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="92" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.67620849609375" b="0.736709594726563" c="-0.736709594726563" d="-0.67620849609375" tx="235.25" ty="-240.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.35" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.67620849609375" b="0.736709594726563" c="-0.736709594726563" d="-0.67620849609375" tx="126.2" ty="-98.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.35" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="101" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.67620849609375" b="0.736709594726563" c="-0.736709594726563" d="-0.67620849609375" tx="235.25" ty="-240.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.35" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.67620849609375" b="0.736709594726563" c="-0.736709594726563" d="-0.67620849609375" tx="126.2" ty="-98.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.35" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="111" duration="85" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 9" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.915725708007813" b="0.401824951171875" c="-0.401824951171875" d="0.915725708007813" tx="-352.85" ty="-172"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.915725708007813" b="0.401824951171875" c="-0.401824951171875" d="0.915725708007813" tx="-124.8" ty="-83.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="100" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.915725708007813" b="0.401824951171875" c="-0.401824951171875" d="0.915725708007813" tx="-352.85" ty="-172"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="108" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.915725708007813" b="0.401824951171875" c="-0.401824951171875" d="0.915725708007813" tx="-124.8" ty="-83.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="109" duration="87" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 8" color="#FF4F4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="88" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.751922607421875" b="-0.65924072265625" c="0.65924072265625" d="0.751922607421875" tx="-261.45" ty="172.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.751922607421875" b="-0.65924072265625" c="0.65924072265625" d="0.751922607421875" tx="-114.55" ty="66.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="98" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.751922607421875" b="-0.65924072265625" c="0.65924072265625" d="0.751922607421875" tx="-261.45" ty="172.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.751922607421875" b="-0.65924072265625" c="0.65924072265625" d="0.751922607421875" tx="-114.55" ty="66.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" duration="89" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 7" color="#4F80FF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="86" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="86" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.997833251953125" b="0.065673828125" c="-0.065673828125" d="-0.997833251953125" tx="315.2" ty="-10.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.2" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.997833251953125" b="0.065673828125" c="-0.065673828125" d="-0.997833251953125" tx="146.15" ty="23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.2" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="96" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.997833251953125" b="0.065673828125" c="-0.065673828125" d="-0.997833251953125" tx="315.2" ty="-10.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.2" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.997833251953125" b="0.065673828125" c="-0.065673828125" d="-0.997833251953125" tx="146.15" ty="23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.2" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="105" duration="91" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="83" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="83" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.900833129882813" b="-0.434158325195313" c="0.434158325195313" d="-0.900833129882813" tx="298.85" ty="194.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.900833129882813" b="-0.434158325195313" c="0.434158325195313" d="-0.900833129882813" tx="109.8" ty="95.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.900833129882813" b="-0.434158325195313" c="0.434158325195313" d="-0.900833129882813" tx="298.85" ty="194.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.900833129882813" b="-0.434158325195313" c="0.434158325195313" d="-0.900833129882813" tx="109.8" ty="95.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="78" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.900833129882813" b="0.434158325195313" c="-0.434158325195313" d="0.900833129882813" tx="-318.55" ty="-197.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.900833129882813" b="0.434158325195313" c="-0.434158325195313" d="0.900833129882813" tx="-112.5" ty="-84.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.25" y="29.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="147" duration="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_014" symbolType="graphic" centerPoint3DX="48.4" centerPoint3DY="-112.4" loop="play once">
+                  <matrix>
+                    <Matrix a="1.39678955078125" b="-1.42681884765625" c="1.42681884765625" d="1.39678955078125" tx="-129.65" ty="-58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="61.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/shape_014" symbolType="graphic" centerPoint3DX="48.4" centerPoint3DY="125.1" loop="play once">
+                  <matrix>
+                    <Matrix a="1.39678955078125" b="1.42681884765625" c="1.42681884765625" d="-1.39678955078125" tx="-129.65" ty="71.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="61.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="73" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="402.55" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="122.55" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="47" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" centerPoint3DX="-1" centerPoint3DY="323.9" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="-1.49998474121094" c="1.5" d="9.1552734375e-05" tx="-44.5" ty="458.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="147" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" centerPoint3DX="-1" centerPoint3DY="83.9" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="-1.49998474121094" c="1.5" d="9.1552734375e-05" tx="-44.5" ty="218.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="148" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="3" centerPoint3DX="-1" centerPoint3DY="83.9" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="-1.49998474121094" c="1.5" d="9.1552734375e-05" tx="-44.5" ty="218.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136" y="28.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" firstFrame="12" loop="play once">
+                  <matrix>
+                    <Matrix a="1.68510437011719" d="1.68510437011719" tx="7.3" ty="124.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4" y="-66.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="26" blueOffset="-41" greenOffset="-2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="158" duration="38" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="65" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="65" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-386.05" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix tx="-116.05" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="25" blueOffset="45" greenOffset="35"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" duration="54" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" centerPoint3DX="-1" centerPoint3DY="-354" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="1.49998474121094" c="1.5" d="-9.1552734375e-05" tx="-44.5" ty="-489"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="147" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="2" centerPoint3DX="-1" centerPoint3DY="-54" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="1.49998474121094" c="1.5" d="-9.1552734375e-05" tx="-44.5" ty="-189"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.3" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="148" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_016" symbolType="graphic" firstFrame="3" centerPoint3DX="-1" centerPoint3DY="-54" loop="loop">
+                  <matrix>
+                    <Matrix a="9.1552734375e-05" b="1.49998474121094" c="1.5" d="-9.1552734375e-05" tx="-44.5" ty="-189"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="126.65" y="27.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="180" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_007" symbolType="graphic" firstFrame="12" centerPoint3DX="-0.5" centerPoint3DY="10.55" loop="play once">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="0.55" ty="81.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4" y="-66.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="26" blueOffset="-41" greenOffset="-2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="189" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_004">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-74.25" ty="-74.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_016">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-69.45" ty="-69.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_028">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-67.45" ty="-66.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="11.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-5.25" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="7.75" ty="13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="1.75" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-2.25" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="6.75" ty="6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="7.75" ty="15.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="0.75" ty="13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="1.75" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="2.75" ty="6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="108" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="3.75" ty="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="1.75" ty="21.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="144" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="4.75" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.15" y="-2.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="148" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_010" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="0.086883544921875" tx="4.75" ty="10.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.15" y="-2.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="178" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_076">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-66.75" ty="-71.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_088">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-57.1" ty="-58.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="180" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_012">
+                  <matrix>
+                    <Matrix a="1.37425231933594" d="1.37425231933594" tx="-25.5" ty="-29.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="181" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="73" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" duration="7" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="80" duration="5" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="85" duration="5" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="4" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="3" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="97" duration="5" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="2" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="104" duration="4" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="108" duration="2" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="110" duration="28" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="138" duration="11" keyMode="9728" soundName="声音/sound_003" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" duration="47" keyMode="9728" soundName="声音/sound_001">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

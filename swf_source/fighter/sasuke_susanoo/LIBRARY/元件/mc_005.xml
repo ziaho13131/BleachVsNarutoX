@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_005" itemID="624bb179-0000666e" lastModified="1676096954" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="mc_005" currentFrame="41">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $attacker_ctrler:*;
+
+function setAttackerCtrler(attackerCtrler:*):void{
+	$attacker_ctrler = attackerCtrler;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.effect.shine(0x000000);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[$attacker_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="sbsatm" centerPoint3DX="-2.6" centerPoint3DY="-165.35">
+                  <matrix>
+                    <Matrix a="0.00799560546875" b="1.53460693359375" c="-2.52970886230469" d="0.013214111328125" tx="49.45" ty="-99.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.9" y="19.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="sbsatm" selected="true" centerPoint3DX="-4.55" centerPoint3DY="-166.85">
+                  <matrix>
+                    <Matrix a="0.010009765625" b="1.921630859375" c="-2.52970886230469" d="0.013214111328125" tx="47.4" ty="-127.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.9" y="19.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_018" name="sbsatm" centerPoint3DX="4.3" centerPoint3DY="-165.85">
+                  <matrix>
+                    <Matrix a="0.01873779296875" b="3.59600830078125" c="-2.52970886230469" d="0.013214111328125" tx="55.65" ty="-238.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.9" y="19.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_005" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix ty="-246"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="30.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-100" blueOffset="-100" greenOffset="-100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"output": "bin-debug/FighterTester.swf",
+		"source-path": [
+			"src",
+			"res",
+			"libs"
+		],
+		"library-path": [
+			"swc"
+		]
+	},
+	"files": [
+		"src/FighterTester.as"
+	],
+	"application": "src/FighterTester-app.xml",
+	"additionalOptions": "-locale en_US\r\n-use-network=false\r\n-optimize=true\r\n-compiler.omit-trace-statements=true",
+	"airOptions": {
+		"output": "FighterTester.air"
+	},
+	"config": "air"
+}

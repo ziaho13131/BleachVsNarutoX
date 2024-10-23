@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_03" itemID="6257d548-000001b9" lastModified="1649923400" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="mc_03">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_02">
+                  <matrix>
+                    <Matrix a="0.6063232421875" d="0.35552978515625" tx="275.05" ty="-15.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" centerPoint3DX="212.35" centerPoint3DY="-111.2">
+                  <matrix>
+                    <Matrix a="0.51666259765625" d="0.35552978515625" ty="-121.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件/mc_02" centerPoint3DX="828.3" centerPoint3DY="-111.2">
+                  <matrix>
+                    <Matrix a="0.416778564453125" d="0.35552978515625" tx="656.4" ty="-121.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
