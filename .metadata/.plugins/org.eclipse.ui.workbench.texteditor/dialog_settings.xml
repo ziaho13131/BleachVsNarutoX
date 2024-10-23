@@ -3,28 +3,30 @@
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="297" key="DIALOG_WIDTH"/>
 		<item value="256" key="DIALOG_Y_ORIGIN"/>
-		<item value="1111" key="DIALOG_X_ORIGIN"/>
 		<item value="444" key="DIALOG_HEIGHT"/>
+		<item value="1111" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="true" key="wrap"/>
-		<item value="false" key="casesensitive"/>
 		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="UI" key="selection"/>
+		<item value="GameConfig" key="selection"/>
 		<list key="findhistory">
+			<item value="GameConfig"/>
+			<item value="onDeb"/>
+			<item value="@param"/>
+			<item value="@params "/>
+			<item value="Error Me"/>
+			<item value="Error Msg"/>
 			<item value="ui"/>
 			<item value="addTest"/>
-			<item value="addtest"/>
-			<item value="_testpicClass"/>
-			<item value="_isDeactived"/>
-			<item value="onDebugLog"/>
-			<item value="msg"/>
-			<item value="_mainGame"/>
 		</list>
 		<list key="replacehistory">
+			<item value="*@param "/>
+			<item value="@param"/>
 		</list>
 	</section>
 </section>
