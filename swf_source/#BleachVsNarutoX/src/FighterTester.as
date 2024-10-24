@@ -5,7 +5,8 @@ package {
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.display.StageAlign;
-	import flash.display.StageScaleMode
+	import flash.display.StageScaleMode;
+	import flash.display.StageDisplayState;
 	import flash.events.Event;
 	import flash.geom.Rectangle;
 	import flash.text.TextField;
@@ -37,14 +38,15 @@ package {
 	import net.play5d.game.obvn.stage.LoadingStage;
 	import net.play5d.kyo.display.ui.KyoSimpButton;
 	
-// 设置SWF参数
+// 设置SWF参数 (宽度为800为Release模式 : 1000则为Debugger模式)
 	[SWF(frameRate="60", backgroundColor="#000000", width="1000", height="600")]
 	
 	/**
 	 * 游戏主类
 	 */
 	public class FighterTester extends Sprite {
-		private var _debuggerMode:Boolean = true;
+		private var _debuggerMode:Boolean = stage.stageWidth != 800 && // 是否是调试模式 
+			      stage.stageHeight == 600 && stage.stageWidth == 1000;
 		private var _mainGame:MainGame;
 		private var _gameSprite:Sprite;
 		private var _testUI:Sprite;
@@ -62,17 +64,9 @@ package {
 		
 		public function FighterTester() {
 			if (stage) {
-			 // 如果不是debuggerMode 则: 重新设置游戏窗口大小
 				if (!_debuggerMode) {
-					stage.scaleMode = StageScaleMode.NO_SCALE;
-					stage.align = StageAlign.TOP_LEFT;
-					
-				// 设置舞台尺寸
-					stage.addEventListener(Event.RESIZE, onResize);
-					onResize(null);
-					
-				// 删除舞台事件监听
-					stage.removeEventListener(Event.RESIZE, onResize);
+				// 赋值DebuggerMode 到 GameConfig	
+					GameConfig.DEBUG_MODE = _debuggerMode;
 				}
 				
 			// 初始化游戏	
@@ -85,10 +79,11 @@ package {
 	/**
 	 * 重新设置游戏窗口尺寸
 	 */	
-		private function onResize(event:Event):void {
+		private function onResize(event:Event):void {	
 			stage.stageWidth = 800;
 			stage.stageHeight = 600;
-		}
+
+		}	
 		
 	/**
 	 * 初始化游戏
@@ -120,8 +115,6 @@ package {
 		// 默认设置游戏转场为不开启	
 			StateCtrl.I.transEnabled = false;
 			
-		// 赋值DebuggerMode 到 GameConfig	
-			GameConfig.DEBUG_MODE = _debuggerMode;
 		}
 		
 		private function initBackHandler():void {
