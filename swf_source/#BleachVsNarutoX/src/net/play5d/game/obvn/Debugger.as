@@ -10,6 +10,7 @@ package net.play5d.game.obvn {
 	import flash.utils.Timer;
 	
 	import net.play5d.game.obvn.ui.UIUtils;
+	import net.play5d.game.obvn.GameConfig;
 	import net.play5d.kyo.display.BitmapText;
 	
 	/**
@@ -52,8 +53,7 @@ package net.play5d.game.obvn {
 		 */
 		public static function initDebug(stage:Stage):void {
 			_stage = stage;
-			
-			showFPS();
+			if (GameConfig.DEBUG_MODE)showFPS();
 		}
 		
 		public static function addChild(d:DisplayObject):void {
