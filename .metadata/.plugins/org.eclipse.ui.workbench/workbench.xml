@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="40" version="2.0">
 <workbenchAdvisor/>
-<window height="768" maximized="true" width="1024" x="224" y="224">
+<window height="1028" maximized="true" width="976" x="952" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -12,7 +12,7 @@
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="214" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="80" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
@@ -32,17 +32,37 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor focus="true" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" partName="FighterTester.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/FighterTester.as" title="FighterTester.as" tooltip="BleachVsNarutoX/src/FighterTester.as" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" partName="FighterTester.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/FighterTester.as" title="FighterTester.as" tooltip="BleachVsNarutoX/src/FighterTester.as" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BleachVsNarutoX/src/FighterTester.as"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4014" selectionTopPixel="1887"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9159" selectionTopPixel="5354"/>
 </editor>
-<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" partName="FighterTester.as" path="C:/Users/zihao/OneDrive/Documents/BVN/OpenBvn/adobe flash builder4.7/FB/bvn_work/swf_source/#FighterTester/src/FighterTester.as" title="FighterTester.as" tooltip="FighterTester/src/FighterTester.as" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FighterTester/src/FighterTester.as"/>
-<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="3405" selectionTopPixel="1275"/>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" partName="FighterTester.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/FighterTester.as" title="FighterTester.as" tooltip="BleachVsNarutoX/src/FighterTester.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BleachVsNarutoX/src/FighterTester.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="357"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MenuStage.as" partName="MenuStage.as" path="C:/Users/zihao/OneDrive/Documents/BVN/OpenBvn/adobe flash builder4.7/FB/bvn_work/swf_source/#FighterTester/src/net/play5d/game/bvn/stage/MenuStage.as" title="MenuStage.as" tooltip="FighterTester/src/net/play5d/game/bvn/stage/MenuStage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FighterTester/src/net/play5d/game/bvn/stage/MenuStage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="4268" selectionTopPixel="1513"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MenuStage.as" partName="MenuStage.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as" title="MenuStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3215" selectionTopPixel="1921"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LoadingStage.as" partName="LoadingStage.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as" title="LoadingStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="184" selectionOffset="6604" selectionTopPixel="4454"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SettingStage.as" partName="SettingStage.as" path="C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX Project/swf_source/#BleachVsNarutoX/src/net/play5d/game/obvn/stage/SettingStage.as" title="SettingStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/SettingStage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/SettingStage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1844" selectionTopPixel="765"/>
 </editor>
 </editors>
 <views>
@@ -51,9 +71,8 @@
 </view>
 <view id="org.eclipse.search.ui.views.SearchView" partName="搜索">
 <viewState isPinned="false">
-<view IMemento.internal.id="com.adobe.flexbuilder.as.editors.searchpage" org.eclipse.search.lastActivation="2" org.eclipse.search.resultpage.layout="2"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
 <view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
-<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="3" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
 </viewState>
 </view>
 <view id="org.eclipse.debug.ui.DebugView" partName="调试">
@@ -79,10 +98,14 @@
 <viewState LINK_NAVIGATOR_TO_EDITOR="0" fpeIsFlat="0" fpeSortBy="1" sorter="1">
 <fpeExpanded>
 <fpeElement fpePath="/BleachVsNarutoX"/>
+<fpeElement fpePath="/BleachVsNarutoX/bin-release-temp"/>
 <fpeElement fpePath="/FighterTester"/>
+<fpeElement fpePath="/FighterTester/src"/>
+<fpeElement fpePath="/FighterTester/src/net/play5d/game/bvn"/>
+<fpeElement fpePath="/FighterTester/src/net/play5d/game/bvn/plot_Mode"/>
 </fpeExpanded>
 <fpeSelection>
-<fpeElement fpePath="/BleachVsNarutoX"/>
+<fpeElement fpePath="/BleachVsNarutoX/src"/>
 </fpeSelection>
 <filters>
 <filter element=".flexProperties" isEnabled="true"/>
@@ -106,11 +129,10 @@
 </filters>
 <expanded>
 <element path="/BleachVsNarutoX"/>
+<element path="/BleachVsNarutoX/bin-release-temp"/>
 <element path="/FighterTester"/>
 </expanded>
-<selection>
-<element path="/BleachVsNarutoX"/>
-</selection>
+<selection/>
 </viewState>
 </view>
 <view id="org.eclipse.debug.ui.BreakpointView" partName="断点">
@@ -140,7 +162,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePerspective="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development">
+<perspectives activePart="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" activePerspective="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.adobe.flexbuilder.mxml.editor.ui.perspectives.DevelopmentPerspectiveFactory" id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development" label="Flash"/>
 <alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
@@ -164,8 +186,8 @@
 <alwaysOnActionSet id="com.adobe.flexbuilder.dcrad.actionSet"/>
 <alwaysOnActionSet id="com.adobe.flexbuilder.zzz.editors.common.ui.project.publish"/>
 <alwaysOnActionSet id="com.adobe.flexbuilder.exportimport.actionSet1"/>
-<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
 <alwaysOnActionSet id="com.adobe.flexbuilder.as.editor.ui.NavigationActions"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
 <show_view_action id="com.adobe.flexbuilder.packageexplorer"/>
 <show_view_action id="org.eclipse.ui.views.ContentOutline"/>
 <show_view_action id="org.eclipse.ui.views.ProblemView"/>
@@ -359,168 +381,166 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/FighterTester/src/net/play5d/game/bvn/stage/MenuStage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/FighterTester/src/net/play5d/game/bvn/stage/SelectFighterStage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/FighterTester.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/FighterTester/src/FighterTester.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/libs/net/play5d/kyo/display/MCNumber.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/libs/net/play5d/kyo/display/ui/KyoSimpButton.as"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX%20Project/README.md"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/FighterTester/src/net/play5d/game/bvn/MainGame.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/FighterTester/src/net/play5d/game/bvn/Debugger.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/libs/net/play5d/kyo/stage/KyoStageCtrl.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/GameConfig.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/interfaces/GameInterface.as"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/CreditsStage.as"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/ui/MenuBtnGroup.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/input/GameInputer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/SelectFighterStage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/MainGame.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/SettingStage.as"/>
 </editors>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="5650" y="7"/>
+<item historyLabel="MenuStage.as" index="1">
+<position info="not_deleted" x="4268" y="29"/>
 </item>
-<item historyLabel="MCNumber.as" index="2">
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="5456" y="0"/>
+</item>
+<item historyLabel="MenuStage.as" index="1">
+<position info="not_deleted" x="4268" y="29"/>
+</item>
+<item historyLabel="SelectFighterStage.as" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="5650" y="7"/>
+<item historyLabel="SelectFighterStage.as" index="2">
+<position info="not_deleted" x="23753" y="191"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="4571" y="0"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="5456" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="2898" y="0"/>
+<item historyLabel="SelectFighterStage.as" index="2">
+<position info="not_deleted" x="23595" y="22"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3941" y="0"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="5456" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6619" y="13"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6589" y="22"/>
 </item>
-<item historyLabel="KyoSimpButton.as" index="3">
-<position info="not_deleted" x="553" y="8"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="5456" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6647" y="6"/>
+<item historyLabel="FighterTester.as" index="4">
+<position info="not_deleted" x="7584" y="0"/>
 </item>
-<item historyLabel="KyoSimpButton.as" index="3">
-<position info="not_deleted" x="434" y="0"/>
+<item historyLabel="MenuStage.as" index="1">
+<position info="not_deleted" x="4268" y="29"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6647" y="6"/>
-</item>
-<item historyLabel="KyoSimpButton.as" index="3">
-<position info="not_deleted" x="434" y="0"/>
-</item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6647" y="6"/>
-</item>
-<item historyLabel="KyoSimpButton.as" index="3">
+<item historyLabel="LoadingStage.as" index="3">
 <position/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6647" y="6"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="446" y="51"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3941" y="0"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6819" y="18"/>
 </item>
-<item historyLabel="KyoSimpButton.as" index="3">
-<position info="not_deleted" x="558" y="0"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="5456" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="6647" y="6"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6819" y="18"/>
 </item>
-<item historyLabel="KyoSimpButton.as" index="3">
-<position info="not_deleted" x="486" y="0"/>
+<item historyLabel="GameInputer.as" index="6">
+<position info="not_deleted" x="991" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="2342" y="0"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6608" y="19"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3941" y="0"/>
-</item>
-<item historyLabel="README.md" index="4">
-<position info="not_deleted" x="1604" y="0"/>
-</item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3941" y="0"/>
-</item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="2342" y="0"/>
-</item>
-<item historyLabel="MainGame.as" index="5">
+<item historyLabel="SelectFighterStage.as" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Debugger.as" index="6">
-<position info="not_deleted" x="576" y="63"/>
+<item historyLabel="SelectFighterStage.as" index="7">
+<position info="not_deleted" x="15439" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="1686" y="0"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6608" y="19"/>
 </item>
-<item historyLabel="Debugger.as" index="6">
-<position info="not_deleted" x="117" y="0"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="4266" y="12"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="2997" y="0"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="README.md" index="4">
-<position info="not_deleted" x="1604" y="0"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6608" y="19"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="1663" y="45"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3436" y="0"/>
 </item>
-<item historyLabel="KyoStageCtrl.as" index="7">
-<position info="not_deleted" x="989" y="0"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="3082" y="9"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="1750" y="13"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3471" y="0"/>
 </item>
-<item historyLabel="GameConfig.as" index="8">
-<position info="not_deleted" x="560" y="0"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="3131" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3941" y="0"/>
+<item historyLabel="MenuStage.as" index="1">
+<position info="not_deleted" x="4268" y="29"/>
 </item>
-<item historyLabel="GameConfig.as" index="8">
-<position info="not_deleted" x="530" y="10"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3471" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position/>
+<item historyLabel="MenuStage.as" index="1">
+<position info="not_deleted" x="4268" y="29"/>
 </item>
-<item historyLabel="GameConfig.as" index="8">
-<position info="not_deleted" x="530" y="10"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3471" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="1750" y="13"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3241" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3212" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="3737" y="0"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="3131" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="1">
-<position info="not_deleted" x="3405" y="19"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3366" y="0"/>
 </item>
-<item historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="4297" y="0"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="3131" y="0"/>
 </item>
-<item historyLabel="GameInterface.as" index="9">
-<position info="not_deleted" x="220" y="10"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="3349" y="34"/>
 </item>
-<item historyLabel="CreditsStage.as" index="10">
-<position info="not_deleted" x="1466" y="10"/>
+<item historyLabel="MenuBtnGroup.as" index="5">
+<position info="not_deleted" x="7098" y="8"/>
 </item>
-<item historyLabel="GameInterface.as" index="9">
-<position info="not_deleted" x="220" y="10"/>
+<item historyLabel="MainGame.as" index="8">
+<position info="not_deleted" x="4470" y="8"/>
 </item>
-<item historyLabel="CreditsStage.as" index="10">
-<position info="not_deleted" x="1466" y="10"/>
+<item historyLabel="SettingStage.as" index="9">
+<position info="not_deleted" x="1105" y="0"/>
 </item>
-<item historyLabel="CreditsStage.as" index="10">
-<position info="not_deleted" x="2553" y="10"/>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="2787" y="28"/>
 </item>
-<item historyLabel="MenuBtnGroup.as" index="11">
-<position info="not_deleted" x="2009" y="0"/>
+<item historyLabel="SettingStage.as" index="9">
+<position info="not_deleted" x="1105" y="0"/>
 </item>
-<item active="true" historyLabel="FighterTester.as" index="0">
-<position info="not_deleted" x="4297" y="0"/>
+<item historyLabel="MenuStage.as" index="0">
+<position info="not_deleted" x="3215" y="0"/>
+</item>
+<item historyLabel="LoadingStage.as" index="3">
+<position info="not_deleted" x="6604" y="184"/>
+</item>
+<item historyLabel="SettingStage.as" index="9">
+<position info="not_deleted" x="1844" y="0"/>
+</item>
+<item historyLabel="FighterTester.as" index="4">
+<position info="not_deleted" x="9159" y="0"/>
+</item>
+<item historyLabel="SettingStage.as" index="9">
+<position info="not_deleted" x="1844" y="0"/>
+</item>
+<item active="true" historyLabel="FighterTester.as" index="4">
+<position info="not_deleted" x="9159" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -528,6 +548,10 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@126c885"/>
+<trimItem IMemento.internal.id="outlineHolder"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -536,54 +560,55 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomLayout"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MenuBtnGroup.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/ui/MenuBtnGroup.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/ui/MenuBtnGroup.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SelectFighterStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/SelectFighterStage.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/SelectFighterStage.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GameInputer.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/input/GameInputer.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/input/GameInputer.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LoadingStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/LoadingStage.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SelectFighterStage.as" tooltip="FighterTester/src/net/play5d/game/bvn/stage/SelectFighterStage.as">
+<persistable path="/FighterTester/src/net/play5d/game/bvn/stage/SelectFighterStage.as"/>
+</file>
 <file factoryID="com.adobe.flexbuilder.editors.derived.ui.startpage.StartPageEditorInput" id="com.adobe.flexbuilder.ui.StartPage" name="Web 浏览器" tooltip="Flash Builder 欢迎屏幕">
 <persistable iconpath="platform:/plugin/com.adobe.flexbuilder.ui/icons/fb_app_16.png" style="20" tooltip="Flash Builder 欢迎屏幕" url="file:/C:/Program Files (x86)/Adobe/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flexbuilder.ui.nl1_4.7.0.349722/nl/zh/welcome/index.html?firstLaunch=false&amp;edition=prem&amp;version=470"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MenuStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/MenuStage.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MainGame.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/MainGame.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/MainGame.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GameCtrler.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/ctrl/game_ctrler/GameCtrler.as">
+<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/ctrl/game_ctrler/GameCtrler.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" tooltip="BleachVsNarutoX/src/FighterTester.as">
+<persistable path="/BleachVsNarutoX/src/FighterTester.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MainGame.as" tooltip="FighterTester/src/net/play5d/game/bvn/MainGame.as">
+<persistable path="/FighterTester/src/net/play5d/game/bvn/MainGame.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Debugger.as" tooltip="FighterTester/src/net/play5d/game/bvn/Debugger.as">
+<persistable path="/FighterTester/src/net/play5d/game/bvn/Debugger.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Main_plot_Mode.as" tooltip="FighterTester/src/net/play5d/game/bvn/plot_Mode/Main_plot_Mode.as">
+<persistable path="/FighterTester/src/net/play5d/game/bvn/plot_Mode/Main_plot_Mode.as"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GameConfig.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/GameConfig.as">
 <persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/GameConfig.as"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="KyoStageCtrl.as" tooltip="BleachVsNarutoX/libs/net/play5d/kyo/stage/KyoStageCtrl.as">
 <persistable path="/BleachVsNarutoX/libs/net/play5d/kyo/stage/KyoStageCtrl.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Debugger.as" tooltip="FighterTester/src/net/play5d/game/bvn/Debugger.as">
-<persistable path="/FighterTester/src/net/play5d/game/bvn/Debugger.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MCNumber.as" tooltip="BleachVsNarutoX/libs/net/play5d/kyo/display/MCNumber.as">
-<persistable path="/BleachVsNarutoX/libs/net/play5d/kyo/display/MCNumber.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StateCtrl.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/ctrl/StateCtrl.as">
-<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/ctrl/StateCtrl.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Assister.as" tooltip="FighterTester/src/net/play5d/game/bvn/fighter/Assister.as">
-<persistable path="/FighterTester/src/net/play5d/game/bvn/fighter/Assister.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="KyoSoundLoader.as" tooltip="BleachVsNarutoX/libs/net/play5d/kyo/loader/KyoSoundLoader.as">
-<persistable path="/BleachVsNarutoX/libs/net/play5d/kyo/loader/KyoSoundLoader.as"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="README.md" tooltip="C:\Users\zihao\OneDrive\Documents\BVN\BleachVsNarutoX Project\README.md">
-<persistable uri="file:/C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX%20Project/README.md"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="CreditsStage.as" tooltip="BleachVsNarutoX/src/net/play5d/game/obvn/stage/CreditsStage.as">
-<persistable path="/BleachVsNarutoX/src/net/play5d/game/obvn/stage/CreditsStage.as"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="README.md" tooltip="C:\Users\zihao\Downloads\README.md">
-<persistable uri="file:/C:/Users/zihao/Downloads/README.md"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="CHANGELOG.md" tooltip="C:\Users\zihao\OneDrive\Documents\BVN\BleachVsNarutoX Project\CHANGELOG.md">
-<persistable uri="file:/C:/Users/zihao/OneDrive/Documents/BVN/BleachVsNarutoX%20Project/CHANGELOG.md"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" tooltip="FighterTester/src/FighterTester.as">
-<persistable path="/FighterTester/src/FighterTester.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FighterTester.as" tooltip="BleachVsNarutoX/src/FighterTester.as">
-<persistable path="/BleachVsNarutoX/src/FighterTester.as"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="FighterTester-app.xml" tooltip="BleachVsNarutoX/bin-release-temp/FighterTester-app.xml">
-<persistable path="/BleachVsNarutoX/bin-release-temp/FighterTester-app.xml"/>
 </file>
 </mruList>
 </workbench>

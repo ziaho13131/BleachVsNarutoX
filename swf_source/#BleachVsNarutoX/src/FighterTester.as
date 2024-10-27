@@ -4,9 +4,6 @@
 package {
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
-	import flash.display.StageAlign;
-	import flash.display.StageScaleMode;
-	import flash.display.StageDisplayState;
 	import flash.events.Event;
 	import flash.geom.Rectangle;
 	import flash.text.TextField;
@@ -74,15 +71,6 @@ package {
 				return;
 			}
 			addEventListener(Event.ADDED_TO_STAGE, initlize);
-		}
-		
-	/**
-	 * 重新设置游戏窗口尺寸
-	 */	
-		private function onResize(event:Event):void {	
-			stage.stageWidth = 800;
-			stage.stageHeight = 600;
-
 		}	
 		
 	/**
@@ -126,6 +114,9 @@ package {
 			     trace("initlize.initFailHandler :: Failed to initlize Game "+msg);
 		}
 		
+	/**
+	 * 创建调试器UI
+	 */
 		private function buildTestUI():void {
 		 // 添加测试机底框
 			_testUI = new Sprite();
@@ -198,6 +189,7 @@ package {
 	 * *@param txt 选项字符串
 	 * *@param y 选项y轴
 	 * *@param x 选项x轴
+	 * *@return 返回输入字体
 	 */
 		private function addLabel(txt:String, y:Number = 0, x:Number = 0):TextField {
 		// 设置字体样式	
@@ -221,6 +213,7 @@ package {
 	 * *@param txt 输入字符串
 	 * *@param y 输入y轴
 	 * *@param x 输入x轴
+	 * *@return 返回输入字体
 	 */	
 		private function addInput(txt:String, y:Number = 0, x:Number = 0):TextField {
 			var tf:TextFormat = new TextFormat();
@@ -250,7 +243,8 @@ package {
 	 * *@param x 按钮x轴
 	 * *@param width 按钮宽度
 	 * *@param height 按钮高度
-	 * *@param click 按钮回调函数 
+	 * *@param click 按钮回调函数
+	 * *@return 返回Kyo简易按钮
 	 */	
 		private function addButton(
 			label:String,
@@ -281,35 +275,64 @@ package {
 			_debugText.text = msg;
 		}
 		
+	/**
+	 * 设置帧数
+	 */
 		private function changeFPS(...params):void {
+		
+		// 定义变量FPS赋值: 整数类型转换(fps字体) 
 			var fps:int = int(_fpsInput.text);
 			
+		// 游戏配置: 设置游戏帧数(FPS) 
 			GameConfig.setGameFps(fps);
+		
+		// 舞台设置帧数上限赋值: FPS  
 			stage.frameRate = fps;
 		}
 		
+	/**
+	 * 调试游戏
+	 */
 		private function testGame(...params):void {
+		
+		// 设置帧数
 			changeFPS();
+			
+		// 游戏当前模式赋值: 训练模式
 			GameMode.currentMode = GameMode.TRAINING;
+			
+		// 训练接口是否自动回血赋值: 自动回血输入字体不等于"0"
 			TrainingCtrler.RECOVER_HP = _autoReceiveHp.text != "0";
 			
+		// 游戏数据: P1选择赋值: 新的选人参数, P2选择赋值: 新的选人参数
 			GameData.I.p1Select = new SelectVO();
 			GameData.I.p2Select = new SelectVO();
-			
+		
+		/* 游戏数据: P1角色赋值: p1输入字体，P2角色赋值: p2输入字体，
+			 P1辅助赋值: p1辅助输入字体，P2辅助赋值: p2辅助输入字体 
+			 选择地图赋值: 地图输入字体
+		*/
 			GameData.I.p1Select.fighter1 = _p1InputId.text;
 			GameData.I.p2Select.fighter1 = _p2InputId.text;
 			GameData.I.p1Select.fuzhu = _p1FzInputId.text;
 			GameData.I.p2Select.fuzhu = _p2FzInputId.text;
 			GameData.I.selectMap = _mapInputId.text;
 			
+		// 重新加载游戏
 			loadGame();
 		}
 		
+	/**
+	 * 重新加载游戏
+	 */
 		private static function loadGame():void {
 			var ls:LoadingStage = new LoadingStage();
 			MainGame.stageCtrl.goStage(ls);
 		}
 		
+	/**
+	 * 即死P2角色
+	 */
 		private function killP2(...params):void {
 			var rundata:GameRunDataVO = GameCtrler.I.gameRunData;
 			if (!rundata) {

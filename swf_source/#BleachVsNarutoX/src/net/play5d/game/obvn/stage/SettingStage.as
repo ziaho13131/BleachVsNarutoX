@@ -10,6 +10,7 @@ package net.play5d.game.obvn.stage {
 	import net.play5d.game.obvn.GameConfig;
 	import net.play5d.game.obvn.MainGame;
 	import net.play5d.game.obvn.ctrl.AssetManager;
+	import net.play5d.game.obvn.ctrl.GameRender;
 	import net.play5d.game.obvn.ctrl.SoundCtrl;
 	import net.play5d.game.obvn.data.ConfigVO;
 	import net.play5d.game.obvn.data.GameData;
@@ -17,6 +18,7 @@ package net.play5d.game.obvn.stage {
 	import net.play5d.game.obvn.event.SetBtnEvent;
 	import net.play5d.game.obvn.input.GameInputer;
 	import net.play5d.game.obvn.interfaces.IInnerSetUI;
+	import net.play5d.game.obvn.ui.GameUI;
 	import net.play5d.game.obvn.ui.SetBtnGroup;
 	import net.play5d.game.obvn.ui.SetCtrlBtnUI;
 	import net.play5d.game.obvn.utils.ResUtils;
@@ -52,6 +54,21 @@ package net.play5d.game.obvn.stage {
 			_man = _ui.ichigo;
 			
 			SoundCtrl.I.BGM(AssetManager.I.getSound("back"));
+			GameRender.add(render);
+		}
+		
+	 /**
+	 * 设置界面总渲染器
+	 * 注: 未来可能还会加东西
+	  */
+		public function render():void {
+			if (GameInputer.back(1)) {
+				if (GameUI.showingDialog()) {
+					GameUI.closeConfrim();
+				} else {
+					GameUI.confirm("BACK TITLE", "返回到主菜单？", MainGame.I.goMenu);
+				}
+			}	
 		}
 		
 		private static function onOptionChange(e:SetBtnEvent):void {
@@ -112,6 +129,7 @@ package net.play5d.game.obvn.stage {
 			
 			try {
 				_ui.removeChild(_innerSetUI.getUI());
+				GameRender.remove(render);
 			}
 			catch (e:Error) {
 			}

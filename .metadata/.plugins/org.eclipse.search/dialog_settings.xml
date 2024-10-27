@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="com.adobe.flexbuilder.as.editors.searchpage">
-	</section>
 	<section name="">
 		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="com.adobe.flexbuilder.as.editors.searchpage">
 	</section>
 	<section name="">
 		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
@@ -37,7 +37,7 @@
 		<item value="12" key="HISTORY_SIZE"/>
 		<section name="HISTORY11">
 			<item value="false" key="isRegExSearch"/>
-			<item value="/*" key="textPattern"/>
+			<item value="GameUI.showingDialog()" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -51,7 +51,7 @@
 		</section>
 		<section name="HISTORY10">
 			<item value="false" key="isRegExSearch"/>
-			<item value="测试" key="textPattern"/>
+			<item value="jump" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -62,7 +62,7 @@
 		</section>
 		<section name="HISTORY9">
 			<item value="false" key="isRegExSearch"/>
-			<item value="params" key="textPattern"/>
+			<item value="GameInputer.jump" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -73,7 +73,7 @@
 		</section>
 		<section name="HISTORY8">
 			<item value="false" key="isRegExSearch"/>
-			<item value="MainGame" key="textPattern"/>
+			<item value="GameUI.confirm(&quot;RE SELECT?&quot;,&quot;重新选择？&quot;,MainGame.I.goSelect);" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -84,7 +84,7 @@
 		</section>
 		<section name="HISTORY5">
 			<item value="false" key="isRegExSearch"/>
-			<item value="KyoSimpButton" key="textPattern"/>
+			<item value="GameInputer.back(1)" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -95,7 +95,7 @@
 		</section>
 		<section name="HISTORY4">
 			<item value="false" key="isRegExSearch"/>
-			<item value="debugMode" key="textPattern"/>
+			<item value="MenuBtnGroup" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -106,7 +106,7 @@
 		</section>
 		<section name="HISTORY7">
 			<item value="false" key="isRegExSearch"/>
-			<item value="@params" key="textPattern"/>
+			<item value="GameInputer.jump(GameInputType." key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -117,7 +117,7 @@
 		</section>
 		<section name="HISTORY6">
 			<item value="false" key="isRegExSearch"/>
-			<item value="* @" key="textPattern"/>
+			<item value="GameInputer" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -128,7 +128,7 @@
 		</section>
 		<section name="HISTORY2">
 			<item value="false" key="isRegExSearch"/>
-			<item value="GameConfig" key="textPattern"/>
+			<item value="Config" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -139,7 +139,7 @@
 		</section>
 		<section name="HISTORY3">
 			<item value="false" key="isRegExSearch"/>
-			<item value="debugger" key="textPattern"/>
+			<item value="selectBtn" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -150,7 +150,7 @@
 		</section>
 		<section name="HISTORY0">
 			<item value="false" key="isRegExSearch"/>
-			<item value="getDefault" key="textPattern"/>
+			<item value="SettingStage" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">
@@ -161,7 +161,7 @@
 		</section>
 		<section name="HISTORY1">
 			<item value="false" key="isRegExSearch"/>
-			<item value="goLogo" key="textPattern"/>
+			<item value="goOption" key="textPattern"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="ignoreCase"/>
 			<list key="fileNamePatterns">

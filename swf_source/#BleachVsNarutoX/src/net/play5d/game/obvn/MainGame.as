@@ -116,7 +116,7 @@ package net.play5d.game.obvn {
 		
 		public function goLogo():void {
 			stageCtrl.goStage(new LogoStage());
-			setFPS(30);
+			setFPS(GameConfig.FPS_GAME);
 		}
 		
 		public function goMenu():void {
@@ -130,7 +130,7 @@ package net.play5d.game.obvn {
 			resetDefault();
 			stageCtrl.goStage(new MenuStage());
 			
-			setFPS(30);
+			setFPS(60);
 		}
 		
 		public function goHowToPlay():void {
@@ -163,7 +163,7 @@ package net.play5d.game.obvn {
 		public function goOption():void {
 			stageCtrl.goStage(new SettingStage());
 			
-			setFPS(30);
+			setFPS(GameConfig.FPS_GAME);
 		}
 		
 		public function goContinue():void {
@@ -171,7 +171,7 @@ package net.play5d.game.obvn {
 			stg.showContinue();
 			stageCtrl.goStage(stg);
 			
-			setFPS(30);
+			setFPS(GameConfig.FPS_GAME);
 		}
 		
 //		public function goGameOver():void {
@@ -185,7 +185,7 @@ package net.play5d.game.obvn {
 		public function goWinner():void {
 			var stg:WinnerStage = new WinnerStage();
 			stageCtrl.goStage(stg);
-			setFPS(30);
+			setFPS(GameConfig.FPS_GAME);
 		}
 		
 		public function goCredits():void {

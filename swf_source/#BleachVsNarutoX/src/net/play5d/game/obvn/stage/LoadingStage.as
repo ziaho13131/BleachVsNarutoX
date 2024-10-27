@@ -26,6 +26,7 @@ package net.play5d.game.obvn.stage {
 	import net.play5d.game.obvn.data.SelectVO;
 	import net.play5d.game.obvn.fighter.Assister;
 	import net.play5d.game.obvn.fighter.FighterMain;
+	import net.play5d.game.obvn.input.GameInputType;
 	import net.play5d.game.obvn.input.GameInputer;
 	import net.play5d.game.obvn.map.MapMain;
 	import net.play5d.game.obvn.ui.GameUI;
@@ -273,9 +274,16 @@ package net.play5d.game.obvn.stage {
 			if (GameInputer.back(1)) {
 				if (GameUI.showingDialog()) {
 					GameUI.closeConfrim();
-				}
-				else {
+				} else {
 					GameUI.confirm("BACK TITLE", "返回到主菜单？", MainGame.I.goMenu);
+				}
+			}	
+				
+			if (GameInputer.jump(GameInputType.MENU,1)) {
+				if (GameUI.showingDialog()) {
+					GameUI.closeConfrim();
+				} else {
+					GameUI.confirm("RE SELECT?","重新选择？",MainGame.I.goSelect);
 				}
 			}
 		}

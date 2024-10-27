@@ -598,8 +598,9 @@ package net.play5d.game.obvn.stage {
 				_closeDelay = 5;
 				return;
 			}
+			
 			else if (GameInputer.jump(GameInputType.P1, 1)) {
-				GameUI.confirm("RESELECT", "重新选择？", MainGame.I.goSelect);
+				GameUI.confirm("RE SELECT?", "重新选择？", MainGame.I.goSelect);
 			}
 			
 			if (_closeDelay > 0) {

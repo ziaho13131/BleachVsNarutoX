@@ -120,6 +120,9 @@ package net.play5d.game.obvn.ui {
 					break;
 				case MouseEvent.CLICK:
 					selectBtn(target);
+				
+				// 修复触发状态可以返回菜单的BUG		
+					GameInputer.enabled = false;
 			}
 		}
 		
@@ -127,7 +130,9 @@ package net.play5d.game.obvn.ui {
 			if (target.children && target.children.length > 0) {
 				hoverBtn(target);
 				selectBtn(target);
-				
+			
+			// 修复触发状态可以返回菜单的BUG		
+				GameInputer.enabled = false;
 				return;
 			}
 			if (!target.isHover()) {
@@ -208,6 +213,12 @@ package net.play5d.game.obvn.ui {
 			target.select(function ():void {
 				if (func != null) {
 					func();
+				
+				// 修复触发状态可以返回菜单的BUG	
+					GameInputer.enabled = true;
+				}
+				else {
+					GameInputer.enabled = true;
 				}
 				
 				this.mouseChildren = true;
@@ -431,10 +442,11 @@ package net.play5d.game.obvn.ui {
 				hoverBtn(btns[_btnIndex]);
 			}
 			
-			if (GameInputer.select(GameInputType.MENU, 1)) {
+			if (GameInputer.attack(GameInputType.MENU, 1)) {
 				selectBtn(btns[_btnIndex]);
 			}
-			if (GameInputer.back(1)) {
+			
+			if (GameInputer.jump(GameInputType.MENU, 1)) {
 				if (_showIngChildrenBtn) {
 					_btnIndex = _showIngChildrenBtn.index;
 					closeChildren(true, true);
