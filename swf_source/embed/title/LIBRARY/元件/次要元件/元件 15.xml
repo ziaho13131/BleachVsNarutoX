@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/次要元件/元件 15" itemID="57fc98c7-000002e1" lastModified="1729895087">
+  <timeline>
+    <DOMTimeline name="元件 15" currentFrame="42">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="35" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/次要元件/元件 9" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="44" y="44"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="36" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/次要元件/元件 9" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44" y="44"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/次要元件/元件 9" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="44" y="44"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
